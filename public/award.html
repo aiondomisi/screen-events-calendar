@@ -1,0 +1,301 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Film & TV Award Calendar</title>
+    <style>
+      body {
+        font-family:
+          -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        max-width: 640px;
+        margin: 4rem auto;
+        padding: 0 1.5rem;
+        line-height: 1.6;
+        color: #1a1a1a;
+      }
+
+      h1 {
+        margin-bottom: 0.25rem;
+      }
+
+      h2 {
+        margin-top: 2rem;
+        margin-bottom: 0.5rem;
+      }
+
+      .subtitle {
+        color: #666;
+        margin-top: 0;
+      }
+
+      .back {
+        display: inline-block;
+        margin-bottom: 1rem;
+        color: #666;
+        text-decoration: none;
+      }
+
+      .instruction {
+        border: 1px solid #666;
+        border-radius: 10px;
+        padding: 0px 15px;
+      }
+
+      .instruction p {
+        margin-left: 10px;
+      }
+
+      .back:hover {
+        color: #1a1a1a;
+      }
+
+      .calendar {
+        border-top: 1px solid #e5e5e5;
+        padding-top: 1rem;
+        margin-top: 1.5rem;
+        flex-direction: column;
+        display: flex;
+      }
+
+      .calendar:first-of-type {
+        margin-top: 2rem;
+      }
+
+      .calendar-title {
+        margin: 0 0 0.5rem;
+      }
+
+      .subscribe {
+        margin: 1rem 0;
+        padding: 0.65rem 1rem;
+        background: #1a1a1a;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 6px;
+        font-weight: 600;
+        text-align: center;
+      }
+
+      .subscribe:hover {
+        background: #333;
+      }
+
+      .url {
+        display: flex;
+        align-items: stretch;
+        margin-top: 0.5rem;
+      }
+
+      .url code {
+        flex: 1;
+        min-width: 0;
+        background: #f2f2f2;
+        padding: 0.6rem 0.75rem;
+        border-radius: 4px 0 0 4px;
+        font-size: 0.9em;
+        word-break: break-all;
+        margin: 0;
+      }
+
+      .copy {
+        flex-shrink: 0;
+        border: 0;
+        padding: 0 0.75rem;
+        background: #e5e5e5;
+        color: #1a1a1a;
+        cursor: pointer;
+        border-radius: 0 4px 4px 0;
+        font: inherit;
+      }
+
+      .copy:hover {
+        background: #d5d5d5;
+      }
+
+      .meta {
+        font-size: 0.9rem;
+        color: #666;
+        border-top: 1px solid #e5e5e5;
+        margin-top: 2rem;
+        padding-top: 1rem;
+      }
+
+      .meta a {
+        color: inherit;
+      }
+    </style>
+  </head>
+
+  <body>
+    <a class="back" href="index.html">← Screen Events Calendar</a>
+
+    <h1>Film & TV Award Calendar</h1>
+
+    <p class="back">
+      Click a <strong>Subscribe</strong> button to add the calendar directly to
+      your calendar app. This may only work in supported browsers such as
+      Chrome. If it doesn't work, copy the calendar URL above and paste or
+      import it manually into your calendar app.
+    </p>
+
+    <div class="instruction">
+      <p>Guide on how to add ics file into your calendar app</p>
+      <ul>
+        <li>
+          <a
+            href="https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Google Calendar (Use a link to add a public calendar section)
+          </a>
+          — Add a calendar from a URL
+        </li>
+        <li>
+          <a
+            href="https://support.apple.com/en-gb/guide/calendar/icl1022/mac"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Apple Calendar
+          </a>
+          — Subscribe using a calendar URL
+        </li>
+        <li>
+          <a
+            href="https://support.microsoft.com/en-us/outlook/import-or-subscribe-to-a-calendar-in-outlook-com-or-outlook-on-the-web"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Microsoft Outlook
+          </a>
+          — Subscribe from web using the ICS URL
+        </li>
+      </ul>
+    </div>
+
+    <div class="calendar">
+      <h2 class="calendar-title">All Awards</h2>
+
+      <div class="url">
+        <code
+          >https://aiondomisi.github.io/screen-events-calendar/awards.ics</code
+        >
+        <button class="copy" type="button" onclick="copyUrl(this)">Copy</button>
+      </div>
+
+      <a
+        class="subscribe"
+        href="webcal://aiondomisi.github.io/screen-events-calendar/awards.ics"
+      >
+        Subscribe to All Awards
+      </a>
+    </div>
+
+    <div class="calendar">
+      <h2 class="calendar-title">Asia</h2>
+
+      <div class="url">
+        <code
+          >https://aiondomisi.github.io/screen-events-calendar/award-asia.ics</code
+        >
+        <button class="copy" type="button" onclick="copyUrl(this)">Copy</button>
+      </div>
+
+      <a
+        class="subscribe"
+        href="webcal://aiondomisi.github.io/screen-events-calendar/award-asia.ics"
+      >
+        Subscribe to Asia
+      </a>
+    </div>
+
+    <div class="calendar">
+      <h2 class="calendar-title">Europe</h2>
+
+      <div class="url">
+        <code
+          >https://aiondomisi.github.io/screen-events-calendar/award-europe.ics</code
+        >
+        <button class="copy" type="button" onclick="copyUrl(this)">Copy</button>
+      </div>
+
+      <a
+        class="subscribe"
+        href="webcal://aiondomisi.github.io/screen-events-calendar/award-europe.ics"
+      >
+        Subscribe to Europe
+      </a>
+    </div>
+
+    <div class="calendar">
+      <h2 class="calendar-title">North America</h2>
+
+      <div class="url">
+        <code
+          >https://aiondomisi.github.io/screen-events-calendar/award-north-america.ics</code
+        >
+        <button class="copy" type="button" onclick="copyUrl(this)">Copy</button>
+      </div>
+
+      <a
+        class="subscribe"
+        href="webcal://aiondomisi.github.io/screen-events-calendar/award-north-america.ics"
+      >
+        Subscribe to North America
+      </a>
+    </div>
+
+    <div class="calendar">
+      <h2 class="calendar-title">South America</h2>
+
+      <div class="url">
+        <code
+          >https://aiondomisi.github.io/screen-events-calendar/award-south-america.ics</code
+        >
+        <button class="copy" type="button" onclick="copyUrl(this)">Copy</button>
+      </div>
+
+      <a
+        class="subscribe"
+        href="webcal://aiondomisi.github.io/screen-events-calendar/award-south-america.ics"
+      >
+        Subscribe to South America
+      </a>
+    </div>
+
+    <div class="meta">
+      <p>
+        Found a wrong date or a missing festival? Use the feedback button in the
+        corner to report it.
+      </p>
+
+      <p>
+        <a href="https://github.com/firdaussmsudin/festival-ics">
+          Source on GitHub
+        </a>
+      </p>
+    </div>
+
+    <script>
+      const copyUrl = async (button) => {
+        const url = button.previousElementSibling.textContent.trim();
+
+        await navigator.clipboard.writeText(url);
+
+        button.textContent = "Copied";
+
+        setTimeout(() => {
+          button.textContent = "Copy";
+        }, 1500);
+      };
+    </script>
+
+    <script
+      src="https://bugdrop.neonwatty.workers.dev/widget.js"
+      data-repo="firdaussmsudin/festival-ics"
+    ></script>
+  </body>
+</html>

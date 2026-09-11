@@ -3,7 +3,7 @@ export type FestivalCategory =
   | "market"
   | "festival-and-market"
   | "awards-ceremony"
-  | "awards";
+  | "award";
 
 export type FestivalStatus =
   | "confirmed"

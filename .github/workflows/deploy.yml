@@ -34,8 +34,8 @@ jobs:
       - name: Generate ICS feed
         run: npm run generate
 
-      - name: Copy index page
-        run: cp public/index.html dist/
+      - name: Copy html page
+        run: cp public/index.html public/festival.html public/award.html dist/
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

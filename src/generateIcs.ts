@@ -140,8 +140,7 @@ async function main() {
     events?: FestivalEntry[];
   };
 
-  // Support either "festivals" or "events" as the top-level key, since
-  // the source JSON has used both names.
+  // Support either "festivals" or "events" as the top-level key.
   const rawFestivals = dataset.festivals ?? dataset.events;
 
   if (!Array.isArray(rawFestivals)) {
@@ -152,19 +151,26 @@ async function main() {
 
   await mkdir("dist", { recursive: true });
 
-  // Only keep entries with usable dates for everything downstream
-  // (the "complete" calendar and the per-category/continent split).
+  // Only keep entries with usable dates.
   const validFestivals = rawFestivals.filter(hasValidDates);
 
   /*
-   * Generate the complete festival calendar.
+   * Generate the complete festival and award calendars.
    *
    * dist/festivals.ics
+   * dist/awards.ics
    */
-  await writeCalendar("festivals.ics", validFestivals);
+  const festivals = validFestivals.filter(
+    (entry) => entry.category === "festival",
+  );
+
+  const awards = validFestivals.filter((entry) => entry.category === "award");
+
+  await writeCalendar("festivals.ics", festivals);
+  await writeCalendar("awards.ics", awards);
 
   /*
-   * Group festivals by category and continent.
+   * Group festivals and awards by category and continent.
    */
   const categoryContinentEvents = new Map<string, FestivalEntry[]>();
 

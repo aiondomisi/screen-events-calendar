@@ -1,9 +1,10 @@
 <!doctype html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Film Festival Calendar</title>
+    <title>Screen Events Calendar</title>
     <style>
       body {
         font-family:
@@ -19,53 +20,41 @@
         margin-bottom: 0.25rem;
       }
 
-      h2 {
-        margin-top: 2rem;
-        margin-bottom: 0.5rem;
-      }
-
       .subtitle {
         color: #666;
         margin-top: 0;
       }
 
-      .calendar {
-        border-top: 1px solid #e5e5e5;
-        padding-top: 1rem;
-        margin-top: 1.5rem;
-      }
-
-      .calendar:first-of-type {
+      .cards {
+        display: grid;
+        gap: 1rem;
         margin-top: 2rem;
       }
 
-      .calendar-title {
-        margin: 0 0 0.5rem;
-      }
-
-      .subscribe {
-        display: inline-block;
-        margin: 0.5rem 0;
-        padding: 0.65rem 1rem;
-        background: #1a1a1a;
-        color: #fff;
-        text-decoration: none;
-        border-radius: 6px;
-        font-weight: 600;
-      }
-
-      .subscribe:hover {
-        background: #333;
-      }
-
-      code {
+      .card {
         display: block;
-        background: #f2f2f2;
-        padding: 0.6rem 0.75rem;
-        border-radius: 4px;
-        font-size: 0.9em;
-        word-break: break-all;
-        margin-top: 0.5rem;
+        padding: 1.5rem;
+        border: 1px solid #e5e5e5;
+        border-radius: 8px;
+        color: inherit;
+        text-decoration: none;
+        transition:
+          border-color 0.15s ease,
+          background 0.15s ease;
+      }
+
+      .card:hover {
+        border-color: #aaa;
+        background: #fafafa;
+      }
+
+      .card h2 {
+        margin: 0 0 0.4rem;
+      }
+
+      .card p {
+        margin: 0;
+        color: #666;
       }
 
       .meta {
@@ -75,134 +64,39 @@
         margin-top: 2rem;
         padding-top: 1rem;
       }
+
+      .meta a {
+        color: inherit;
+      }
     </style>
   </head>
 
   <body>
-    <h1>Film Festival Calendar</h1>
+    <h1>Screen Events Calendar</h1>
 
     <p class="subtitle">
-      A subscribable calendar of film festival dates. Eventually taking from
-      different sources.
+      Subscribable calendars for film festivals and awards.
     </p>
 
-    <p>
-      Subscribe once and new festivals, date changes, or cancellations show up
-      in your calendar app automatically — no re-downloading, no manual updates.
-    </p>
-
-    <div class="calendar">
-      <h2 class="calendar-title">All Festivals</h2>
-
-      <a
-        class="subscribe"
-        href="webcal://aiondomisi.github.io/screen-events-calendar/festival-festivals.ics"
-      >
-        Subscribe to All Festivals
+    <div class="cards">
+      <a class="card" href="festival.html">
+        <h2>Film Festivals</h2>
+        <p>
+          Subscribe to film festival dates by continent or follow all festivals
+          in one calendar.
+        </p>
       </a>
 
-      <code>
-        https://aiondomisi.github.io/screen-events-calendar/festivals.ics
-      </code>
-    </div>
-
-    <div class="calendar">
-      <h2 class="calendar-title">Africa</h2>
-
-      <a
-        class="subscribe"
-        href="webcal://aiondomisi.github.io/screen-events-calendar/festival-africa.ics"
-      >
-        Subscribe to Africa
+      <a class="card" href="award.html">
+        <h2>Film & TV Awards</h2>
+        <p>
+          Subscribe to film and television award dates and keep them updated
+          automatically.
+        </p>
       </a>
-
-      <code>
-        https://aiondomisi.github.io/screen-events-calendar/festival-africa.ics
-      </code>
-    </div>
-
-    <div class="calendar">
-      <h2 class="calendar-title">Asia</h2>
-
-      <a
-        class="subscribe"
-        href="webcal://aiondomisi.github.io/screen-events-calendar/festival-asia.ics"
-      >
-        Subscribe to Asia
-      </a>
-
-      <code>
-        https://aiondomisi.github.io/screen-events-calendar/festival-asia.ics
-      </code>
-    </div>
-
-    <div class="calendar">
-      <h2 class="calendar-title">Europe</h2>
-
-      <a
-        class="subscribe"
-        href="webcal://aiondomisi.github.io/screen-events-calendar/festival-europe.ics"
-      >
-        Subscribe to Europe
-      </a>
-
-      <code>
-        https://aiondomisi.github.io/screen-events-calendar/festival-europe.ics
-      </code>
-    </div>
-
-    <div class="calendar">
-      <h2 class="calendar-title">North America</h2>
-
-      <a
-        class="subscribe"
-        href="webcal://aiondomisi.github.io/screen-events-calendar/festival-north-america.ics"
-      >
-        Subscribe to North America
-      </a>
-
-      <code>
-        https://aiondomisi.github.io/screen-events-calendar/festival-north-america.ics
-      </code>
-    </div>
-
-    <div class="calendar">
-      <h2 class="calendar-title">South America</h2>
-
-      <a
-        class="subscribe"
-        href="webcal://aiondomisi.github.io/screen-events-calendar/festival-south-america.ics"
-      >
-        Subscribe to South America
-      </a>
-
-      <code>
-        https://aiondomisi.github.io/screen-events-calendar/festival-south-america.ics
-      </code>
-    </div>
-
-    <div class="calendar">
-      <h2 class="calendar-title">Oceania</h2>
-
-      <a
-        class="subscribe"
-        href="webcal://aiondomisi.github.io/screen-events-calendar/festival-oceania.ics"
-      >
-        Subscribe to Oceania
-      </a>
-
-      <code>
-        https://aiondomisi.github.io/screen-events-calendar/festival-oceania.ics
-      </code>
     </div>
 
     <div class="meta">
-      <p>
-        Data is scraped weekly and reviewed before publishing. Found a wrong
-        date or a missing festival? Use the feedback button in the corner to
-        report it.
-      </p>
-
       <p>
         <a href="https://github.com/firdaussmsudin/festival-ics">
           Source on GitHub
