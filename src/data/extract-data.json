@@ -1,0 +1,3552 @@
+[
+  {
+    "uid": "palm-springs-international-film-festival-2026@festival-ics.example",
+    "name": "Palm Springs International Film Festival",
+    "status": "confirmed",
+    "website": "https://psfilmfest.org/film-festival-2026",
+    "secondaryWebsite": "https://psfilmfest.org/filmfest",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "website": "https://www.staugfilmfest.com/landing-old",
+    "uid": "previous-events-saint-augustine-film-festival-2026@festival-ics.example",
+    "name": "Previous events Saint Augustine Film Festival",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "$('img[src*='2027']').attr('src')",
+    "uid": "dances-with-films-new-york-2026@festival-ics.example",
+    "name": "Dances With Films: New York",
+    "status": "confirmed",
+    "website": "https://danceswithfilms.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "secondaryWebsite": "https://belmontworldfilm.org/family-festival/",
+    "uid": "belmont-world-film-s-family-festival-2026@festival-ics.example",
+    "name": "Belmont World Film’s Family Festival",
+    "status": "confirmed",
+    "website": "https://bwffamilyfestival2026.eventive.org/welcome",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "sundance-film-festival-2026@festival-ics.example",
+    "name": "Sundance Film Festival",
+    "status": "confirmed",
+    "website": "https://festival.sundance.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "$('h1').text()",
+    "uid": "fipadoc-international-documentary-film-festival-2026@festival-ics.example",
+    "name": "FIPADOC International Documentary Film Festival",
+    "status": "confirmed",
+    "website": "https://www.fipadoc.com/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "$('.flex.h-6.items-center.default-w-margin.mt-3.transition-opacity > img')",
+    "uid": "goteborg-film-festival-2026@festival-ics.example",
+    "name": "Goteborg Film Festival",
+    "status": "confirmed",
+    "website": "https://goteborgfilmfestival.se/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "international-film-festival-rotterdam-2026@festival-ics.example",
+    "name": "International Film Festival Rotterdam",
+    "status": "confirmed",
+    "website": "https://iffr.com/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "los-angeles-greek-film-festival-doc-2026@festival-ics.example",
+    "name": "Los Angeles Greek Film Festival-doc",
+    "status": "confirmed",
+    "website": "https://www.lagff.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "ostend-film-festival-2026@festival-ics.example",
+    "name": "Ostend Film Festival",
+    "status": "confirmed",
+    "website": "https://www.filmfestivaloostende.be/nl/festival",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+
+    "uid": "docpoint-helsinki-documentary-film-festival-2026@festival-ics.example",
+    "name": "DocPoint - Helsinki Documentary Film Festival",
+    "status": "confirmed",
+    "website": "https://docpointfestival.fi/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+
+    "uid": "scad-tvfest-2026@festival-ics.example",
+    "name": "SCAD TVfest",
+    "status": "confirmed",
+    "website": "https://www.scadtvfest.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "japan-foundation-touring-film-programme-2026@festival-ics.example",
+    "name": "Japan Foundation Touring Film Programme",
+    "status": "confirmed",
+    "website": "https://www.jpf-film.org.uk/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "european-film-market-2026@festival-ics.example",
+    "name": "European Film Market",
+    "status": "confirmed",
+    "website": "https://www.efm-berlinale.de/en/home/homepage.html",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "berlin-international-film-festival-2026@festival-ics.example",
+    "name": "Berlin International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.berlinale.de/en/home.html",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "secondaryWebsite": "https://www.comedyfilmfestivals.com/about",
+    "uid": "new-york-comedy-film-festival-2026@festival-ics.example",
+    "name": "New York Comedy Film Festival",
+    "status": "confirmed",
+    "website": "https://www.comedyfilmfestivals.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "romford-horror-festival-2026@festival-ics.example",
+    "name": "Romford Horror Festival",
+    "status": "confirmed",
+    "website": "https://www.romfordhorrorfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "$('#comp-mbjds0ak > a > img')",
+    "uid": "dublin-international-film-festival-2026@festival-ics.example",
+    "name": "Dublin International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.diff.ie/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+
+    "uid": "mip-london-2026@festival-ics.example",
+    "name": "MIP London",
+    "status": "confirmed",
+    "website": "https://www.mip-london.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "glasgow-film-festival-2026@festival-ics.example",
+    "name": "Glasgow Film Festival",
+    "status": "confirmed",
+    "website": "https://www.glasgowfilmfest.org/home/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "$('#cs-content > div > div > div >div > div > div h2')",
+    "uid": "new-york-international-children-s-film-festival-2026@festival-ics.example",
+    "name": "New York International Children’s Film Festival",
+    "status": "confirmed",
+    "website": "https://nyicff.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "australian-international-documentary-conference-2026@festival-ics.example",
+    "name": "Australian International Documentary Conference",
+    "status": "confirmed",
+    "website": "https://www.aidc.com.au/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+
+    "uid": "cartoon-movie-2026@festival-ics.example",
+    "name": "Cartoon Movie",
+    "status": "confirmed",
+    "website": "https://www.cartoon-media.eu/movie/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "gasparilla-international-film-festival-2026@festival-ics.example",
+    "name": "Gasparilla International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.gasparillafilmfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "johannesburg-film-festival-2026@festival-ics.example",
+    "name": "Johannesburg Film Festival",
+    "status": "confirmed",
+    "website": "https://joburgfilmfestival.co.za/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "cinema-made-in-italy-2026@festival-ics.example",
+    "name": "Cinema Made In Italy",
+    "status": "confirmed",
+    "website": "https://whatson.bfi.org.uk/Online/default.asp",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "frightfest-glasgow-2026@festival-ics.example",
+    "name": "FrightFest Glasgow",
+    "status": "confirmed",
+    "website": "https://www.glasgowfilm.org/frightfest/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "true-false-film-festival-2026@festival-ics.example",
+    "name": "True/False Film Festival",
+    "status": "confirmed",
+    "website": "https://truefalse.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "hero backdrop carousel",
+    "uid": "luxembourg-city-film-festival-2026@festival-ics.example",
+    "name": "Luxembourg City Film Festival",
+    "status": "confirmed",
+    "website": "https://www.luxfilmfest.lu/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "thessaloniki-international-documentary-festival-2026@festival-ics.example",
+    "name": "Thessaloniki International Documentary Festival",
+    "status": "confirmed",
+    "website": "https://www.filmfestival.gr/en/documentary-festival",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "$('.wrap > div > div > a ').attr('style')",
+    "uid": "malaga-film-festival-2026@festival-ics.example",
+    "name": "Malaga Film Festival",
+    "status": "confirmed",
+    "website": "https://festivaldemalaga.com/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "borderlines-film-festival-2026@festival-ics.example",
+    "name": "Borderlines Film Festival",
+    "status": "confirmed",
+    "website": "https://borderlinesfilmfestival.co.uk/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "christian-worldview-film-festival-2026@festival-ics.example",
+    "name": "Christian Worldview Film Festival",
+    "status": "confirmed",
+    "website": "https://cwvff.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "vilnius-international-film-festival-2026@festival-ics.example",
+    "name": "Vilnius International Film Festival",
+    "status": "confirmed",
+    "website": "https://kinopavasaris.lt/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "cinequest-film-festival-2026@festival-ics.example",
+    "name": "Cinequest Film Festival",
+    "status": "confirmed",
+    "website": "https://www.cinequest.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "cph-dox-2026@festival-ics.example",
+    "name": "CPH:DOX",
+    "status": "confirmed",
+    "website": "https://cphdox.dk/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "sxsw-2026@festival-ics.example",
+    "name": "SXSW",
+    "status": "confirmed",
+    "website": "https://sxsw.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "hero backdrop carousel",
+    "uid": "sofia-international-film-festival-2026@festival-ics.example",
+    "name": "Sofia International Film Festival",
+    "status": "confirmed",
+    "website": "https://siff.bg/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+
+    "uid": "hong-kong-asia-film-financing-forum-2026@festival-ics.example",
+    "name": "Hong Kong-Asia Film Financing Forum",
+    "status": "confirmed",
+    "website": "https://industry.hkiff.org.hk/en/haf/introduction",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "$('Header_headerContainer__n_Q7r > div > div > div > div > div > div > a > span > img')",
+
+    "uid": "filmart-2026@festival-ics.example",
+    "name": "Filmart",
+    "status": "confirmed",
+    "website": "https://www.screendaily.com/features/five-talking-points-from-filmart-2026/5215023.article",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "hippfest-2026@festival-ics.example",
+    "name": "HippFest",
+    "status": "confirmed",
+    "website": "https://www.hippodromecinema.co.uk/hippfest/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "sofia-meetings-2026@festival-ics.example",
+    "name": "Sofia Meetings",
+    "status": "confirmed",
+    "website": "https://sofiameetings.siff.bg/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "diagonale-2026@festival-ics.example",
+    "name": "Diagonale",
+    "status": "confirmed",
+    "website": "https://www.diagonale.at/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+
+    "uid": "bfi-flare-london-lgbtqia-film-festival-2026@festival-ics.example",
+    "name": "BFI Flare London LGBTQIA+ Film Festival",
+    "status": "confirmed",
+    "website": "https://whatson.bfi.org.uk/flare/Online/default.asp",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027') h2",
+    "uid": "manchester-film-festival-2026@festival-ics.example",
+    "name": "Manchester Film Festival",
+    "status": "confirmed",
+    "website": "https://www.manchesterfilmfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "asian-pop-up-cinema-chicago-festival-2026@festival-ics.example",
+    "name": "Asian Pop-Up Cinema Chicago Festival",
+    "status": "confirmed",
+    "website": "https://www.asianpopupcinema.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+
+    "uid": "hebden-bridge-film-festival-2026@festival-ics.example",
+    "name": "Hebden Bridge Film Festival",
+    "status": "confirmed",
+    "website": "https://www.hebdenbridgefilmfestival.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+
+    "uid": "series-mania-2026@festival-ics.example",
+    "name": "Series Mania",
+    "status": "confirmed",
+    "website": "https://seriesmania.com/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027') strong",
+
+    "uid": "sonoma-international-film-festival-2026@festival-ics.example",
+    "name": "Sonoma International Film Festival",
+    "status": "confirmed",
+    "website": "https://sonomafilmfest.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "hero backdrop carousel",
+    "uid": "garden-state-film-festival-2026@festival-ics.example",
+    "name": "Garden State Film Festival",
+    "status": "confirmed",
+    "website": "https://www.gsff.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+
+    "uid": "qumra-2026@festival-ics.example",
+    "name": "Qumra",
+    "status": "confirmed",
+    "website": "https://www.dohafilm.com/en/funding-industry/qumra",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027') strong > em",
+
+    "uid": "oska-bright-film-festival-2026@festival-ics.example",
+    "name": "Oska Bright Film Festival",
+    "status": "confirmed",
+    "website": "https://oskabright.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "belmont-world-film-2026@festival-ics.example",
+    "name": "Belmont World Film",
+    "status": "confirmed",
+    "website": "https://belmontworldfilm.org/international-film-series/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "key": "*:contains('2027')",
+    "uid": "hong-kong-international-film-festival-2026@festival-ics.example",
+    "name": "Hong Kong International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.hkiff.org.hk/",
+    "secondaryWebsite": "https://www.hkiff.org.hk/society/CallForEntries/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "brussels-international-fantastic-film-festival-2026@festival-ics.example",
+    "name": "Brussels International Fantastic Film Festival",
+    "status": "confirmed",
+    "website": "https://www.bifff.net/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "paleyfest-la-2026@festival-ics.example",
+    "name": "PaleyFest LA",
+    "status": "confirmed",
+    "website": "https://www.paleycenter.org/events/paleyfest",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "ofn-lgbtqia-international-film-festival-2026@festival-ics.example",
+    "name": "OFN LGBTQIA+ International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.onefluidnight.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "new-directors-new-films-2026@festival-ics.example",
+    "name": "New Directors/New Films",
+    "status": "confirmed",
+    "website": "https://www.filmlinc.org/festivals/new-directors-new-films-2026/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "boston-international-film-festival-2026@festival-ics.example",
+    "name": "Boston International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.bostoniff.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "cleveland-international-film-festival-2026@festival-ics.example",
+    "name": "Cleveland International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.clevelandfilm.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "istanbul-film-festival-2026@festival-ics.example",
+    "name": "Istanbul Film Festival",
+    "status": "confirmed",
+    "website": "https://film.iksv.org/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "miami-film-festival-2026@festival-ics.example",
+    "name": "Miami Film Festival",
+    "status": "confirmed",
+    "website": "https://miamifilmfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "sixth-borough-film-festival-2026@festival-ics.example",
+    "name": "Sixth Borough Film Festival",
+    "status": "confirmed",
+    "website": "https://manhattan.edu/academics/schools-and-departments/kakos/comm-sou-med-arts/film-festival/index.php",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "sarasota-film-festival-2026@festival-ics.example",
+    "name": "Sarasota Film Festival",
+    "status": "confirmed",
+    "website": "https://www.sarasotafilmfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "independent-days-international-film-festival-karlsruhe-2026@festival-ics.example",
+    "name": "Independent Days International Film Festival Karlsruhe",
+    "status": "confirmed",
+    "website": "https://www.independentdays-filmfest.com/english/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "bcn-film-fest-2026@festival-ics.example",
+    "name": "BCN Film Fest",
+    "status": "confirmed",
+    "website": "https://www.bcnfilmfest.com/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "milwaukee-film-festival-2026@festival-ics.example",
+    "name": "Milwaukee Film Festival",
+    "status": "confirmed",
+    "website": "https://mkefilm.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "sands-international-film-festival-of-st-andrews-2026@festival-ics.example",
+    "name": "Sands: International Film Festival of St Andrews",
+    "status": "confirmed",
+    "website": "https://sands-iff.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "sunny-bunny-lgbtqia-film-festival-2026@festival-ics.example",
+    "name": "Sunny Bunny LGBTQIA+ Film Festival",
+    "status": "confirmed",
+    "website": "https://www.sunnybunnyqiff.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "guadalajara-international-film-festival-2026@festival-ics.example",
+    "name": "Guadalajara International Film Festival",
+    "status": "confirmed",
+    "website": "https://ficg.mx/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "visions-du-reel-2026@festival-ics.example",
+    "name": "Visions du Réel",
+    "status": "confirmed",
+    "website": "https://www.screendaily.com/news/xisi-sofia-ye-chens-from-dawn-to-dawn-wins-top-prize-at-switzerlands-visions-du-reel/5215998.article",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "timeless-film-festival-2026@festival-ics.example",
+    "name": "Timeless Film Festival",
+    "status": "confirmed",
+    "website": "https://timelessfilmfestival.pl/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "little-venice-film-festival-2026@festival-ics.example",
+    "name": "Little Venice Film Festival",
+    "status": "confirmed",
+    "website": "https://www.littlevenicefilmfestival.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "canneseries-2026@festival-ics.example",
+    "name": "Canneseries",
+    "status": "confirmed",
+    "website": "https://canneseries.com/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "san-luis-obispo-international-film-festival-2026@festival-ics.example",
+    "name": "San Luis Obispo International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.slofilmfest.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "saudi-film-festival-2026@festival-ics.example",
+    "name": "Saudi Film Festival",
+    "status": "confirmed",
+    "website": "https://en.saudifilmfestival.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "hotdocs-2026@festival-ics.example",
+    "name": "HotDocs",
+    "status": "confirmed",
+    "website": "https://hotdocs.ca/#hot-docs-festival",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "las-palmas-de-gran-canaria-international-film-festival-2026@festival-ics.example",
+    "name": "Las Palmas De Gran Canaria International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.lpafilmfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "san-francisco-international-film-festival-2026@festival-ics.example",
+    "name": "San Francisco International Film Festival",
+    "status": "confirmed",
+    "website": "https://sffilm.org/event/69th-san-francisco-international-film-festival/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "far-east-film-festival-2026@festival-ics.example",
+    "name": "Far East Film Festival",
+    "status": "confirmed",
+    "website": "https://www.fareastfilm.com/eng/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "screen-forever-2026@festival-ics.example",
+    "name": "Screen Forever",
+    "status": "confirmed",
+    "website": "https://www.screenforever.org.au/40",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "doc-n-roll-new-york-2026@festival-ics.example",
+    "name": "Doc’n Roll New York",
+    "status": "confirmed",
+    "website": "https://www.docnrollfestival.com/new-york/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "jeonju-international-film-festival-2026@festival-ics.example",
+    "name": "Jeonju International Film Festival",
+    "status": "confirmed",
+    "website": "https://eng.jeonjufest.kr/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "doclands-documentary-film-festival-2026@festival-ics.example",
+    "name": "Doclands Documentary Film Festival",
+    "status": "confirmed",
+    "website": "https://www.doclands.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "cascadia-international-women-s-film-festival-2026@festival-ics.example",
+    "name": "Cascadia International Women’s Film Festival",
+    "status": "confirmed",
+    "website": "https://cascadiafilmfest.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "us-may-9-indielisboa-film-festival-2026@festival-ics.example",
+    "name": "US - May 9 IndieLisboa Film Festival",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "jfilm-festival-2026@festival-ics.example",
+    "name": "JFilm Festival",
+    "status": "confirmed",
+    "website": "https://filmpittsburgh.org/pages/jfilm",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "margaret-mead-film-festival-2026@festival-ics.example",
+    "name": "Margaret Mead Film Festival",
+    "status": "confirmed",
+    "website": "https://www.amnh.org/explore/margaret-mead-festival",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "uk-asian-film-festival-2026@festival-ics.example",
+    "name": "UK Asian Film Festival",
+    "status": "confirmed",
+    "website": "https://www.tonguesonfire.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "wellness-film-festival-2026@festival-ics.example",
+    "name": "Wellness Film Festival",
+    "status": "confirmed",
+    "website": "https://wellffest.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "british-urban-film-festival-2026@festival-ics.example",
+    "name": "British Urban Film Festival",
+    "status": "confirmed",
+    "website": "https://britishurbanfilmfestival.co.uk/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "focus-wales-film-festival-2026@festival-ics.example",
+    "name": "Focus Wales Film Festival",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "docs-barcelona-2026@festival-ics.example",
+    "name": "Docs Barcelona",
+    "status": "confirmed",
+    "website": "https://docsbarcelona.com/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "seattle-international-film-festival-2026@festival-ics.example",
+    "name": "Seattle International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.siff.net/festival",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "sunderland-shorts-film-festival-2026@festival-ics.example",
+    "name": "Sunderland Shorts Film Festival",
+    "status": "confirmed",
+    "website": "https://sunderlandshorts.co.uk/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "marche-du-film-2026@festival-ics.example",
+    "name": "Marché du Film",
+    "status": "confirmed",
+    "website": "https://www.marchedufilm.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "cannes-film-festival-2026@festival-ics.example",
+    "name": "Cannes Film Festival",
+    "status": "confirmed",
+    "website": "https://www.screendaily.com/news/cristian-mungius-fjord-wins-palme-dor-at-2026-cannes-film-festival/5217162.article",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "lanzarote-international-film-festival-2026@festival-ics.example",
+    "name": "Lanzarote International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.festivaldecinedelanzarote.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "us-may-30-american-black-film-festival-2026@festival-ics.example",
+    "name": "US - May 30 American Black Film Festival",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "us-june-4-docaviv-2026@festival-ics.example",
+    "name": "US - June 4 Docaviv",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "doxumentale-2026@festival-ics.example",
+    "name": "Doxumentale",
+    "status": "confirmed",
+    "website": "https://www.doxumentale.de/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "mendocino-film-festival-2026@festival-ics.example",
+    "name": "Mendocino Film Festival",
+    "status": "confirmed",
+    "website": "https://mendofilm.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "brooklyn-film-festival-2026@festival-ics.example",
+    "name": "Brooklyn Film Festival",
+    "status": "confirmed",
+    "website": "https://www.brooklynfilmfestival.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "krakow-film-festival-2026@festival-ics.example",
+    "name": "Krakow Film Festival",
+    "status": "confirmed",
+    "website": "https://www.krakowfilmfestival.pl/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "sxsw-london-2026@festival-ics.example",
+    "name": "SXSW London",
+    "status": "confirmed",
+    "website": "https://www.sxswlondon.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "bali-international-film-festival-2026@festival-ics.example",
+    "name": "Bali International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.balinale.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "los-angeles-greek-film-festival-2026@festival-ics.example",
+    "name": "Los Angeles Greek Film Festival",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "nippon-connection-film-festival-2026@festival-ics.example",
+    "name": "Nippon Connection Film Festival",
+    "status": "confirmed",
+    "website": "https://nipponconnection.com/en/start/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "kashish-pride-film-festival-2026@festival-ics.example",
+    "name": "Kashish Pride Film Festival",
+    "status": "confirmed",
+    "website": "https://mumbaiqueerfest.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "sydney-film-festival-2026@festival-ics.example",
+    "name": "Sydney Film Festival",
+    "status": "confirmed",
+    "website": "https://www.sff.org.au/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "tribeca-film-festival-2026@festival-ics.example",
+    "name": "Tribeca Film Festival",
+    "status": "confirmed",
+    "website": "https://tribecafilm.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "europe-on-screen-2026@festival-ics.example",
+    "name": "Europe On Screen",
+    "status": "confirmed",
+    "website": "https://europeonscreen.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "kingston-international-film-festival-2026@festival-ics.example",
+    "name": "Kingston International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.kiffest.uk/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "seriencamp-festival-conference-2026@festival-ics.example",
+    "name": "Seriencamp Festival & Conference",
+    "status": "confirmed",
+    "website": "https://www.seriencamp.tv/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "ecam-forum-2026@festival-ics.example",
+    "name": "ECAM Forum",
+    "status": "confirmed",
+    "website": "https://ecamforum.es/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "lighthouse-international-film-festival-2026@festival-ics.example",
+    "name": "Lighthouse International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.lighthouseff.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "provincetown-film-festival-2026@festival-ics.example",
+    "name": "Provincetown Film Festival",
+    "status": "confirmed",
+    "website": "https://www.provincetownfilm.org/festival/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "sheffield-docfest-2026@festival-ics.example",
+    "name": "Sheffield DocFest",
+    "status": "confirmed",
+    "website": "https://www.sheffdocfest.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "dc-dox-film-festival-2026@festival-ics.example",
+    "name": "DC/DOX Film Festival",
+    "status": "confirmed",
+    "website": "https://dcdoxfest.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "monte-carlo-television-festival-2026@festival-ics.example",
+    "name": "Monte Carlo Television Festival",
+    "status": "confirmed",
+    "website": "https://www.tvfestival.com/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "shanghai-international-film-festival-2026@festival-ics.example",
+    "name": "Shanghai International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.siff.com/english/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "transilvania-international-film-festival-2026@festival-ics.example",
+    "name": "Transilvania International Film Festival",
+    "status": "confirmed",
+    "website": "https://tiff.ro/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "banff-world-media-festival-2026@festival-ics.example",
+    "name": "BANFF World Media Festival",
+    "status": "confirmed",
+    "website": "https://banffmediafestival.playbackonline.ca/2026/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "bentonville-film-festival-2026@festival-ics.example",
+    "name": "Bentonville Film Festival",
+    "status": "confirmed",
+    "website": "https://bentonvillefilm.org/bentonville-film-festival/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "brighton-rocks-international-film-festival-2026@festival-ics.example",
+    "name": "Brighton Rocks International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.rocksfestivals.com/briff.html",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "slano-film-days-2026@festival-ics.example",
+    "name": "Slano Film Days",
+    "status": "confirmed",
+    "website": "https://slanofilmdays.hr/en/home",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "docs-ireland-festival-market-2026@festival-ics.example",
+    "name": "Docs Ireland Festival & Market",
+    "status": "confirmed",
+    "website": "https://docsireland.ie/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "nantucket-film-festival-2026@festival-ics.example",
+    "name": "Nantucket Film Festival",
+    "status": "confirmed",
+    "website": "https://nantucketfilmfestival.org/nff2026/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "raindance-film-festival-2026@festival-ics.example",
+    "name": "Raindance Film Festival",
+    "status": "confirmed",
+    "website": "https://raindance.org/festival/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "oakville-festivals-of-film-and-art-2026@festival-ics.example",
+    "name": "Oakville Festivals of Film and Art",
+    "status": "confirmed",
+    "website": "https://offa.ca/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "san-francisco-international-lgbtq-film-festival-2026@festival-ics.example",
+    "name": "San Francisco International LGBTQ+ Film Festival",
+    "status": "confirmed",
+    "website": "https://www.frameline.org/festival",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "silvervox-film-music-festival-2026@festival-ics.example",
+    "name": "SilverVox Film & Music Festival",
+    "status": "confirmed",
+    "website": "https://silvervoxfest.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "sons-of-the-desert-convention-laurel-and-hardy-society-2026@festival-ics.example",
+    "name": "Sons Of The Desert Convention — Laurel and Hardy Society",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "annecy-international-animation-film-festival-2026@festival-ics.example",
+    "name": "Annecy International Animation Film Festival",
+    "status": "confirmed",
+    "website": "https://www.screendaily.com/news/annecy-film-festival-unveils-2026-winners/5218099.article",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "mediterrane-film-festival-2026@festival-ics.example",
+    "name": "Mediterrane Film Festival",
+    "status": "confirmed",
+    "website": "https://mediterrane.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "cineeurope-2026@festival-ics.example",
+    "name": "CineEurope",
+    "status": "confirmed",
+    "website": "https://filmexpos.com/cineeurope/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "australia-new-zealand-june-21-july-26-mifa-2026@festival-ics.example",
+    "name": "Australia-New Zealand - June 21-July 26 MIFA",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "biarritz-film-festival-nouvelles-vagues-2026@festival-ics.example",
+    "name": "Biarritz Film Festival Nouvelles Vagues",
+    "status": "confirmed",
+    "website": "https://www.nouvelles-vagues.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "scad-lacoste-film-festival-2026@festival-ics.example",
+    "name": "SCAD Lacoste Film Festival",
+    "status": "confirmed",
+    "website": "https://www.scad.edu/event/2026-06-25-2026-scad-lacoste-film-festival",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "nepal-america-international-film-festival-2026@festival-ics.example",
+    "name": "Nepal America International Film Festival",
+    "status": "confirmed",
+    "website": "https://nafilmsociety.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "filmfest-munich-2026@festival-ics.example",
+    "name": "FilmFest Munich",
+    "status": "confirmed",
+    "website": "https://www.filmfest-muenchen.de/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "muslim-international-film-festival-2026@festival-ics.example",
+    "name": "Muslim International Film Festival",
+    "status": "confirmed",
+    "website": "https://themiff.net/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "karlovy-vary-international-film-festival-2026@festival-ics.example",
+    "name": "Karlovy Vary International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.kviff.com/en/homepage",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "fid-marseille-2026@festival-ics.example",
+    "name": "FID Marseille",
+    "status": "confirmed",
+    "website": "https://fidmarseille.org/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "galway-film-fleadh-2026@festival-ics.example",
+    "name": "Galway Film Fleadh",
+    "status": "confirmed",
+    "website": "https://www.galwayfilmfleadh.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "jerusalem-film-festival-2026@festival-ics.example",
+    "name": "Jerusalem Film Festival",
+    "status": "confirmed",
+    "website": "https://jff.org.il/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "london-indian-film-festival-2026@festival-ics.example",
+    "name": "London Indian Film Festival",
+    "status": "confirmed",
+    "website": "https://londonindianfilmfestival.co.uk/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "walla-walla-movie-crush-2026@festival-ics.example",
+    "name": "Walla Walla Movie Crush",
+    "status": "confirmed",
+    "website": "https://www.themoviecrush.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "new-york-asian-film-festival-2026@festival-ics.example",
+    "name": "New York Asian Film Festival",
+    "status": "confirmed",
+    "website": "https://www.nyaff.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "golden-apricot-international-film-festival-2026@festival-ics.example",
+    "name": "Golden Apricot International Film Festival",
+    "status": "confirmed",
+    "website": "https://gaiff.am/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "boulder-environmental-nature-outdoors-film-festival-2026@festival-ics.example",
+    "name": "Boulder Environmental Nature Outdoors Film Festival",
+    "status": "confirmed",
+    "website": "https://www.boulderenoff.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "waco-independent-film-festival-2026@festival-ics.example",
+    "name": "Waco Independent Film Festival",
+    "status": "confirmed",
+    "website": "https://wacoindie.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "fantasia-international-film-festival-2026@festival-ics.example",
+    "name": "Fantasia International Film Festival",
+    "status": "confirmed",
+    "website": "https://fantasiafestival.com/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "malaysia-international-film-festival-2026@festival-ics.example",
+    "name": "Malaysia International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.miffest.com.my/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "burgas-international-film-festival-2026@festival-ics.example",
+    "name": "Burgas International Film Festival",
+    "status": "confirmed",
+    "website": "https://burgasfilmfest.com/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "cinema-rediscovered-2026@festival-ics.example",
+    "name": "Cinema Rediscovered",
+    "status": "confirmed",
+    "website": "https://www.watershed.co.uk/cinema-rediscovered",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "comic-con-2026@festival-ics.example",
+    "name": "Comic-Con",
+    "status": "confirmed",
+    "website": "https://www.comic-con.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "future-of-film-showcase-2026@festival-ics.example",
+    "name": "Future Of Film Showcase",
+    "status": "confirmed",
+    "website": "https://www.fofs.ca/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "new-horizons-international-film-festival-2026@festival-ics.example",
+    "name": "New Horizons International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.nowehoryzonty.pl/?lang=en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "woods-hole-film-festival-2026@festival-ics.example",
+    "name": "Woods Hole Film Festival",
+    "status": "confirmed",
+    "website": "https://woodsholefilmfestival.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "whanau-marama-new-zealand-international-film-festival-2026@festival-ics.example",
+    "name": "Whānau Mārama: New Zealand International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.nziff.co.nz/2026/nziff-2026/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "provence-arts-film-festival-2026@festival-ics.example",
+    "name": "Provence Arts Film Festival",
+    "status": "confirmed",
+    "website": "https://provencearts.com/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "oak-cliff-film-festival-2026@festival-ics.example",
+    "name": "Oak Cliff Film Festival",
+    "status": "confirmed",
+    "website": "https://www.filmoakcliff.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "membrana-film-festival-2026@festival-ics.example",
+    "name": "Membrana Film Festival",
+    "status": "confirmed",
+    "website": "https://membranapictures.com/membrana-film-festival",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "locarno-film-festival-2026@festival-ics.example",
+    "name": "Locarno Film Festival",
+    "status": "confirmed",
+    "website": "https://www.locarnofestival.ch/home.html",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "melbourne-international-film-festival-2026@festival-ics.example",
+    "name": "Melbourne International Film Festival",
+    "status": "confirmed",
+    "website": "https://miff.com.au/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "chichester-international-film-festival-2026@festival-ics.example",
+    "name": "Chichester International Film Festival",
+    "status": "confirmed",
+    "website": "https://chichesterfilmfestival.co.uk/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "festival-of-cinema-nyc-2026@festival-ics.example",
+    "name": "Festival Of Cinema NYC",
+    "status": "confirmed",
+    "website": "https://www.festivalofcinemanyc.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "martha-s-vineyard-african-american-film-festival-2026@festival-ics.example",
+    "name": "Martha’s Vineyard African-American Film Festival",
+    "status": "confirmed",
+    "website": "https://www.mvaaff.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "edinburgh-international-film-festival-2026@festival-ics.example",
+    "name": "Edinburgh International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.edfilmfest.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "sarajevo-film-festival-2026@festival-ics.example",
+    "name": "Sarajevo Film Festival",
+    "status": "confirmed",
+    "website": "https://www.sff.ba/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "august-sunrise-film-festival-2026@festival-ics.example",
+    "name": "August Sunrise Film Festival",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "counties-independent-film-festival-2026@festival-ics.example",
+    "name": "Counties Independent Film Festival",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "norwegian-international-film-festival-haugesund-2026@festival-ics.example",
+    "name": "Norwegian International Film Festival Haugesund",
+    "status": "confirmed",
+    "website": "https://www.filmfestivalen.no/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "september-venice-international-film-festival-2026@festival-ics.example",
+    "name": "September Venice International Film Festival",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "telluride-film-festival-2026@festival-ics.example",
+    "name": "Telluride Film Festival",
+    "status": "confirmed",
+    "website": "https://www.telluridefilmfestival.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "brussels-international-film-festival-2026@festival-ics.example",
+    "name": "Brussels International Film Festival",
+    "status": "confirmed",
+    "website": "https://briff.be/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "martha-s-vineyard-international-film-festival-2026@festival-ics.example",
+    "name": "Martha’s Vineyard International Film Festival",
+    "status": "confirmed",
+    "website": "https://mvfilmsociety.com/festivals/marthas-vineyard-international-film-festival/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "dmz-international-documentary-film-festival-2026@festival-ics.example",
+    "name": "DMZ International Documentary Film Festival",
+    "status": "confirmed",
+    "website": "https://dmzdocs.com/eng/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "tiff-the-market-2026@festival-ics.example",
+    "name": "TIFF: The Market",
+    "status": "confirmed",
+    "website": "https://tiff.net/themarket",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "toronto-international-film-festival-2026@festival-ics.example",
+    "name": "Toronto International Film Festival",
+    "status": "confirmed",
+    "website": "https://tiff.net/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "atlantic-international-film-festival-2026@festival-ics.example",
+    "name": "Atlantic International Film Festival",
+    "status": "confirmed",
+    "website": "https://atlanticfilmfestival.ca/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "boston-film-festival-2026@festival-ics.example",
+    "name": "Boston Film Festival",
+    "status": "confirmed",
+    "website": "https://bostonfilmfestival.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "camden-international-film-festival-2026@festival-ics.example",
+    "name": "Camden International Film Festival",
+    "status": "confirmed",
+    "website": "https://pointsnorthinstitute.org/ciff/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "helsinki-international-film-festival-love-and-anarchy-2026@festival-ics.example",
+    "name": "Helsinki International Film Festival - Love And Anarchy",
+    "status": "confirmed",
+    "website": "https://hiff.fi/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "climate-film-festival-2026@festival-ics.example",
+    "name": "Climate Film Festival",
+    "status": "confirmed",
+    "website": "https://www.climatefilmfest.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "prague-independent-film-festival-2026@festival-ics.example",
+    "name": "Prague Independent Film Festival",
+    "status": "confirmed",
+    "website": "https://www.prague-film-festival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "san-sebastian-international-film-festival-2026@festival-ics.example",
+    "name": "San Sebastian International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.sansebastianfestival.com/in/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "women-x-film-festival-2026@festival-ics.example",
+    "name": "Women X Film Festival",
+    "status": "confirmed",
+    "website": "https://www.riannepictures.com/womenx",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "cinefest-sudbury-international-film-festival-2026@festival-ics.example",
+    "name": "Cinefest Sudbury International Film Festival",
+    "status": "confirmed",
+    "website": "https://cinefest.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "us-september-19-content-christian-media-conference-2026@festival-ics.example",
+    "name": "US - September 19 Content Christian Media Conference",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "encounters-film-festival-2026@festival-ics.example",
+    "name": "Encounters Film Festival",
+    "status": "confirmed",
+    "website": "https://www.encounters.film/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "calabasas-film-festival-2026@festival-ics.example",
+    "name": "Calabasas Film Festival",
+    "status": "confirmed",
+    "website": "https://calabasasfilmfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "finnish-film-affair-2026@festival-ics.example",
+    "name": "Finnish Film Affair",
+    "status": "confirmed",
+    "website": "https://hiffindustry.fi/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "pingyao-international-film-festival-2026@festival-ics.example",
+    "name": "Pingyao International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.pyiffestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "filmfest-hamburg-2026@festival-ics.example",
+    "name": "Filmfest Hamburg",
+    "status": "confirmed",
+    "website": "https://www.filmfesthamburg.de/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "reyjavik-international-film-festival-2026@festival-ics.example",
+    "name": "Reyjavik International Film Festival",
+    "status": "confirmed",
+    "website": "https://riff.is/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "zurich-film-festival-2026@festival-ics.example",
+    "name": "Zurich Film Festival",
+    "status": "confirmed",
+    "website": "https://zff.com/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "new-york-film-festival-2026@festival-ics.example",
+    "name": "New York Film Festival",
+    "status": "confirmed",
+    "website": "https://www.filmlinc.org/nyff/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "iberseries-2026@festival-ics.example",
+    "name": "IberSeries",
+    "status": "confirmed",
+    "website": "https://iberseriesplatinoindustria.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "uk-september-29-bolton-international-film-festival-2026@festival-ics.example",
+    "name": "UK - September 29 Bolton International Film Festival",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "festival-do-rio-rio-de-janeiro-international-film-festival-2026@festival-ics.example",
+    "name": "Festival do Rio - Rio de Janeiro International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.festivaldorio.com.br/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "mill-valley-film-festival-2026@festival-ics.example",
+    "name": "Mill Valley Film Festival",
+    "status": "confirmed",
+    "website": "https://www.mvff.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "nlwave-2026@festival-ics.example",
+    "name": "NLWave",
+    "status": "confirmed",
+    "website": "https://www.filmfonds.nl/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "vancouver-international-film-festival-2026@festival-ics.example",
+    "name": "Vancouver International Film Festival",
+    "status": "confirmed",
+    "website": "https://viff.org/festival/viff-2026/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "hamptons-international-film-festival-2026@festival-ics.example",
+    "name": "Hamptons International Film Festival",
+    "status": "confirmed",
+    "website": "https://hamptonsfilmfest.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "adelaide-independent-film-festival-2026@festival-ics.example",
+    "name": "Adelaide Independent Film Festival",
+    "status": "confirmed",
+    "website": "https://auteursforum.com/aiff",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "busan-international-film-festival-2026@festival-ics.example",
+    "name": "Busan International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.biff.kr/eng/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "jakarta-world-cinema-2026@festival-ics.example",
+    "name": "Jakarta World Cinema",
+    "status": "confirmed",
+    "website": "https://jakartaworldcinema.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "bfi-london-film-festival-2026@festival-ics.example",
+    "name": "BFI London Film Festival",
+    "status": "confirmed",
+    "website": "https://whatson.bfi.org.uk/lff/Online/default.asp?BOparam::WScontent::loadArticle::permalink=homepagelff",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "dinard-british-irish-film-festival-2026@festival-ics.example",
+    "name": "Dinard British & Irish Film Festival",
+    "status": "confirmed",
+    "website": "https://www.dinardfestivaldufilm.fr/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "film-fest-gent-2026@festival-ics.example",
+    "name": "Film Fest Gent",
+    "status": "confirmed",
+    "website": "https://www.filmfestival.be/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "leiden-international-film-festival-2026@festival-ics.example",
+    "name": "Leiden International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.liff.nl/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "new-york-greek-film-expo-2026@festival-ics.example",
+    "name": "New York Greek Film Expo",
+    "status": "confirmed",
+    "website": "https://hellenicfilmsociety.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "sitges-film-festival-2026@festival-ics.example",
+    "name": "Sitges Film Festival",
+    "status": "confirmed",
+    "website": "https://sitgesfilmfestival.com/en/festival/sitges",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "durban-filmmart-2026@festival-ics.example",
+    "name": "Durban FilmMart",
+    "status": "confirmed",
+    "website": "https://durbanfilmmart.co.za/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "hot-springs-documentary-film-festival-2026@festival-ics.example",
+    "name": "Hot Springs Documentary Film Festival",
+    "status": "confirmed",
+    "website": "https://hsdfi.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "sydney-science-fiction-film-festival-2026@festival-ics.example",
+    "name": "Sydney Science Fiction Film Festival",
+    "status": "confirmed",
+    "website": "https://www.sydneysciencefictionfilmfestival.com.au/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "warsaw-international-film-festival-2026@festival-ics.example",
+    "name": "Warsaw International Film Festival",
+    "status": "confirmed",
+    "website": "https://wff.pl/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "asian-contents-film-market-2026@festival-ics.example",
+    "name": "Asian Contents & Film Market",
+    "status": "confirmed",
+    "website": "https://www.acfm.kr/eng/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "festival-du-nouveau-cinema-of-montreal-2026@festival-ics.example",
+    "name": "Festival du nouveau cinéma of Montreal",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "la-roche-sur-yon-international-film-festival-2026@festival-ics.example",
+    "name": "La Roche-sur-Yon International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.fif-85.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "mipcom-2026@festival-ics.example",
+    "name": "MIPCOM",
+    "status": "confirmed",
+    "website": "https://www.mipcom.com/en-gb.html",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "adelaide-film-festival-2026@festival-ics.example",
+    "name": "Adelaide Film Festival",
+    "status": "confirmed",
+    "website": "https://www.adelaidefilmfestival.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "bergen-international-film-festival-2026@festival-ics.example",
+    "name": "Bergen International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.biff.no/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "chelsea-film-festival-2026@festival-ics.example",
+    "name": "Chelsea Film Festival",
+    "status": "confirmed",
+    "website": "https://chelseafilm.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "chicago-international-film-festival-2026@festival-ics.example",
+    "name": "Chicago International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.chicagofilmfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "santa-fe-international-film-festival-2026@festival-ics.example",
+    "name": "Santa Fe International Film Festival",
+    "status": "confirmed",
+    "website": "https://santafe.film/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "woodstock-film-festival-2026@festival-ics.example",
+    "name": "Woodstock Film Festival",
+    "status": "confirmed",
+    "website": "https://woodstockfilmfestival.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "kerry-international-film-festival-2026@festival-ics.example",
+    "name": "Kerry International Film Festival",
+    "status": "confirmed",
+    "website": "https://kerryfilmfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "middleburg-film-festival-2026@festival-ics.example",
+    "name": "Middleburg Film Festival",
+    "status": "confirmed",
+    "website": "https://middleburgfilm.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "new-hampshire-film-festival-2026@festival-ics.example",
+    "name": "New Hampshire Film Festival",
+    "status": "confirmed",
+    "website": "https://nhfilmfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "newport-beach-film-festival-2026@festival-ics.example",
+    "name": "Newport Beach Film Festival",
+    "status": "confirmed",
+    "website": "https://newportbeachfilmfest.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "disappear-here-film-festival-2026@festival-ics.example",
+    "name": "Disappear Here Film Festival",
+    "status": "confirmed",
+    "website": "https://disappearherefilmfest.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "wildscreen-festival-2026@festival-ics.example",
+    "name": "Wildscreen Festival",
+    "status": "confirmed",
+    "website": "https://wildscreen.org/festival/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "afi-fest-2026@festival-ics.example",
+    "name": "AFI Fest",
+    "status": "confirmed",
+    "website": "https://fest.afi.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "jakarta-film-week-2026@festival-ics.example",
+    "name": "Jakarta Film Week",
+    "status": "confirmed",
+    "website": "https://jakartafilmweek.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "london-breeze-film-festival-2026@festival-ics.example",
+    "name": "London Breeze Film Festival",
+    "status": "confirmed",
+    "website": "https://londonbreezefilmfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "virginia-film-festival-2026@festival-ics.example",
+    "name": "Virginia Film Festival",
+    "status": "confirmed",
+    "website": "https://virginiafilmfestival.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "denver-film-festival-2026@festival-ics.example",
+    "name": "Denver Film Festival",
+    "status": "confirmed",
+    "website": "https://www.denverfilm.org/programs/denverfilmfestival/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "doc-n-roll-london-2026@festival-ics.example",
+    "name": "Doc’n Roll London",
+    "status": "confirmed",
+    "website": "https://www.docnrollfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "hawaii-international-film-festival-2026@festival-ics.example",
+    "name": "Hawaii International Film Festival",
+    "status": "confirmed",
+    "website": "https://hiff.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "roscommon-international-film-festival-2026@festival-ics.example",
+    "name": "Roscommon International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.roscommonfilm.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "ji-hlava-international-documentary-film-festival-2026@festival-ics.example",
+    "name": "Ji.hlava International Documentary Film Festival",
+    "status": "confirmed",
+    "website": "https://www.ji-hlava.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "valladolid-internacional-film-festival-2026@festival-ics.example",
+    "name": "Valladolid Internacional Film Festival",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "budapest-international-film-festival-2026@festival-ics.example",
+    "name": "Budapest International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.biff.hu/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "molodist-kyiv-international-film-festival-2026@festival-ics.example",
+    "name": "Molodist Kyiv International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.molodist.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "scad-savannah-film-festival-2026@festival-ics.example",
+    "name": "SCAD Savannah Film Festival",
+    "status": "confirmed",
+    "website": "https://filmfest.scad.edu/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "dok-leipzig-2026@festival-ics.example",
+    "name": "DOK Leipzig",
+    "status": "confirmed",
+    "website": "https://www.dok-leipzig.de/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "tokyo-international-film-festival-2026@festival-ics.example",
+    "name": "Tokyo International Film Festival",
+    "status": "confirmed",
+    "website": "https://2026.tiff-jp.net/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "evolution-mallorca-international-film-festival-2026@festival-ics.example",
+    "name": "Evolution Mallorca International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.evolutionfilmfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "tiffcom-2026@festival-ics.example",
+    "name": "TIFFCOM",
+    "status": "confirmed",
+    "website": "https://tiffcom.jp/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "austin-film-festival-2026@festival-ics.example",
+    "name": "Austin Film Festival",
+    "status": "confirmed",
+    "website": "https://austinfilmfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "belfast-film-festival-2026@festival-ics.example",
+    "name": "Belfast Film Festival",
+    "status": "confirmed",
+    "website": "https://belfastfilmfestival.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "filmchelt-cheltenham-film-festival-2026@festival-ics.example",
+    "name": "FilmChelt - Cheltenham Film Festival",
+    "status": "confirmed",
+    "website": "https://filmchelt.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "spooky-empire-horror-film-festival-2026@festival-ics.example",
+    "name": "Spooky Empire Horror Film Festival",
+    "status": "confirmed",
+    "website": "https://spookyempire.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "november-rehoboth-beach-international-film-festival-2026@festival-ics.example",
+    "name": "November Rehoboth Beach International Film Festival",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "the-american-french-film-festival-2026@festival-ics.example",
+    "name": "The American French Film Festival",
+    "status": "confirmed",
+    "website": "https://theamericanfrenchfilmfestival.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "aesthetica-short-film-festival-2026@festival-ics.example",
+    "name": "Aesthetica Short Film Festival",
+    "status": "confirmed",
+    "website": "https://www.asff.co.uk/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "french-film-festival-uk-2026@festival-ics.example",
+    "name": "French Film Festival UK",
+    "status": "confirmed",
+    "website": "https://frenchfilmfestival.org.uk/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "nordic-film-days-lubeck-2026@festival-ics.example",
+    "name": "Nordic Film Days Lubeck",
+    "status": "confirmed",
+    "website": "https://nordische-filmtage.de/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "european-film-festival-scanorama-2026@festival-ics.example",
+    "name": "European Film Festival Scanorama",
+    "status": "confirmed",
+    "website": "https://scanorama.lt/lt",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "leeds-international-film-festival-2026@festival-ics.example",
+    "name": "Leeds International Film Festival",
+    "status": "confirmed",
+    "website": "https://www.leedsfilm.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "three-rivers-film-festival-2026@festival-ics.example",
+    "name": "Three Rivers Film Festival",
+    "status": "confirmed",
+    "website": "https://filmpittsburgh.org/pages/three-rivers-film-festival",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "camerimage-film-festival-2026@festival-ics.example",
+    "name": "Camerimage Film Festival",
+    "status": "confirmed",
+    "website": "https://www.camerimage.pl/en",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "manchester-animation-festival-2026@festival-ics.example",
+    "name": "Manchester Animation Festival",
+    "status": "confirmed",
+    "website": "https://www.manchesteranimationfestival.co.uk/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "american-film-market-afm-2026@festival-ics.example",
+    "name": "American Film Market (AFM)",
+    "status": "confirmed",
+    "website": "https://americanfilmmarket.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "uk-november-11-doc-nyc-2026@festival-ics.example",
+    "name": "UK - November 11 DOC NYC",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "cork-international-film-festival-2026@festival-ics.example",
+    "name": "Cork International Film Festival",
+    "status": "confirmed",
+    "website": "https://corkfilmfest.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "international-documentary-film-festival-amsterdam-2026@festival-ics.example",
+    "name": "International Documentary Film Festival Amsterdam",
+    "status": "confirmed",
+    "website": "https://festival.idfa.nl/en/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "city-lights-film-festival-2026@festival-ics.example",
+    "name": "City Lights Film Festival",
+    "status": "confirmed",
+    "website": "https://citylightsfilmfestival.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "houston-greek-film-festival-2026@festival-ics.example",
+    "name": "Houston Greek Film Festival",
+    "status": "confirmed",
+    "website": "https://www.hgff.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "marrakech-film-festival-2026@festival-ics.example",
+    "name": "Marrakech Film Festival",
+    "status": "confirmed",
+    "website": "https://marrakech-festival.com/en/home/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "tfl-meeting-event-2026@festival-ics.example",
+    "name": "TFL Meeting Event",
+    "status": "confirmed",
+    "website": "https://www.torinofilmlab.it/events/tfl-meeting-event-2026",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "jaff-market-2026@festival-ics.example",
+    "name": "JAFF Market",
+    "status": "confirmed",
+    "website": "https://jaff-market.com/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "jogpa-netpac-asian-film-festival-2026@festival-ics.example",
+    "name": "Jogpa-NETPAC Asian Film Festival",
+    "status": "confirmed",
+    "website": "https://jaff-filmfest.org/",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "december-asia-tv-forum-market-2026@festival-ics.example",
+    "name": "December Asia TV Forum & Market",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "uid": "uk-december-3-red-sea-international-film-festival-2026@festival-ics.example",
+    "name": "UK - December 3 Red Sea International Film Festival",
+    "status": "confirmed",
+    "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article"
+  },
+  {
+    "name": "The Grand Bell Awards",
+    "status": "unknown",
+    "month": 12,
+    "website": "https://www.daijong.com/"
+  },
+  {
+    "name": "The Seoul Awards",
+    "status": "unknown",
+    "month": 10,
+    "website": "http://www.seoul.co.kr/"
+  },
+  {
+    "name": "tvN10 Awards",
+    "status": "unknown",
+    "month": 10,
+    "website": "http://tvn10festival.mnet.com/"
+  },
+  {
+    "name": "Golden Bell Awards",
+    "status": "unknown",
+    "month": 10,
+    "website": "https://gba.gba.tw/"
+  },
+  {
+    "name": "Sanlih Drama Awards",
+    "status": "unknown",
+    "month": 12,
+    "website": "https://www.settv.com.tw/"
+  },
+  {
+    "name": "Asianet Television Awards",
+    "status": "unknown",
+    "month": 8,
+    "website": "https://www.asianet.in/"
+  },
+  {
+    "name": "Big FM Tamil Entertainment Awards",
+    "status": "unknown",
+    "month": 3,
+    "website": "https://www.bigfmindia.com/"
+  },
+  {
+    "name": "BIG Star Entertainment Awards",
+    "status": "unknown",
+    "month": 12,
+    "website": "https://www.starplus.in/"
+  },
+  {
+    "name": "Colors Kannada Anubandha Awards",
+    "status": "unknown",
+    "month": 9,
+    "website": "https://www.voot.com/channel/colors-kannada"
+  },
+  {
+    "name": "Colors Marathi Awards",
+    "status": "unknown",
+    "month": 3,
+    "website": "https://www.voot.com/channel/colors-marathi"
+  },
+  {
+    "name": "FICCI Frames Excellence Awards",
+    "status": "unknown",
+    "month": 3,
+    "website": "https://www.ficci-frames.com/"
+  },
+  {
+    "name": "Gold Awards",
+    "status": "unknown",
+    "month": 10,
+    "website": "https://www.boroplusgoldawards.com/"
+  },
+  {
+    "name": "Iconic Gold Awards",
+    "status": "unknown",
+    "month": 3,
+    "website": "https://iconicgoldawards.com/"
+  },
+  {
+    "name": "Indian Television Academy Awards",
+    "status": "unknown",
+    "month": 12,
+    "website": "http://www.theitaawards.com/"
+  },
+  {
+    "name": "Indian Telly Awards",
+    "status": "unknown",
+    "month": 4,
+    "website": "https://tellyawards.indiantelevision.com/"
+  },
+  {
+    "name": "IReel Awards",
+    "status": "unknown",
+    "month": 9,
+    "website": "https://www.news18.com/"
+  },
+  {
+    "name": "Lions Gold Awards",
+    "status": "unknown",
+    "month": 1,
+    "website": "http://www.lionsclubofmumbai.org/"
+  },
+  {
+    "name": "Nandi Awards",
+    "status": "unknown",
+    "month": 3,
+    "website": "https://www.apsftvtdc.in/"
+  },
+  {
+    "name": "Nickelodeon Kids' Choice Awards India",
+    "status": "unknown",
+    "month": 2,
+    "website": "https://www.nickindia.com/"
+  },
+  {
+    "name": "People's Choice Awards India",
+    "status": "unknown",
+    "month": 11,
+    "website": "https://www.starplus.in/"
+  },
+  {
+    "name": "Producers Guild Film Awards",
+    "status": "unknown",
+    "month": 1,
+    "website": "https://producersguildindia.com/"
+  },
+  {
+    "name": "Sun Kudumbam Viruthugal",
+    "status": "unknown",
+    "month": 4,
+    "website": "https://www.suntv.in/"
+  },
+  {
+    "name": "Star Parivaar Awards",
+    "status": "unknown",
+    "month": 9,
+    "website": "https://www.starplus.in/"
+  },
+  {
+    "name": "Star Jalsha Parivar Awards",
+    "status": "unknown",
+    "month": 4,
+    "website": "https://www.starjalsha.in/"
+  },
+  {
+    "name": "Star Pravah Parivar Awards",
+    "status": "unknown",
+    "month": 4,
+    "website": "https://www.starpravah.in/"
+  },
+  {
+    "name": "Star Maa Parivaar Awards",
+    "status": "unknown",
+    "month": 3,
+    "website": "https://www.starmaa.in/"
+  },
+  {
+    "name": "Vijay Television Awards",
+    "status": "unknown",
+    "month": 5,
+    "website": "https://www.vijaytv.com/"
+  },
+  {
+    "name": "Zee Kannada Kutumba Awards",
+    "status": "unknown",
+    "month": 10,
+    "website": "https://www.zee5.com/"
+  },
+  {
+    "name": "Zee Marathi Utsav Natyancha Awards",
+    "status": "unknown",
+    "month": 11,
+    "website": "https://www.zee5.com/"
+  },
+  {
+    "name": "Zee Rishtey Awards",
+    "status": "unknown",
+    "month": 2,
+    "website": "https://www.zeetv.com/"
+  },
+  {
+    "name": "Zee Tamil Kudumbam Viruthugal",
+    "status": "unknown",
+    "month": 11,
+    "website": "https://www.zee5.com/"
+  },
+  {
+    "name": "Zee Telugu Kutumbam Awards",
+    "status": "unknown",
+    "month": 11,
+    "website": "https://www.zee5.com/"
+  },
+  {
+    "name": "Hum Awards",
+    "status": "unknown",
+    "month": 10,
+    "website": "https://www.humawards.com/"
+  },
+  {
+    "name": "Indus Telefilm Festival",
+    "status": "unknown",
+    "month": 3,
+    "website": "https://www.industv.net/"
+  },
+  {
+    "name": "Lux Style Awards",
+    "status": "unknown",
+    "month": 11,
+    "website": "https://www.luxstyle.pk/"
+  },
+  {
+    "name": "Pakistan Media Awards",
+    "status": "unknown",
+    "month": 12,
+    "website": "http://www.pakistanmediaawards.com/"
+  },
+  {
+    "name": "PTV Awards",
+    "status": "cancelled",
+    "month": 7,
+    "website": "https://www.ptv.com.pk/"
+  },
+  {
+    "name": "Raigam Tele'es",
+    "status": "confirmed",
+    "month": 3,
+    "website": "https://www.raigamtelees.lk/"
+  },
+  {
+    "name": "Sumathi Awards",
+    "status": "confirmed",
+    "website": "https://sumathiawards.lk/"
+  },
+  {
+    "name": "Dahsyatnya Awards",
+    "status": "unknown",
+    "month": 5,
+    "website": "https://www.rcti.tv/"
+  },
+  {
+    "name": "Indonesian Broadcasting Commission Awards",
+    "status": "unknown",
+    "month": 12,
+    "website": "https://kpi.go.id/"
+  },
+  {
+    "name": "Indonesian Choice Awards",
+    "status": "discontinued",
+    "website": "https://netverse.id"
+  },
+  {
+    "name": "Indonesian Television Awards",
+    "status": "unknown",
+    "month": 9,
+    "website": "https://www.indonesiantvawards.com/"
+  },
+  {
+    "name": "Nickelodeon Indonesia Kids' Choice Awards",
+    "status": "discontinued",
+    "month": 6,
+    "website": "www.globaltv.co.id/ikca"
+  },
+  {
+    "name": "Panasonic Gobel Awards",
+    "status": "discontinued",
+    "month": 12,
+    "website": "https://www.panasonic.com/id/"
+  },
+  {
+    "name": "SCTV Awards",
+    "status": "unknown",
+    "month": 10,
+    "website": "https://www.sctv.co.id/"
+  },
+  {
+    "name": "Infotainment Awards",
+    "status": "confirmed",
+    "website": "https://www.sctv.co.id/"
+  },
+  {
+    "name": "Golden Awards",
+    "status": "discontinued",
+    "month": 5,
+    "website": "https://www.8tv.com.my/"
+  },
+  {
+    "name": "Anugerah Meletop Era",
+    "status": "unknown",
+    "month": 10,
+    "website": "https://www.instagram.com/meletop/?hl=en"
+  },
+  {
+    "name": "Anugerah Bintang Popular Berita Harian",
+    "status": "unknown",
+    "month": 12,
+    "website": "https://www.abpbh.com.my/"
+  },
+  {
+    "name": "ASAP Pop Viewers' Choice Awards",
+    "status": "discontinued",
+    "month": 11,
+    "website": "https://abs-cbn.com/"
+  },
+  {
+    "name": "Box Office Entertainment Awards",
+    "status": "unknown",
+    "month": 6
+  },
+  {
+    "name": "Golden Screen TV Awards",
+    "status": "discontinued"
+  },
+  {
+    "name": "Nickelodeon Philippines Kids' Choice Awards",
+    "status": "discontinued",
+    "month": 11
+  },
+  {
+    "name": "PMPC Star Awards for Television",
+    "status": "unknown",
+    "month": 10
+  },
+  {
+    "name": "Pradhana Vizha",
+    "status": "confirmed",
+    "month": 2,
+    "website": "https://www.mediacorp.sg/pradhanavizha"
+  },
+  {
+    "name": "Star Awards",
+    "status": "confirmed",
+    "month": 4,
+    "website": "https://www.mediacorp.sg/starawards"
+  },
+  {
+    "name": "StarHub TVB Awards",
+    "status": "discontinued",
+    "month": 10,
+    "website": "https://www.starhub.com/"
+  },
+  {
+    "name": "Golden Television Awards",
+    "status": "confirmed"
+  },
+  {
+    "name": "Kom Chad Luek Award",
+    "status": "unknown",
+    "month": 5,
+    "website": "https://www.komchadluek.net/"
+  },
+  {
+    "name": "Maya Tv Awards",
+    "status": "unknown",
+    "month": 10,
+    "website": "https://www.maya-channel.com/maya_tv_awards/"
+  },
+  {
+    "name": "HTV Awards",
+    "status": "discontinued"
+  },
+  {
+    "name": "Kite Awards",
+    "status": "unknown",
+    "month": 9,
+    "website": "https://thegioidienanh.vn/"
+  },
+  {
+    "name": "National Television Festival",
+    "status": "unknown",
+    "month": 12,
+    "website": "https://vtv.vn/lien-hoan-truyen-hinh.htm"
+  },
+  {
+    "name": "VTV Awards",
+    "status": "cancelled",
+    "month": 1,
+    "website": "https://vtv.vn/"
+  },
+  {
+    "name": "Golden Butterfly Award",
+    "status": "unknown",
+    "month": 12,
+    "website": "https://www.pantenealtinkelebekodulleri.com/"
+  },
+  {
+    "name": "Japanese Film Festival Nippon Connection",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "2- 7, 2026 – Japanese Film Festival Nippon Connection | Frankfurt, Germany",
+    "website": "https://nipponconnection.com/en/start/"
+  },
+  {
+    "name": "Yubari International Fantastic Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "4 – 7, 2026 – Yubari International Fantastic Film Festival | Yubari, Japan",
+    "website": "https://www.yubari-fanta.com/"
+  },
+  {
+    "name": "Seoul Human Rights Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "4 – 7, 2026 – Seoul Human Rights Film Festival | Seoul, South Korea",
+    "website": "https://hrflix.org/"
+  },
+  {
+    "name": "Seoul International Eco Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "5 – 30, 2026 – Seoul International Eco Film Festival | Seoul, South Korea",
+    "website": "https://sieff.kr/"
+  },
+  {
+    "name": "Changing Climate, Changing Lives Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "12 – 21, 2026 – Changing Climate, Changing Lives Film Festival | Bangkok, Thailand",
+    "website": "https://www.ccclfilmfestival.com/en"
+  },
+  {
+    "name": "Japan Film Fest Hamburg",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "17 – 21, 2026 – Japan Film Fest Hamburg | Hamburg, Germany",
+    "website": "https://jffh.de/en"
+  },
+  {
+    "name": "Austin Asian American Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "24 – 28, 2026 – Austin Asian American Film Festival | Austin, USA",
+    "website": "https://www.aaafilmfest.org/"
+  },
+  {
+    "name": "Chuncheon Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "25 – 28, 2026 – Chuncheon Film Festival | Chuncheon, South Korea",
+    "website": "http://ccff.or.kr/"
+  },
+  {
+    "name": "Korea Queer Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "26 – 28, 2026 – Korea Queer Film Festival | Seoul, South Korea",
+    "website": "https://www.kqff.co.kr/"
+  },
+  {
+    "name": "Taipei Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "26 – 28, 2026 – Taipei Film Festival | Taipei, Taiwan",
+    "website": "https://www.taipeiff.taipei/en"
+  },
+  {
+    "name": "Bucheon International Fantastic Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "2 – 7, 2026 – Bucheon International Fantastic Film Festival | Bucheon, South Korea",
+    "website": "https://www.bifan.kr/"
+  },
+  {
+    "name": "Film Festival for Women’s Rights",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "8 – 12, 2026 – Film Festival for Women’s Rights | Seoul, South Korea",
+    "website": "https://www.fiwom.org/eng/main/main.html"
+  },
+  {
+    "name": "Busan International Kids & Youth Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "8 – 14, 2026 – Busan International Kids & Youth Film Festival | Busan, South Korea",
+    "website": "https://www.biky.or.kr/eng/"
+  },
+  {
+    "name": "Japan Cuts",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "8 – 18, 2026 – Japan Cuts | New York, United States",
+    "website": "https://japansociety.org/film/japancuts/"
+  },
+  {
+    "name": "Nits Festival of Oriental Cinema",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "14 – 19, 2026 – Nits Festival of Oriental Cinema | Vic, Spain",
+    "website": "https://cinemaoriental.com/en/"
+  },
+  {
+    "name": "Mini Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "18 – 19, 2026 – Mini Film Festival | Kota, Samarahan, Malaysia",
+    "website": "https://www.instagram.com/minifilmfestival/?hl=en"
+  },
+  {
+    "name": "Asian Film Festival of Dallas",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "23 – 26, 2026 – Asian Film Festival of Dallas | Dallas, USA",
+    "website": "https://asianfilmdallas.org/our-mission"
+  },
+  {
+    "name": "Experimental Film and Video Festival in Seoul",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "23 – 30, 2026 – Experimental Film and Video Festival in Seoul | Seoul, South Korea",
+    "website": "https://ex-is.org/"
+  },
+  {
+    "name": "Taiwan Film Festival in Australia",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "23 – September 6, 2026 – Taiwan Film Festival in Australia | Sydney, Australia",
+    "website": "https://www.taiwanfilmfestival.org.au/"
+  },
+  {
+    "name": "Asian American International Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "30 – August 9, 2026 – Asian American International Film Festival | New York, USA",
+    "website": "https://www.asiancinevision.org/aaiff/"
+  },
+  {
+    "name": "Bengaluru International Short Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "6 – 16, 2026 – Bengaluru International Short Film Festival | Bengaluru, India",
+    "website": "https://bisff.in/"
+  },
+  {
+    "name": "Jeongdongjin Independent Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "7 – 10, 2026 – Jeongdongjin Independent Film Festival | Jeongdongjin, South Korea",
+    "website": "https://jiff.kr/"
+  },
+  {
+    "name": "Binisaya Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "16 – 23, 2026 – Binisaya Film Festival | Cebu, Philippines"
+  },
+  {
+    "name": "Hiroshima Animation Season",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "19 – 23, 2026 – Hiroshima Animation Season | Hiroshima, Japan",
+    "website": "https://animation.hiroshimafest.org/en/"
+  },
+  {
+    "name": "Seoul International Women’s Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "20 – 26, 2026 – Seoul International Women’s Film Festival | Seoul, South Korea",
+    "website": "https://siwff.or.kr/eng/"
+  },
+  {
+    "name": "Cheongju International Short Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "21 – 23, 2026 – Cheongju International Short Film Festival | Cheongju, South Korea",
+    "website": "https://cjiff.co.kr/"
+  },
+  {
+    "name": "Seoul International NewMedia Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "21 – 27, 2026 – Seoul International NewMedia Festival | Seoul, South Korea",
+    "website": "https://www.nemaf.net/"
+  },
+  {
+    "name": "EBS International Documentary Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "24 – 30, 2026 – EBS International Documentary Festival | Seoul, South Korea",
+    "website": "https://www.eidf.co.kr/eng"
+  },
+  {
+    "name": "International Documentary & Short Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "August, 2026 – International Documentary & Short Film Festival | Trivandrum, India",
+    "website": "https://dokufest.com/"
+  },
+  {
+    "name": "Docs by The Sea",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "1 – 9, 2026 – Docs by The Sea | Indonesia",
+    "website": "https://docsbythesea.org/"
+  },
+  {
+    "name": "Aichi International Women’s Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "2 – 6, 2026 – Aichi International Women’s Film Festival | Aichi, Japan",
+    "website": "https://www.aiwff.com/2026/en/"
+  },
+  {
+    "name": "Korean Film Festival in Barcelona",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "2 – 6, 2026 – Korean Film Festival in Barcelona | Barcelona, Spain",
+    "website": "https://koreanfilmfestivalbcn.com/"
+  },
+  {
+    "name": "Persons with Disabilities Film Festival (rescheduled tba)",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "3 – 7, 2026 – Persons with Disabilities Film Festival | Seoul, South Korea",
+    "website": "https://www.pdff.or.kr/"
+  },
+  {
+    "name": "Jecheon International Music & Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "3 – 8, 2026 – Jecheon International Music & Film Festival | Jecheon, South Korea",
+    "website": "https://jimff.org/eng/"
+  },
+  {
+    "name": "Taiwan Film Festival of Boson",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "4 – 5, 2026 – Taiwan Film Festival of Boson | Boston, USA",
+    "website": "https://taiwanfilmfest.org/"
+  },
+  {
+    "name": "Vancouver Taiwanese Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "4 – 5, 2026 – Vancouver Taiwanese Film Festival | Vancouver, Canada",
+    "website": "https://www.twff.ca/"
+  },
+  {
+    "name": "Japan Film Festival Los Angeles",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "4 – 6, 2026 – Japan Film Festival Los Angeles | Los Angeles, USA",
+    "website": "https://jffla.org/"
+  },
+  {
+    "name": "Hong Kong Lesbian and Gay Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "4 – 19, 2026 – Hong Kong Lesbian and Gay Film Festival | Hong Kong",
+    "website": "https://www.hklgff.hk/"
+  },
+  {
+    "name": "Seoul International Children’s Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "10 – 15, 2026 – Seoul International Children’s Film Festival | Seoul, South Korea",
+    "website": "https://www.sicff.kr/eng/"
+  },
+  {
+    "name": "ARKIPEL Jakarta International Documentary & Experimental Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "10 – 21, 2026 – ARKIPEL Jakarta International Documentary & Experimental Film Festival | Jakarta, Indonesia",
+    "website": "https://arkipel.id/"
+  },
+  {
+    "name": "DC South Asian Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "11 – 13, 2026 – DC South Asian Film Festival | Washington, USA",
+    "website": "https://dcsaaci.org/"
+  },
+  {
+    "name": "Minikino Film Week",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "11 – 18, 2026 – Minikino Film Week | Bali, Indonesia",
+    "website": "https://minikino.org/filmweek/"
+  },
+  {
+    "name": "Kota Kinabalu International Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "12 – 20, 2026 – Kota Kinabalu International Film Festival | Kota Kinabalu, Malaysia",
+    "website": "https://www.kkiff.com/"
+  },
+  {
+    "name": "Chicago South Asian Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "17 – 20, 2026 – Chicago South Asian Film Festival | Chicago, USA",
+    "website": "https://www.csaff.org/"
+  },
+  {
+    "name": "Korea Independent Animation Film Festival Indie-Anifest",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "17 – 22, 2026 – Korea Independent Animation Film Festival Indie-Anifest | Seoul, South Korea",
+    "website": "https://www.ianifest.org/"
+  },
+  {
+    "name": "Gyeonggi Film School Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "18 – 20, 2026 – Gyeonggi Film School Festival | Gyeonggi, South Korea",
+    "website": "https://www.gfsf.co.kr/"
+  },
+  {
+    "name": "Ulju Mountain Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "18 – 22, 2026 – Ulju Mountain Film Festival | Ulsan, South Korea",
+    "website": "https://www.umff.kr/eng/default.asp"
+  },
+  {
+    "name": "Taiwan Film Festival Berlin",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "18 – 26, 2026 – Taiwan Film Festival Berlin | Berlin, Germany",
+    "website": "https://tffberlin.de/"
+  },
+  {
+    "name": "Image Forum Festival Tokyo",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "19 – 25, 2026 – Image Forum Festival Tokyo | Tokyo, Japan",
+    "website": "https://www.imageforumfestival.com/2026/en/bosyu/gaiyo/"
+  },
+  {
+    "name": "Nara International Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "20 – 23, 2026 – Nara International Film Festival | Nara, Japan",
+    "website": "https://nara-iff.jp/"
+  },
+  {
+    "name": "Camera Japan Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "23 – October 4, 2026 – Camara Japan Festival | Rotterdam & Amsterdam, Netherlands",
+    "website": "https://camerajapan.nl/"
+  },
+  {
+    "name": "Odyssey Chinese Cinema Season",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "28 – October 10, 2026 – Odyssey Chinese Cinema Season | London, UK",
+    "website": "https://www.odysseychinesecinema.uk/"
+  },
+  {
+    "name": "Raintown Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "September, 2026 – Raintown Film Festival | Taiping, Malaysia",
+    "website": "https://www.instagram.com/raintownfilmfestival/?hl=en"
+  },
+  {
+    "name": "Mosaic International South Asian Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "1 – 4, 2026 – Mosaic International South Asian Film Festival | Mississauga, Canada",
+    "website": "https://www.misaff.com/"
+  },
+  {
+    "name": "Taichung International Animation Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "3 – 10, 2026 – Taichung International Animation Festival | Taichung, Taiwan",
+    "website": "https://twtiaf.com/2025/index.php"
+  },
+  {
+    "name": "Tasveer Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "6 – 12, 2026 – Tasveer Film Festival | Seattle, USA",
+    "website": "https://tasveer.org/tasveer-film-festival/"
+  },
+  {
+    "name": "Viet Film Fest",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "9 – 11, 2026 – Viet Film Fest | Los Angeles, USA",
+    "website": "https://www.vietfilmfest.com/"
+  },
+  {
+    "name": "IFVA Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "9 – 25, 2026 – IFVA Film Festival | Hong Kong",
+    "website": "https://ifva.com/"
+  },
+  {
+    "name": "Kaohsiung Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "9 – 26, 2026 – Kaohsiung Film Festival | Kaohsiung, Taiwan",
+    "website": "https://www.kff.tw/en"
+  },
+  {
+    "name": "Boston Asian American Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "15 – 25, 2026 – Boston Asian American Film Festival | Boston, USA",
+    "website": "https://baaff.org/"
+  },
+  {
+    "name": "Women Makes Waves International Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "16 – 25, 2026 – Women Makes Waves Film Festival | Taipei, Taiwan",
+    "website": "https://www.wmw.org.tw/en"
+  },
+  {
+    "name": "Seoul International Senior Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "20 – 23, 2026 – Seoul International Senior Film Festival | Seoul, South Korea",
+    "website": "http://sisff.seoulnoin.or.kr/"
+  },
+  {
+    "name": "Project K – The Korean Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "20 – 25, 2026 – Project K – The Korean Film Festival | Frankfurt, Germany",
+    "website": "https://projectkffm.de/"
+  },
+  {
+    "name": "Singapore International Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "21 – November 1, 2026 – Singapore International Film Festival | Singapore",
+    "website": "https://sgiff.com/"
+  },
+  {
+    "name": "Asian Film Festival Barcelona",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "22 – November 1, 2026 – Asian Film Festival Barcelona | Barcelona, Spain",
+    "website": "https://asianfilmfestival.barcelona/2026/"
+  },
+  {
+    "name": "Sapporo International Short Film Festival and Market",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "23 – 25, 2026 – Sapporo International Short Film Festival and Market | Sapporo, Japan",
+    "website": "https://sapporoshortfest.jp/index-en/"
+  },
+  {
+    "name": "Bucheon International Animation Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "23 – 27, 2026 – Bucheon International Animation Festival | Bucheon, South Korea",
+    "website": "https://www.biaf.or.kr/en/"
+  },
+  {
+    "name": "Ngilngig Asian Fantastic Film Festival Davao",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "24 – 28, 2026 – Ngilngig Asian Fantastic Film Festival Davao | Davao City, Philippines",
+    "website": "https://ngilngig.com/"
+  },
+  {
+    "name": "Kuandu International Animation Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "25 – 31, 2026 – Kuandu International Animation Festival | Taipei, Taiwan",
+    "website": "https://kdiaf.tnua.edu.tw/web/program/program.jsp?cp_id=CP1761735796590&lang=en"
+  },
+  {
+    "name": "Korean Film Festival in Paris",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "27 – November 3, 2026 – Korean Film Festival in Paris | Paris, France",
+    "website": "http://www.ffcp-cinema.com/"
+  },
+  {
+    "name": "Dharamshala International Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "29 – November 1, 2026 – Dharamshala International Film Festival | Dharamshala, India",
+    "website": "https://diff.co.in/"
+  },
+  {
+    "name": "Kineko International Children’s Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "30 – November 3, 2026 – Kineko International Children’s Film Festival | Tokyo, Japan",
+    "website": "https://www.kineko.jp/"
+  },
+  {
+    "name": "Beijing Queer Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "30 – November 8, 2026 – Beijing Queer Film Festival | Beijing, China",
+    "website": "https://www.bjqff.com/"
+  },
+  {
+    "name": "SeaShorts Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "October, 2026 – SeaShorts Film Festival | Malacca, Malaysia",
+    "website": "https://www.instagram.com/seashortsfilmfest/?hl=en"
+  },
+  {
+    "name": "San Diego Asian Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "5 – 14, 2026 – San Diego Asian Film Festival | San Diego, USA",
+    "website": "https://sdaff.org/2025/"
+  },
+  {
+    "name": "Philadelphia Asian American Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "5 – 15, 2026 – Philadelphia Asian American Film Festival | Philadelphia, USA",
+    "website": "https://paaff.org/"
+  },
+  {
+    "name": "Vancouver Asian Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "5 – 15, 2026 – Vancouver Asian Film Festival | Vancouver, Canada",
+    "website": "https://vaff.org/"
+  },
+  {
+    "name": "Taipei Golden Horse Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "6 – 22, 2026 – Taipei Golden Horse Film Festival | Taipei, Taiwan",
+    "website": "https://www.goldenhorse.org.tw/"
+  },
+  {
+    "name": "Five Flavours Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "10 – 17, 2026 – Five Flavours Film Festival | Warsaw, Poland",
+    "website": "https://www.piecsmakow.pl/index.do?lang=en"
+  },
+  {
+    "name": "Toronto Reel Asian International Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "11 – 21, 2026 – Toronto Reel Asian International Film Festival | Toronto, Canada",
+    "website": "https://www.reelasian.com/"
+  },
+  {
+    "name": "Asian World Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "12 – 19, 2026 – Asian World Film Festival | Los Angeles, USA",
+    "website": "https://www.asianworldfilmfest.org/"
+  },
+  {
+    "name": "QCinema International Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "13 – 22, 2026 – QCinema International Film Festival | Quezon City, Philippines",
+    "website": "https://qcinema.ph/"
+  },
+  {
+    "name": "Cartoons Underground",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "14 – 15, 2026 – Cartoons Underground | Singapore",
+    "website": "https://cartoonsunderground.com/"
+  },
+  {
+    "name": "Yellowstone International Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "14 – 20, 2026 – Yellowstone International Film Festival | Noida, India",
+    "website": "https://yellowstoneinternationalfilmfestival.com/"
+  },
+  {
+    "name": "New Chitose Airport International Animation Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "20 – 24, 2026 – New Chitose Airport International Animation Festival | Chitose, Japan",
+    "website": "https://airport-anifes.jp/en/"
+  },
+  {
+    "name": "Festival Film Dokumenter",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "20 – 27, 2026 – Festival Film Dokumenter | Yogyakarta, Indonesia",
+    "website": "https://ffd.or.id/"
+  },
+  {
+    "name": "Mulan International Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "21 – December 3, 2026 – Mulan International Film Festival | Toronto, Canada",
+    "website": "https://mulanfestival.com/"
+  },
+  {
+    "name": "Film SouthAsia",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "26 – 29, 2026 – Film SouthAsia | Kathmandu, Nepal",
+    "website": "https://filmsouthasia.org/"
+  },
+  {
+    "name": "Nepal Human Rights International Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "27 – December 1, 2026 – Nepal Human Rights International Film Festival | Kathmandu, Nepal",
+    "website": "https://hrfilms.org/filmfestival/"
+  },
+  {
+    "name": "Jogja NETPAC Asian Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "28 – December 5, 2026 – Jogja NETPAC Asian Film Festival | Yogyakarta, Indonesia",
+    "website": "https://jaff-filmfest.org/"
+  },
+  {
+    "name": "Tokyo FILMex International Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "November, 2026 – Tokyo FILMex International Film Festival | Tokyo, Japan",
+    "website": "https://www.filmex.jp/en/"
+  },
+  {
+    "name": "Asia TV Forum & Market",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "1 – 4, 2026 – Asia TV Forum & Market | Singapore (Film and TV Forum)",
+    "website": "https://www.asiatvforum.com/"
+  },
+  {
+    "name": "Luang Prabang Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "3 – 7, 2026 – Luang Prabang Film Festival | Luang Prabang, Laos",
+    "website": "https://bluechair.film/"
+  },
+  {
+    "name": "Red Sea International Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "3 – 12, 2026 – Red Sea International Film Festival | Saudi Arabia",
+    "website": "https://redseafilmfest.com/en/"
+  },
+  {
+    "name": "International Film Festival of Kerala",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "11 – 18, 2026 – International Film Festival of Kerala | Thiruvananthapuram, India",
+    "website": "https://iffk.in/"
+  },
+  {
+    "name": "Metro Manila Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "25, 2026 – January 7, 2027 – Metro Manila Film Festival | Metro Manila, Philippines"
+  },
+  {
+    "name": "Manila International Film Festival",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "25, 2026 – January 7, 2027 – Metro Manila Film Festival | Metro Manila, Philippines"
+  },
+  {
+    "name": "Kinotayo Festival of Contemporary Japanese Cinema in France",
+    "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+    "rawText": "December 2026 – Kinotayo Festival of Contemporary Japanese Cinema in France | Paris, France",
+    "website": "https://kinotayo.fr/"
+  },
+  {
+    "name": "South African Film and Television Awards, SAFTA",
+    "status": "unknown",
+    "month": 10,
+    "website": "https://www.facebook.com/saftassa/"
+  },
+  {
+    "name": "Children's and Family Emmy Awards",
+    "website": "https://theemmys.tv/childrens/"
+  },
+  {
+    "name": "Daytime Emmy Awards",
+    "website": "https://theemmys.tv/daytime/"
+  },
+  {
+    "name": "International Emmy Awards",
+    "month": 11,
+    "website": "https://www.iemmys.tv/"
+  },
+  {
+    "name": "News and Documentary Emmy Awards",
+    "website": "https://theemmys.tv/news/"
+  },
+  {
+    "name": "Primetime Emmy Awards",
+    "website": "https://theemmys.tv/sports/"
+  },
+  {
+    "name": "Sports Emmy Awards",
+    "website": "https://theemmys.tv/"
+  },
+  {
+    "name": "Technology and Engineering Emmy Awards",
+    "website": "https://theemmys.tv/tech/"
+  },
+  {
+    "name": "American Reality Television Awards",
+    "status": "unknown",
+    "month": 4,
+    "website": "https://www.realitytelevisionawards.com/"
+  },
+  {
+    "name": "Annie Awards",
+    "website": "https://annieawards.org/"
+  },
+  {
+    "name": "Critics' Choice Television Award",
+    "website": "https://www.criticschoice.com/"
+  },
+  {
+    "name": "Dorian Awards",
+    "website": "https://www.galeca.org/dorianawards"
+  },
+  {
+    "name": "Genesis Awards",
+    "status": "unknown",
+    "month": 3,
+    "website": "https://www.humanesociety.org/"
+  },
+  {
+    "name": "Global TV Demand Awards",
+    "status": "unknown",
+    "month": 1,
+    "website": "https://www.parrotanalytics.com/"
+  },
+  {
+    "name": "GLAAD Media Awards",
+    "website": "https://glaad.org/mediaawards"
+  },
+  {
+    "name": "Golden Globe Awards",
+    "website": "https://goldenglobes.com/"
+  },
+  {
+    "name": "Humanitas Prize",
+    "website": "https://www.humanitasprize.org/"
+  },
+  {
+    "name": "MTV Movie & TV Awards",
+    "status": "discontinued",
+    "month": 6,
+    "website": "https://www.mtv.com/"
+  },
+  {
+    "name": "National Reality Television Awards",
+    "month": 9,
+    "website": "https://nationalrealitytvawards.org/"
+  },
+  {
+    "name": "Peabody Award",
+    "website": "https://peabodyawards.com/"
+  },
+  {
+    "name": "Soap Opera Digest Awards",
+    "status": "discontinued",
+    "website": "https://www.soapoperadigest.com/"
+  },
+  {
+    "name": "Television Academy Honors",
+    "status": "unknown",
+    "month": 5,
+    "website": "https://www.televisionacademy.com/"
+  },
+  {
+    "name": "Young Artist Awards",
+    "status": "unknown",
+    "month": 10,
+    "website": "https://www.youngartistacademy.info/newsite/"
+  },
+  {
+    "name": "Young Hollywood Awards",
+    "status": "discontinued",
+    "website": "https://variety.com/"
+  },
+  {
+    "name": "Women in Film & Video-DC Women of Vision Awards",
+    "status": "unknown",
+    "month": 11,
+    "website": "https://www.wifv.org/"
+  },
+  {
+    "name": "Women in Film Honors",
+    "month": 10,
+    "website": "https://womeninfilm.org/honors/"
+  },
+  {
+    "name": "ACTRA Award",
+    "status": "discontinued"
+  },
+  {
+    "name": "Artis Award",
+    "status": "discontinued"
+  },
+  {
+    "name": "Canadian Screen Awards",
+    "website": "https://www.academy.ca/canadian-screen-awards/rules-eligibility/"
+  },
+  {
+    "name": "CAFTCAD Awards",
+    "website": "https://www.caftcad.com/"
+  },
+  {
+    "name": "Constellation Awards",
+    "status": "discontinued"
+  },
+  {
+    "name": "Directors Guild of Canada Awards",
+    "status": "unknown",
+    "month": 10,
+    "website": "https://www.dgc.ca/"
+  },
+  {
+    "name": "Gemini Awards",
+    "status": "discontinued"
+  },
+  {
+    "name": "Golden Maple Awards",
+    "status": "discontinued"
+  },
+  {
+    "name": "Leo Awards",
+    "website": "https://www.leoawards.com/"
+  },
+  {
+    "name": "MetroStar Award",
+    "status": "discontinued"
+  },
+  {
+    "name": "Prix Gémeaux",
+    "website": "https://academie.ca/prixgemeaux"
+  },
+  {
+    "name": "Rosie Awards (AMPIA Awards)",
+    "website": "https://ampia.org/2026-rosie-awards/"
+  },
+  {
+    "name": "Spacey Awards",
+    "status": "discontinued"
+  },
+  {
+    "name": "TCA Awards",
+    "website": "https://www.tvcritics.org/tca-awards"
+  },
+  {
+    "name": "WGC Screenwriting Awards",
+    "month": 4,
+    "website": "https://www.wgc.ca/"
+  },
+  {
+    "name": "Platino Awards",
+    "website": "https://www.premiosplatino.com/"
+  },
+  {
+    "name": "Premios Aura",
+    "website": "https://premiosaura.com/"
+  },
+  {
+    "name": "Clarín Awards",
+    "status": "discontinued"
+  },
+  {
+    "name": "Martín Fierro Awards",
+    "website": "https://aptra.org.ar/"
+  },
+  {
+    "name": "Tato Awards",
+    "status": "discontinued"
+  },
+  {
+    "name": "Meus Prêmios Nick",
+    "status": "discontinued"
+  },
+  {
+    "name": "Prêmio Extra de Televisão",
+    "status": "discontinued"
+  },
+  {
+    "name": "Troféu Imprensa",
+    "month": 4,
+    "website": "https://www.sbt.com.br/"
+  },
+  {
+    "name": "Caleuche Awards",
+    "website": "https://www.premioscaleuche.cl/"
+  },
+  {
+    "name": "Cartagena Film Festival ",
+    "website": "https://ficcifestival.com/"
+  },
+  {
+    "name": "Premios Nuestra Tierra",
+    "website": "https://premiosnuestratierra.rcnradio.com/"
+  },
+  {
+    "name": "Macondo Awards",
+    "website": "https://academiacolombianadecine.org/"
+  },
+  {
+    "name": "Premios TVyNovelas",
+    "status": "discontinued"
+  },
+  {
+    "name": "Luis Alberto del Paraná Award",
+    "status": "unknown",
+    "month": 10,
+    "website": "https://www.jcaproducciones.com.py/"
+  },
+  {
+    "name": "Premios Juventud",
+    "month": 7,
+    "website": "https://www.univision.com/premios-juventud"
+  },
+  {
+    "name": "Iris Award (Uruguay)",
+    "status": "discontinued"
+  },
+  {
+    "name": "European Film Awards",
+    "website": "https://www.europeanfilmawards.eu/"
+  },
+  {
+    "name": "Prix Europa",
+    "website": "https://www.prixeuropa.eu/"
+  },
+  {
+    "name": "Rose d'Or",
+    "website": "https://www.rosedor.com/"
+  },
+  {
+    "name": "Romy (Tv Award)",
+    "status": "unknown",
+    "month": 11,
+    "website": "https://kurier.at/romy"
+  },
+  {
+    "name": "Joseph Plateau Award",
+    "status": "discontinued"
+  },
+  {
+    "name": "Vlaamse Televisie Sterren",
+    "status": "discontinued"
+  },
+  {
+    "name": "7 d'Or",
+    "status": "discontinued"
+  },
+  {
+    "name": "FIPA Awards (FIPADOC)",
+    "website": "https://www.fipadoc.com/"
+  },
+  {
+    "name": "Jules Verne Award",
+    "status": "discontinued",
+    "month": 10,
+    "website": "https://www.julesverne.org/"
+  },
+  {
+    "name": "Export Award (Prix Unifrance de l’export audiovisuel)",
+    "status": "unknown",
+    "month": 12,
+    "website": "https://www.unifrance.org/festivals-et-marches/1240/prix-unifrance-de-l-export-audiovisuel"
+  },
+  {
+    "name": "Bambi Award",
+    "status": "cancelled",
+    "website": "https://www.bambi.de/"
+  },
+  {
+    "name": "Bavarian TV Awards (Bayerischer Fernsehpreis)",
+    "website": "https://www.bayern.de/"
+  },
+  {
+    "name": "Deutscher Comedypreis",
+    "status": "unknown",
+    "website": "https://www.deutscher-comedypreis.de/"
+  },
+  {
+    "name": "Deutscher Fernsehpreis (German Television Awards)",
+    "website": "https://www.deutscher-fernsehpreis.de/"
+  },
+  {
+    "name": "Felix-Rexhausen Award",
+    "status": "unknown"
+  },
+  {
+    "name": "German Soap Award",
+    "status": "discontinued"
+  },
+  {
+    "name": "Goldene Europa",
+    "status": "discontinued"
+  },
+  {
+    "name": "Golden Camera (Goldene Kamera)",
+    "status": "discontinued"
+  },
+  {
+    "name": "Grimme-Preis",
+    "website": "https://www.grimme-preis.de/"
+  },
+  {
+    "name": "Heinrich Greif Prize",
+    "status": "discontinued"
+  },
+  {
+    "name": "Telestar",
+    "status": "discontinued"
+  },
+  {
+    "name": "Prosopa (Greek Television Awards)",
+    "status": "discontinued"
+  },
+  {
+    "name": "Premi Internazionali Flaiano",
+    "website": "https://www.premiflaiano.com/"
+  },
+  {
+    "name": "Flaiano Film Festival",
+    "website": "https://www.premiflaiano.com/"
+  },
+  {
+    "name": "Eutelsat TV Awards",
+    "status": "discontinued"
+  },
+  {
+    "name": "Prix Italia",
+    "website": "https://www.rai.it/prixitalia/"
+  },
+  {
+    "name": "Telegatto",
+    "status": "discontinued"
+  },
+  {
+    "name": "Venice TV Award",
+    "website": "https://venicetvaward.com/"
+  },
+  {
+    "name": "Golden Globes (Portugal)",
+    "website": "https://sic.pt/programas/globosdeourosic/gala-xxx"
+  },
+  {
+    "name": "Prémio Autores",
+    "status": "unknown",
+    "website": "https://www.spautores.pt/"
+  },
+  {
+    "name": "Premios Feroz",
+    "website": "https://www.informadoresdecine.es/"
+  },
+  {
+    "name": "Premios Ondas",
+    "status": "unknown",
+    "website": "https://www.premiosondas.com/"
+  },
+  {
+    "name": "Premios People en Español",
+    "status": "discontinued"
+  },
+  {
+    "name": "TP de Oro",
+    "status": "discontinued"
+  },
+  {
+    "name": "Your World Awards (Premios Tu Mundo)",
+    "status": "discontinued"
+  },
+  {
+    "name": "Czech Lion Award for Best Television Film or Miniseries",
+    "website": "https://www.filmovaakademie.cz/"
+  },
+  {
+    "name": "Czech Lion Award for Best TV Series",
+    "website": "https://www.filmovaakademie.cz/"
+  },
+  {
+    "name": "Polish Academy Award for Best TV Series (Eagles)",
+    "website": "https://pnf.pl/"
+  },
+  {
+    "name": "Golden Eagle Award (Russia)",
+    "website": "https://kinoacademy.ru/"
+  },
+  {
+    "name": "TEFI-Capital",
+    "website": "https://www.tefi.ru/"
+  },
+  {
+    "name": "TEFI-Region",
+    "website": "https://www.tefi.ru/"
+  },
+  {
+    "name": "TEFI-Kids",
+    "website": "https://www.tefi.ru/"
+  },
+  {
+    "name": "OTO Awards",
+    "status": "discontinued"
+  },
+  {
+    "name": "Plus 7 dní Award for TV Act of the Year",
+    "status": "discontinued"
+  },
+  {
+    "name": "Venla award",
+    "status": "discontinued"
+  },
+  {
+    "name": "Golden Venla (Kultainen Venla)",
+    "website": "https://www.kultainenvenla.fi/"
+  },
+  {
+    "name": "Telvis",
+    "status": "discontinued"
+  },
+  {
+    "name": "IFTA Film & Drama Awards",
+    "website": "http://ifta.ie/awards"
+  },
+  {
+    "name": "Jacob's Award",
+    "status": "discontinued"
+  },
+  {
+    "name": "TV Now Awards",
+    "status": "discontinued"
+  },
+  {
+    "name": "Gullruten",
+    "website": "https://gullruten.no/"
+  },
+  {
+    "name": "Komiprisen",
+    "status": "discontinued"
+  },
+  {
+    "name": "Kristallen",
+    "website": "https://kristallen.tv/"
+  },
+  {
+    "name": "Asian Viewers Television Awards (AVTA)",
+    "status": "discontinued",
+    "website": "https://avta.tv/"
+  },
+  {
+    "name": "BFI TV 100",
+    "status": "discontinued"
+  },
+  {
+    "name": "British Academy Television Awards (BAFTA TV Awards)",
+    "website": "https://www.bafta.org/"
+  },
+  {
+    "name": "British Academy Cymru Awards (BAFTA Cymru)",
+    "website": "https://www.bafta.org/awards/"
+  },
+  {
+    "name": "British Academy Scotland Awards (BAFTA Scotland)",
+    "website": "https://www.bafta.org/awards/"
+  },
+  {
+    "name": "British Academy Television Craft Awards",
+    "website": "https://www.bafta.org/awards/"
+  },
+  {
+    "name": "British Comedy Awards",
+    "status": "discontinued"
+  },
+  {
+    "name": "The British Environment and Media Awards (BEMAs)",
+    "status": "discontinued"
+  },
+  {
+    "name": "British Television Advertising Awards (British Arrows)",
+    "website": "https://www.britisharrows.com/"
+  },
+  {
+    "name": "Young Arrows",
+    "website": "https://www.britisharrows.com/events/young-arrows"
+  },
+  {
+    "name": "The Art of Craft Festival",
+    "website": "https://www.britisharrows.com/"
+  },
+  {
+    "name": "Crime Thriller Awards",
+    "status": "discontinued"
+  },
+  {
+    "name": "Digital Spy Reader Awards",
+    "status": "unknown",
+    "month": 12,
+    "website": "https://www.digitalspy.com/"
+  },
+  {
+    "name": "Greatest Britons",
+    "status": "discontinued"
+  },
+  {
+    "name": "Inside Soap Awards",
+    "status": "unknown",
+    "month": 9,
+    "website": "https://www.insidesoap.co.uk/"
+  },
+  {
+    "name": "National Reality Television Awards (UK)",
+    "website": "https://nationalrealitytvawards.org/"
+  },
+  {
+    "name": "National Television Awards (NTAs)",
+    "website": "https://www.nationaltvawards.com/"
+  },
+  {
+    "name": "Nickelodeon UK Kids' Choice Awards",
+    "status": "discontinued"
+  },
+  {
+    "name": "Pride of Britain Awards",
+    "status": "unknown",
+    "month": 10,
+    "website": "https://www.prideofbritain.com/"
+  },
+  {
+    "name": "Royal Television Society Programme Awards (RTS)",
+    "website": "https://rts.org.uk/"
+  },
+  {
+    "name": "Sandford St Martin Awards",
+    "website": "https://sandfordawards.org.uk/"
+  },
+  {
+    "name": "Screen Nation Film and Television Awards",
+    "status": "discontinued",
+    "website": "https://www.screennation.org/"
+  },
+  {
+    "name": "The British Soap Awards",
+    "status": "discontinued",
+    "website": "https://www.britishsoapawards.tv/"
+  },
+  {
+    "name": "TRIC Awards",
+    "website": "https://tric.org.uk/"
+  },
+  {
+    "name": "TV Choice Awards",
+    "website": "https://www.tvchoicemagazine.co.uk/"
+  },
+  {
+    "name": "WFTV Awards",
+    "website": "https://wftv.org.uk/"
+  }
+]

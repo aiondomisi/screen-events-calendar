@@ -1,0 +1,29 @@
+---
+import "../styles/global.css";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Screen Events Calendar</title>
+  </head>
+  <body
+    class="mx-auto my-12 flex w-full max-w-4xl flex-col gap-5 px-[clamp(1rem,5vw,3rem)]"
+  >
+    <slot />
+    <div>
+      <p>
+        Found a wrong date or a missing festival? Use the feedback button in the
+        corner to report it.
+      </p>
+    </div>
+    <footer class="flex justify-center mt-15">
+      <p>© 2026 Screen Events Calendar</p>
+    </footer>
+    <script
+      src="https://bugdrop.neonwatty.workers.dev/widget.js"
+      data-repo="aiondomisi/screen-events-calendar"></script>
+  </body>
+</html>

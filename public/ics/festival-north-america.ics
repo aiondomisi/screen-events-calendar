@@ -1,0 +1,237 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:guadalajara-international-film-festival-2026@festival-ics.example
+SUMMARY:Guadalajara International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260425
+DESCRIPTION:festival\nWebsite: https://ficg.mx/en/\nSource: https://www.scr
+	eendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/52
+	11872.article
+URL:https://ficg.mx/en/
+LOCATION:Mexico
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hotdocs-2026@festival-ics.example
+SUMMARY:HotDocs
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260503
+DESCRIPTION:festival\nWebsite: https://hotdocs.ca/#hot-docs-festival\nSourc
+	e: https://www.screendaily.com/news/2026-film-festivals-and-markets-calend
+	ar-latest-dates/5211872.article
+URL:https://hotdocs.ca/#hot-docs-festival
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:banff-world-media-festival-2026@festival-ics.example
+SUMMARY:BANFF World Media Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260617
+DESCRIPTION:festival\nWebsite: https://banffmediafestival.playbackonline.ca
+	/2026/\nSource: https://www.screendaily.com/news/2026-film-festivals-and-m
+	arkets-calendar-latest-dates/5211872.article
+URL:https://banffmediafestival.playbackonline.ca/2026/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:oakville-festivals-of-film-and-art-2026@festival-ics.example
+SUMMARY:Oakville Festivals of Film and Art
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260627
+DESCRIPTION:festival\nWebsite: https://offa.ca/\nSource: https://www.screen
+	daily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/52118
+	72.article
+URL:https://offa.ca/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fantasia-international-film-festival-2026@festival-ics.example
+SUMMARY:Fantasia International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260802
+DESCRIPTION:festival\nWebsite: https://fantasiafestival.com/en\nSource: htt
+	ps://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-lat
+	est-dates/5211872.article
+URL:https://fantasiafestival.com/en
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:future-of-film-showcase-2026@festival-ics.example
+SUMMARY:Future Of Film Showcase
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260726
+DESCRIPTION:festival\nWebsite: https://www.fofs.ca/\nSource: https://www.sc
+	reendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5
+	211872.article
+URL:https://www.fofs.ca/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tiff-the-market-2026@festival-ics.example
+SUMMARY:TIFF: The Market
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260916
+DESCRIPTION:festival\nWebsite: https://tiff.net/themarket\nSource: https://
+	www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-d
+	ates/5211872.article
+URL:https://tiff.net/themarket
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:toronto-international-film-festival-2026@festival-ics.example
+SUMMARY:Toronto International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260920
+DESCRIPTION:festival\nWebsite: https://tiff.net/\nSource: https://www.scree
+	ndaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211
+	872.article
+URL:https://tiff.net/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:atlantic-international-film-festival-2026@festival-ics.example
+SUMMARY:Atlantic International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260923
+DESCRIPTION:festival\nWebsite: https://atlanticfilmfestival.ca/\nSource: ht
+	tps://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-la
+	test-dates/5211872.article
+URL:https://atlanticfilmfestival.ca/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cinefest-sudbury-international-film-festival-2026@festival-ics.example
+SUMMARY:Cinefest Sudbury International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260927
+DESCRIPTION:festival\nWebsite: https://cinefest.com/\nSource: https://www.s
+	creendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/
+	5211872.article
+URL:https://cinefest.com/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vancouver-international-film-festival-2026@festival-ics.example
+SUMMARY:Vancouver International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261011
+DESCRIPTION:festival\nWebsite: https://viff.org/festival/viff-2026/\nSource
+	: https://www.screendaily.com/news/2026-film-festivals-and-markets-calenda
+	r-latest-dates/5211872.article
+URL:https://viff.org/festival/viff-2026/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:festival-du-nouveau-cinema-of-montreal-2026@festival-ics.example
+SUMMARY:Festival du nouveau cinéma of Montreal
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261026
+DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
+	stivals-and-markets-calendar-latest-dates/5211872.article
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:japan-cuts-2026-07-08-united-states@festival-ics.example
+SUMMARY:Japan Cuts
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260718
+DESCRIPTION:festival\nWebsite: https://japansociety.org/film/japancuts/\nSo
+	urce: https://asianfilmfestivals.com/schedule/
+URL:https://japansociety.org/film/japancuts/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vancouver-taiwanese-film-festival-2026-09-04-canada@festival-ics.exampl
+	e
+SUMMARY:Vancouver Taiwanese Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DESCRIPTION:festival\nWebsite: https://www.twff.ca/\nSource: https://asianf
+	ilmfestivals.com/schedule/
+URL:https://www.twff.ca/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mosaic-international-south-asian-film-festival-2026-10-01-canada@festiv
+	al-ics.example
+SUMMARY:Mosaic International South Asian Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261004
+DESCRIPTION:festival\nWebsite: https://www.misaff.com/\nSource: https://asi
+	anfilmfestivals.com/schedule/
+URL:https://www.misaff.com/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vancouver-asian-film-festival-2026-11-05-canada@festival-ics.example
+SUMMARY:Vancouver Asian Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261115
+DESCRIPTION:festival\nWebsite: https://vaff.org/\nSource: https://asianfilm
+	festivals.com/schedule/
+URL:https://vaff.org/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:toronto-reel-asian-international-film-festival-2026-11-11-canada@festiv
+	al-ics.example
+SUMMARY:Toronto Reel Asian International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261121
+DESCRIPTION:festival\nWebsite: https://www.reelasian.com/\nSource: https://
+	asianfilmfestivals.com/schedule/
+URL:https://www.reelasian.com/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mulan-international-film-festival-2026-11-21-canada@festival-ics.exampl
+	e
+SUMMARY:Mulan International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261203
+DESCRIPTION:festival\nWebsite: https://mulanfestival.com/\nSource: https://
+	asianfilmfestivals.com/schedule/
+URL:https://mulanfestival.com/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

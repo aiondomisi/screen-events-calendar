@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:mart-n-fierro-awards-2026-05-18-argentina@festival-ics.example
+SUMMARY:Martín Fierro Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260518
+DESCRIPTION:award\nOrganized by APTRA\; held at the Hotel Hilton in Puerto 
+	Madero\, Buenos Aires.\nWebsite: https://aptra.org.ar/\nSource: undefined
+URL:https://aptra.org.ar/
+LOCATION:Argentina
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:trof-u-imprensa-2026-05-18-brazil@festival-ics.example
+SUMMARY:Troféu Imprensa
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260518
+DESCRIPTION:award\nPresented annually by SBT to honor Brazilian television 
+	productions and telenovelas.\nWebsite: https://www.sbt.com.br/\nSource: un
+	defined
+URL:https://www.sbt.com.br/
+LOCATION:Brazil
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:caleuche-awards-2026-02-03-chile@festival-ics.example
+SUMMARY:Caleuche Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:award\n10th Premios Caleuche organized by Chileactores in Santi
+	ago\, Chile.\nWebsite: https://www.premioscaleuche.cl/\nSource: undefined
+URL:https://www.premioscaleuche.cl/
+LOCATION:Chile
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:premios-nuestra-tierra-2026-05-14-colombia@festival-ics.example
+SUMMARY:Premios Nuestra Tierra
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260514
+DESCRIPTION:award\nHeld at Teatro Colsubsidio in Bogotá\, Colombia.\nWebsit
+	e: https://premiosnuestratierra.rcnradio.com/\nSource: undefined
+URL:https://premiosnuestratierra.rcnradio.com/
+LOCATION:Colombia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:macondo-awards-2026-10-25-colombia@festival-ics.example
+SUMMARY:Macondo Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:award\n14th Macondo Awards organized by the Colombian Academy o
+	f Cinema Arts and Sciences in Cali.\nWebsite: https://academiacolombianade
+	cine.org/\nSource: undefined
+URL:https://academiacolombianadecine.org/
+LOCATION:Colombia
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

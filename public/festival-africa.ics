@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:johannesburg-film-festival-2026@festival-ics.example
+SUMMARY:Johannesburg Film Festival
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260308
+DESCRIPTION:festival\nWebsite: https://joburgfilmfestival.co.za/\nSource: h
+	ttps://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-l
+	atest-dates/5211872.article
+URL:https://joburgfilmfestival.co.za/
+LOCATION:South Africa
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:durban-filmmart-2026@festival-ics.example
+SUMMARY:Durban FilmMart
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+DESCRIPTION:festival\nWebsite: https://durbanfilmmart.co.za/\nSource: https
+	://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-lates
+	t-dates/5211872.article
+URL:https://durbanfilmmart.co.za/
+LOCATION:South Africa
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marrakech-film-festival-2026@festival-ics.example
+SUMMARY:Marrakech Film Festival
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261128
+DESCRIPTION:festival\nWebsite: https://marrakech-festival.com/en/home/\nSou
+	rce: https://www.screendaily.com/news/2026-film-festivals-and-markets-cale
+	ndar-latest-dates/5211872.article
+URL:https://marrakech-festival.com/en/home/
+LOCATION:Morocco
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

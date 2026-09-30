@@ -20,10 +20,10 @@ export interface FestivalEntry {
   city?: string;
   startDate: string; // YYYY-MM-DD
   endDate: string; // YYYY-MM-DD
-  timezone?: string;
   category: FestivalCategory;
   status: FestivalStatus;
   website?: string;
+  secondaryWebsite?: string;
   sourceUrl: string;
   notes?: string;
   months?: number;

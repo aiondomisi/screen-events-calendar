@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:festival-do-rio-rio-de-janeiro-international-film-festival-2026@festiva
+	l-ics.example
+SUMMARY:Festival do Rio - Rio de Janeiro International Film Festival
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261011
+DESCRIPTION:festival\nWebsite: https://www.festivaldorio.com.br/\nSource: h
+	ttps://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-l
+	atest-dates/5211872.article
+URL:https://www.festivaldorio.com.br/
+LOCATION:Brazil
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cartagena-film-festival-2026-03-14-colombia@festival-ics.example
+SUMMARY:Cartagena Film Festival 
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260319
+DESCRIPTION:festival\n42nd India Catalina Awards held at Plaza de la Aduana
+	 in Cartagena during FICCI.\nWebsite: https://ficcifestival.com/\nSource: 
+	undefined
+URL:https://ficcifestival.com/
+LOCATION:Colombia
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

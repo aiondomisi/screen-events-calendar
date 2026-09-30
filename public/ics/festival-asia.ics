@@ -1,0 +1,1102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:hong-kong-asia-film-financing-forum-2026@festival-ics.example
+SUMMARY:Hong Kong-Asia Film Financing Forum
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260319
+DESCRIPTION:festival\nWebsite: https://industry.hkiff.org.hk/en/haf/introdu
+	ction\nSource: https://www.screendaily.com/news/2026-film-festivals-and-ma
+	rkets-calendar-latest-dates/5211872.article
+URL:https://industry.hkiff.org.hk/en/haf/introduction
+LOCATION:Hong Kong
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:filmart-2026@festival-ics.example
+SUMMARY:Filmart
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260320
+DESCRIPTION:festival\nWebsite: https://www.screendaily.com/features/five-ta
+	lking-points-from-filmart-2026/5215023.article\nSource: https://www.screen
+	daily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/52118
+	72.article
+URL:https://www.screendaily.com/features/five-talking-points-from-filmart-2
+	026/5215023.article
+LOCATION:Hong Kong
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:qumra-2026@festival-ics.example
+SUMMARY:Qumra
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260408
+DESCRIPTION:festival\nWebsite: https://www.dohafilm.com/en/funding-industry
+	/qumra\nSource: https://www.screendaily.com/news/2026-film-festivals-and-m
+	arkets-calendar-latest-dates/5211872.article
+URL:https://www.dohafilm.com/en/funding-industry/qumra
+LOCATION:Qatar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hong-kong-international-film-festival-2026@festival-ics.example
+SUMMARY:Hong Kong International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260412
+DESCRIPTION:festival\nWebsite: https://www.hkiff.org.hk/\nSource: https://w
+	ww.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-da
+	tes/5211872.article
+URL:https://www.hkiff.org.hk/
+LOCATION:Hong Kong
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-film-festival-2026@festival-ics.example
+SUMMARY:Saudi Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260429
+DESCRIPTION:festival\nWebsite: https://en.saudifilmfestival.org/\nSource: h
+	ttps://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-l
+	atest-dates/5211872.article
+URL:https://en.saudifilmfestival.org/
+LOCATION:Saudi Arabia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jeonju-international-film-festival-2026@festival-ics.example
+SUMMARY:Jeonju International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260508
+DESCRIPTION:festival\nWebsite: https://eng.jeonjufest.kr/\nSource: https://
+	www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-d
+	ates/5211872.article
+URL:https://eng.jeonjufest.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-june-4-docaviv-2026@festival-ics.example
+SUMMARY:US - June 4 Docaviv
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260606
+DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
+	stivals-and-markets-calendar-latest-dates/5211872.article
+LOCATION:Israel
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bali-international-film-festival-2026@festival-ics.example
+SUMMARY:Bali International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260607
+DESCRIPTION:festival\nWebsite: https://www.balinale.com/\nSource: https://w
+	ww.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-da
+	tes/5211872.article
+URL:https://www.balinale.com/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kashish-pride-film-festival-2026@festival-ics.example
+SUMMARY:Kashish Pride Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260607
+DESCRIPTION:festival\nWebsite: https://mumbaiqueerfest.com/\nSource: https:
+	//www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest
+	-dates/5211872.article
+URL:https://mumbaiqueerfest.com/
+LOCATION:India
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:europe-on-screen-2026@festival-ics.example
+SUMMARY:Europe On Screen
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260614
+DESCRIPTION:festival\nWebsite: https://europeonscreen.org/\nSource: https:/
+	/www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-
+	dates/5211872.article
+URL:https://europeonscreen.org/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:shanghai-international-film-festival-2026@festival-ics.example
+SUMMARY:Shanghai International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260621
+DESCRIPTION:festival\nWebsite: https://www.siff.com/english/\nSource: https
+	://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-lates
+	t-dates/5211872.article
+URL:https://www.siff.com/english/
+LOCATION:China
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jerusalem-film-festival-2026@festival-ics.example
+SUMMARY:Jerusalem Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260719
+DESCRIPTION:festival\nWebsite: https://jff.org.il/en\nSource: https://www.s
+	creendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/
+	5211872.article
+URL:https://jff.org.il/en
+LOCATION:Israel
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:golden-apricot-international-film-festival-2026@festival-ics.example
+SUMMARY:Golden Apricot International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260719
+DESCRIPTION:festival\nWebsite: https://gaiff.am/\nSource: https://www.scree
+	ndaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211
+	872.article
+URL:https://gaiff.am/
+LOCATION:Armenia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:malaysia-international-film-festival-2026@festival-ics.example
+SUMMARY:Malaysia International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260725
+DESCRIPTION:festival\nWebsite: https://www.miffest.com.my/\nSource: https:/
+	/www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-
+	dates/5211872.article
+URL:https://www.miffest.com.my/
+LOCATION:Malaysia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dmz-international-documentary-film-festival-2026@festival-ics.example
+SUMMARY:DMZ International Documentary Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260916
+DESCRIPTION:festival\nWebsite: https://dmzdocs.com/eng/\nSource: https://ww
+	w.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dat
+	es/5211872.article
+URL:https://dmzdocs.com/eng/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pingyao-international-film-festival-2026@festival-ics.example
+SUMMARY:Pingyao International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260929
+DESCRIPTION:festival\nWebsite: https://www.pyiffestival.com/\nSource: https
+	://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-lates
+	t-dates/5211872.article
+URL:https://www.pyiffestival.com/
+LOCATION:China
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:busan-international-film-festival-2026@festival-ics.example
+SUMMARY:Busan International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261015
+DESCRIPTION:festival\nWebsite: https://www.biff.kr/eng/\nSource: https://ww
+	w.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dat
+	es/5211872.article
+URL:https://www.biff.kr/eng/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jakarta-world-cinema-2026@festival-ics.example
+SUMMARY:Jakarta World Cinema
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261107
+DESCRIPTION:festival\nWebsite: https://jakartaworldcinema.com/\nSource: htt
+	ps://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-lat
+	est-dates/5211872.article
+URL:https://jakartaworldcinema.com/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:asian-contents-film-market-2026@festival-ics.example
+SUMMARY:Asian Contents & Film Market
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261013
+DESCRIPTION:festival\nWebsite: https://www.acfm.kr/eng/\nSource: https://ww
+	w.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dat
+	es/5211872.article
+URL:https://www.acfm.kr/eng/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jakarta-film-week-2026@festival-ics.example
+SUMMARY:Jakarta Film Week
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:festival\nWebsite: https://jakartafilmweek.com/\nSource: https:
+	//www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest
+	-dates/5211872.article
+URL:https://jakartafilmweek.com/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-international-film-festival-2026@festival-ics.example
+SUMMARY:Tokyo International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261104
+DESCRIPTION:festival\nWebsite: https://2026.tiff-jp.net/en/\nSource: https:
+	//www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest
+	-dates/5211872.article
+URL:https://2026.tiff-jp.net/en/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tiffcom-2026@festival-ics.example
+SUMMARY:TIFFCOM
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261030
+DESCRIPTION:festival\nWebsite: https://tiffcom.jp/en/\nSource: https://www.
+	screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates
+	/5211872.article
+URL:https://tiffcom.jp/en/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jaff-market-2026@festival-ics.example
+SUMMARY:JAFF Market
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+DESCRIPTION:festival\nWebsite: https://jaff-market.com/\nSource: https://ww
+	w.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dat
+	es/5211872.article
+URL:https://jaff-market.com/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jogpa-netpac-asian-film-festival-2026@festival-ics.example
+SUMMARY:Jogpa-NETPAC Asian Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261205
+DESCRIPTION:festival\nWebsite: https://jaff-filmfest.org/\nSource: https://
+	www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-d
+	ates/5211872.article
+URL:https://jaff-filmfest.org/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:december-asia-tv-forum-market-2026@festival-ics.example
+SUMMARY:December Asia TV Forum & Market
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
+	stivals-and-markets-calendar-latest-dates/5211872.article
+LOCATION:Singapore
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uk-december-3-red-sea-international-film-festival-2026@festival-ics.exa
+	mple
+SUMMARY:UK - December 3 Red Sea International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261212
+DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
+	stivals-and-markets-calendar-latest-dates/5211872.article
+LOCATION:Saudi Arabia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yubari-international-fantastic-film-festival-2026-06-04-japan@festival-
+	ics.example
+SUMMARY:Yubari International Fantastic Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260607
+DESCRIPTION:festival\nWebsite: https://www.yubari-fanta.com/\nSource: https
+	://asianfilmfestivals.com/schedule/
+URL:https://www.yubari-fanta.com/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:seoul-human-rights-film-festival-2026-06-04-south-korea@festival-ics.ex
+	ample
+SUMMARY:Seoul Human Rights Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260607
+DESCRIPTION:festival\nWebsite: https://hrflix.org/\nSource: https://asianfi
+	lmfestivals.com/schedule/
+URL:https://hrflix.org/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:seoul-international-eco-film-festival-2026-06-05-south-korea@festival-i
+	cs.example
+SUMMARY:Seoul International Eco Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260630
+DESCRIPTION:festival\nWebsite: https://sieff.kr/\nSource: https://asianfilm
+	festivals.com/schedule/
+URL:https://sieff.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:changing-climate-changing-lives-film-festival-2026-06-12-thailand@festi
+	val-ics.example
+SUMMARY:Changing Climate\, Changing Lives Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260621
+DESCRIPTION:festival\nWebsite: https://www.ccclfilmfestival.com/en\nSource:
+	 https://asianfilmfestivals.com/schedule/
+URL:https://www.ccclfilmfestival.com/en
+LOCATION:Thailand
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:chuncheon-film-festival-2026-06-25-south-korea@festival-ics.example
+SUMMARY:Chuncheon Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260628
+DESCRIPTION:festival\nWebsite: http://ccff.or.kr/\nSource: https://asianfil
+	mfestivals.com/schedule/
+URL:http://ccff.or.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:korea-queer-film-festival-2026-06-26-south-korea@festival-ics.example
+SUMMARY:Korea Queer Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260628
+DESCRIPTION:festival\nWebsite: https://www.kqff.co.kr/\nSource: https://asi
+	anfilmfestivals.com/schedule/
+URL:https://www.kqff.co.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:taipei-film-festival-2026-06-26-taiwan@festival-ics.example
+SUMMARY:Taipei Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260628
+DESCRIPTION:festival\nWebsite: https://www.taipeiff.taipei/en\nSource: http
+	s://asianfilmfestivals.com/schedule/
+URL:https://www.taipeiff.taipei/en
+LOCATION:Taiwan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bucheon-international-fantastic-film-festival-2026-07-02-south-korea@fe
+	stival-ics.example
+SUMMARY:Bucheon International Fantastic Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260712
+DESCRIPTION:festival\nWebsite: https://www.bifan.kr/\nSource: https://asian
+	filmfestivals.com/schedule/
+URL:https://www.bifan.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:film-festival-for-women-s-rights-2026-07-08-south-korea@festival-ics.ex
+	ample
+SUMMARY:Film Festival for Women’s Rights
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260712
+DESCRIPTION:festival\nWebsite: https://www.fiwom.org/eng/main/main.html\nSo
+	urce: https://asianfilmfestivals.com/schedule/
+URL:https://www.fiwom.org/eng/main/main.html
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:busan-international-kids-youth-film-festival-2026-07-08-south-korea@fes
+	tival-ics.example
+SUMMARY:Busan International Kids & Youth Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260714
+DESCRIPTION:festival\nWebsite: https://www.biky.or.kr/eng/\nSource: https:/
+	/asianfilmfestivals.com/schedule/
+URL:https://www.biky.or.kr/eng/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mini-film-festival-2026-07-18-malaysia@festival-ics.example
+SUMMARY:Mini Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+DESCRIPTION:festival\nWebsite: https://www.instagram.com/minifilmfestival/?
+	hl=en\nSource: https://asianfilmfestivals.com/schedule/
+URL:https://www.instagram.com/minifilmfestival/?hl=en
+LOCATION:Malaysia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:experimental-film-and-video-festival-in-seoul-2026-07-23-south-korea@fe
+	stival-ics.example
+SUMMARY:Experimental Film and Video Festival in Seoul
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260730
+DESCRIPTION:festival\nWebsite: https://ex-is.org/\nSource: https://asianfil
+	mfestivals.com/schedule/
+URL:https://ex-is.org/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bengaluru-international-short-film-festival-2026-08-06-india@festival-i
+	cs.example
+SUMMARY:Bengaluru International Short Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260816
+DESCRIPTION:festival\nWebsite: https://bisff.in/\nSource: https://asianfilm
+	festivals.com/schedule/
+URL:https://bisff.in/
+LOCATION:India
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jeongdongjin-independent-film-festival-2026-08-07-south-korea@festival-
+	ics.example
+SUMMARY:Jeongdongjin Independent Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260810
+DESCRIPTION:festival\nWebsite: https://jiff.kr/\nSource: https://asianfilmf
+	estivals.com/schedule/
+URL:https://jiff.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:binisaya-film-festival-2026-08-16-philippines@festival-ics.example
+SUMMARY:Binisaya Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260823
+DESCRIPTION:festival\nSource: https://asianfilmfestivals.com/schedule/
+LOCATION:Philippines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hiroshima-animation-season-2026-08-19-japan@festival-ics.example
+SUMMARY:Hiroshima Animation Season
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260823
+DESCRIPTION:festival\nWebsite: https://animation.hiroshimafest.org/en/\nSou
+	rce: https://asianfilmfestivals.com/schedule/
+URL:https://animation.hiroshimafest.org/en/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:seoul-international-women-s-film-festival-2026-08-20-south-korea@festiv
+	al-ics.example
+SUMMARY:Seoul International Women’s Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260826
+DESCRIPTION:festival\nWebsite: https://siwff.or.kr/eng/\nSource: https://as
+	ianfilmfestivals.com/schedule/
+URL:https://siwff.or.kr/eng/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cheongju-international-short-film-festival-2026-08-21-south-korea@festi
+	val-ics.example
+SUMMARY:Cheongju International Short Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260823
+DESCRIPTION:festival\nWebsite: https://cjiff.co.kr/\nSource: https://asianf
+	ilmfestivals.com/schedule/
+URL:https://cjiff.co.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:seoul-international-newmedia-festival-2026-08-21-south-korea@festival-i
+	cs.example
+SUMMARY:Seoul International NewMedia Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260827
+DESCRIPTION:festival\nWebsite: https://www.nemaf.net/\nSource: https://asia
+	nfilmfestivals.com/schedule/
+URL:https://www.nemaf.net/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ebs-international-documentary-festival-2026-08-24-south-korea@festival-
+	ics.example
+SUMMARY:EBS International Documentary Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260830
+DESCRIPTION:festival\nWebsite: https://www.eidf.co.kr/eng\nSource: https://
+	asianfilmfestivals.com/schedule/
+URL:https://www.eidf.co.kr/eng
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:international-documentary-short-film-festival-2026-08-07-india@festival
+	-ics.example
+SUMMARY:International Documentary & Short Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260815
+DESCRIPTION:festival\nWebsite: https://dokufest.com/\nSource: https://asian
+	filmfestivals.com/schedule/
+URL:https://dokufest.com/
+LOCATION:India
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aichi-international-women-s-film-festival-2026-09-02-japan@festival-ics
+	.example
+SUMMARY:Aichi International Women’s Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260906
+DESCRIPTION:festival\nWebsite: https://www.aiwff.com/2026/en/\nSource: http
+	s://asianfilmfestivals.com/schedule/
+URL:https://www.aiwff.com/2026/en/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:persons-with-disabilities-film-festival-rescheduled-tba-2026-09-03-sout
+	h-korea@festival-ics.example
+SUMMARY:Persons with Disabilities Film Festival (rescheduled tba)
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260907
+DESCRIPTION:festival\nWebsite: https://www.pdff.or.kr/\nSource: https://asi
+	anfilmfestivals.com/schedule/
+URL:https://www.pdff.or.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jecheon-international-music-film-festival-2026-09-03-south-korea@festiv
+	al-ics.example
+SUMMARY:Jecheon International Music & Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260909
+DESCRIPTION:festival\nWebsite: https://jimff.org/eng/\nSource: https://asia
+	nfilmfestivals.com/schedule/
+URL:https://jimff.org/eng/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:seoul-international-children-s-film-festival-2026-09-10-south-korea@fes
+	tival-ics.example
+SUMMARY:Seoul International Children’s Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260915
+DESCRIPTION:festival\nWebsite: https://www.sicff.kr/eng/\nSource: https://a
+	sianfilmfestivals.com/schedule/
+URL:https://www.sicff.kr/eng/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arkipel-jakarta-international-documentary-experimental-film-festival-20
+	26-09-3-indonesia@festival-ics.example
+SUMMARY:ARKIPEL Jakarta International Documentary & Experimental Film Festi
+	val
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260913
+DESCRIPTION:festival\nWebsite: https://arkipel.id/\nSource: https://asianfi
+	lmfestivals.com/schedule/
+URL:https://arkipel.id/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:minikino-film-week-2026-09-11-indonesia@festival-ics.example
+SUMMARY:Minikino Film Week
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260918
+DESCRIPTION:festival\nWebsite: https://minikino.org/filmweek/\nSource: http
+	s://asianfilmfestivals.com/schedule/
+URL:https://minikino.org/filmweek/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kota-kinabalu-international-film-festival-2026-09-12-malaysia@festival-
+	ics.example
+SUMMARY:Kota Kinabalu International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260919
+DESCRIPTION:festival\nWebsite: https://www.kkiff.com/\nSource: https://asia
+	nfilmfestivals.com/schedule/
+URL:https://www.kkiff.com/
+LOCATION:Malaysia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:korea-independent-animation-film-festival-indie-anifest-2026-09-17-sout
+	h-korea@festival-ics.example
+SUMMARY:Korea Independent Animation Film Festival Indie-Anifest
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260922
+DESCRIPTION:festival\nWebsite: https://www.ianifest.org/\nSource: https://a
+	sianfilmfestivals.com/schedule/
+URL:https://www.ianifest.org/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:gyeonggi-film-school-festival-2026-09-18-south-korea@festival-ics.examp
+	le
+SUMMARY:Gyeonggi Film School Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260920
+DESCRIPTION:festival\nWebsite: https://www.gfsf.co.kr/\nSource: https://asi
+	anfilmfestivals.com/schedule/
+URL:https://www.gfsf.co.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ulju-mountain-film-festival-2026-09-18-south-korea@festival-ics.example
+SUMMARY:Ulju Mountain Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260922
+DESCRIPTION:festival\nWebsite: https://www.umff.kr/eng/default.asp\nSource:
+	 https://asianfilmfestivals.com/schedule/
+URL:https://www.umff.kr/eng/default.asp
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:image-forum-festival-tokyo-2026-09-19-japan@festival-ics.example
+SUMMARY:Image Forum Festival Tokyo
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260925
+DESCRIPTION:festival\nWebsite: https://www.imageforumfestival.com/2026/en/b
+	osyu/gaiyo/\nSource: https://asianfilmfestivals.com/schedule/
+URL:https://www.imageforumfestival.com/2026/en/bosyu/gaiyo/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nara-international-film-festival-2026-09-19-japan@festival-ics.example
+SUMMARY:Nara International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260923
+DESCRIPTION:festival\nWebsite: https://nara-iff.jp/\nSource: https://asianf
+	ilmfestivals.com/schedule/
+URL:https://nara-iff.jp/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:raintown-film-festival-2026-09-01-malaysia@festival-ics.example
+SUMMARY:Raintown Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260930
+DESCRIPTION:festival\nWebsite: https://www.instagram.com/raintownfilmfestiv
+	al/?hl=en\nSource: https://asianfilmfestivals.com/schedule/
+URL:https://www.instagram.com/raintownfilmfestival/?hl=en
+LOCATION:Malaysia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:taichung-international-animation-festival-2026-10-11-taiwan@festival-ic
+	s.example
+SUMMARY:Taichung International Animation Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261018
+DESCRIPTION:festival\nWebsite: https://twtiaf.com/2025/index.php\nSource: h
+	ttps://asianfilmfestivals.com/schedule/
+URL:https://twtiaf.com/2025/index.php
+LOCATION:Taiwan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kaohsiung-film-festival-2026-10-09-taiwan@festival-ics.example
+SUMMARY:Kaohsiung Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261026
+DESCRIPTION:festival\nWebsite: https://www.kff.tw/en\nSource: https://asian
+	filmfestivals.com/schedule/
+URL:https://www.kff.tw/en
+LOCATION:Taiwan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:women-makes-waves-international-film-festival-2026-10-16-taiwan@festiva
+	l-ics.example
+SUMMARY:Women Makes Waves International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:festival\nWebsite: https://www.wmw.org.tw/en\nSource: https://a
+	sianfilmfestivals.com/schedule/
+URL:https://www.wmw.org.tw/en
+LOCATION:Taiwan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:seoul-international-senior-film-festival-2026-10-27-south-korea@festiva
+	l-ics.example
+SUMMARY:Seoul International Senior Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+DESCRIPTION:festival\nWebsite: http://sisff.seoulnoin.or.kr/\nSource: https
+	://asianfilmfestivals.com/schedule/
+URL:http://sisff.seoulnoin.or.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sapporo-international-short-film-festival-and-market-2026-10-23-japan@f
+	estival-ics.example
+SUMMARY:Sapporo International Short Film Festival and Market
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:festival\nWebsite: https://sapporoshortfest.jp/index-en/\nSourc
+	e: https://asianfilmfestivals.com/schedule/
+URL:https://sapporoshortfest.jp/index-en/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bucheon-international-animation-festival-2026-10-23-south-korea@festiva
+	l-ics.example
+SUMMARY:Bucheon International Animation Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261027
+DESCRIPTION:festival\nWebsite: https://www.biaf.or.kr/en/\nSource: https://
+	asianfilmfestivals.com/schedule/
+URL:https://www.biaf.or.kr/en/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ngilngig-asian-fantastic-film-festival-davao-2026-10-24-philippines@fes
+	tival-ics.example
+SUMMARY:Ngilngig Asian Fantastic Film Festival Davao
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261028
+DESCRIPTION:festival\nWebsite: https://ngilngig.com/\nSource: https://asian
+	filmfestivals.com/schedule/
+URL:https://ngilngig.com/
+LOCATION:Philippines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kuandu-international-animation-festival-2026-10-25-taiwan@festival-ics.
+	example
+SUMMARY:Kuandu International Animation Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261031
+DESCRIPTION:festival\nWebsite: https://kdiaf.tnua.edu.tw/web/program/progra
+	m.jsp?cp_id=CP1761735796590&lang=en\nSource: https://asianfilmfestivals.co
+	m/schedule/
+URL:https://kdiaf.tnua.edu.tw/web/program/program.jsp?cp_id=CP1761735796590
+	&lang=en
+LOCATION:Taiwan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dharamshala-international-film-festival-2026-10-29-india@festival-ics.e
+	xample
+SUMMARY:Dharamshala International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261101
+DESCRIPTION:festival\nWebsite: https://diff.co.in/\nSource: https://asianfi
+	lmfestivals.com/schedule/
+URL:https://diff.co.in/
+LOCATION:India
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kineko-international-children-s-film-festival-2026-10-30-japan@festival
+	-ics.example
+SUMMARY:Kineko International Children’s Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261103
+DESCRIPTION:festival\nWebsite: https://www.kineko.jp/\nSource: https://asia
+	nfilmfestivals.com/schedule/
+URL:https://www.kineko.jp/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-queer-film-festival-2026-10-30-china@festival-ics.example
+SUMMARY:Beijing Queer Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261108
+DESCRIPTION:festival\nWebsite: https://www.bjqff.com/\nSource: https://asia
+	nfilmfestivals.com/schedule/
+URL:https://www.bjqff.com/
+LOCATION:China
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:seashorts-film-festival-2026-11-11-malaysia@festival-ics.example
+SUMMARY:SeaShorts Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261115
+DESCRIPTION:festival\nWebsite: https://www.instagram.com/seashortsfilmfest/
+	?hl=en\nSource: https://asianfilmfestivals.com/schedule/
+URL:https://www.instagram.com/seashortsfilmfest/?hl=en
+LOCATION:Malaysia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:taipei-golden-horse-film-festival-2026-11-06-taiwan@festival-ics.exampl
+	e
+SUMMARY:Taipei Golden Horse Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261122
+DESCRIPTION:festival\nWebsite: https://www.goldenhorse.org.tw/\nSource: htt
+	ps://asianfilmfestivals.com/schedule/
+URL:https://www.goldenhorse.org.tw/
+LOCATION:Taiwan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:qcinema-international-film-festival-2026-11-13-philippines@festival-ics
+	.example
+SUMMARY:QCinema International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261122
+DESCRIPTION:festival\nWebsite: https://qcinema.ph/\nSource: https://asianfi
+	lmfestivals.com/schedule/
+URL:https://qcinema.ph/
+LOCATION:Philippines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cartoons-underground-2026-11-14-singapore@festival-ics.example
+SUMMARY:Cartoons Underground
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DESCRIPTION:festival\nWebsite: https://cartoonsunderground.com/\nSource: ht
+	tps://asianfilmfestivals.com/schedule/
+URL:https://cartoonsunderground.com/
+LOCATION:Singapore
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yellowstone-international-film-festival-2026-11-14-india@festival-ics.e
+	xample
+SUMMARY:Yellowstone International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261120
+DESCRIPTION:festival\nWebsite: https://yellowstoneinternationalfilmfestival
+	.com/\nSource: https://asianfilmfestivals.com/schedule/
+URL:https://yellowstoneinternationalfilmfestival.com/
+LOCATION:India
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:new-chitose-airport-international-animation-festival-2026-11-20-japan@f
+	estival-ics.example
+SUMMARY:New Chitose Airport International Animation Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261124
+DESCRIPTION:festival\nWebsite: https://airport-anifes.jp/en/\nSource: https
+	://asianfilmfestivals.com/schedule/
+URL:https://airport-anifes.jp/en/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:festival-film-dokumenter-2026-11-20-indonesia@festival-ics.example
+SUMMARY:Festival Film Dokumenter
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261127
+DESCRIPTION:festival\nWebsite: https://ffd.or.id/\nSource: https://asianfil
+	mfestivals.com/schedule/
+URL:https://ffd.or.id/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:film-southasia-2026-11-26-nepal@festival-ics.example
+SUMMARY:Film SouthAsia
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261129
+DESCRIPTION:festival\nWebsite: https://filmsouthasia.org/\nSource: https://
+	asianfilmfestivals.com/schedule/
+URL:https://filmsouthasia.org/
+LOCATION:Nepal
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nepal-human-rights-international-film-festival-2026-11-27-nepal@festiva
+	l-ics.example
+SUMMARY:Nepal Human Rights International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261201
+DESCRIPTION:festival\nWebsite: https://hrfilms.org/filmfestival/\nSource: h
+	ttps://asianfilmfestivals.com/schedule/
+URL:https://hrfilms.org/filmfestival/
+LOCATION:Nepal
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jogja-netpac-asian-film-festival-2026-11-28-indonesia@festival-ics.exam
+	ple
+SUMMARY:Jogja NETPAC Asian Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261205
+DESCRIPTION:festival\nWebsite: https://jaff-filmfest.org/\nSource: https://
+	asianfilmfestivals.com/schedule/
+URL:https://jaff-filmfest.org/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-filmex-international-film-festival-2026-11-01-japan@festival-ics.
+	example
+SUMMARY:Tokyo FILMex International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261130
+DESCRIPTION:festival\nWebsite: https://www.filmex.jp/en/\nSource: https://a
+	sianfilmfestivals.com/schedule/
+URL:https://www.filmex.jp/en/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luang-prabang-film-festival-2026-12-04-laos@festival-ics.example
+SUMMARY:Luang Prabang Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261208
+DESCRIPTION:festival\nWebsite: https://bluechair.film/\nSource: https://asi
+	anfilmfestivals.com/schedule/
+URL:https://bluechair.film/
+LOCATION:Laos
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:red-sea-international-film-festival-2026-12-03-saudi-arabia@festival-ic
+	s.example
+SUMMARY:Red Sea International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261212
+DESCRIPTION:festival\nWebsite: https://redseafilmfest.com/en/\nSource: http
+	s://asianfilmfestivals.com/schedule/
+URL:https://redseafilmfest.com/en/
+LOCATION:Saudi Arabia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:international-film-festival-of-kerala-2026-12-11-india@festival-ics.exa
+	mple
+SUMMARY:International Film Festival of Kerala
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261218
+DESCRIPTION:festival\nWebsite: https://iffk.in/\nSource: https://asianfilmf
+	estivals.com/schedule/
+URL:https://iffk.in/
+LOCATION:India
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:metro-manila-film-festival-2026-12-25-philippines@festival-ics.example
+SUMMARY:Metro Manila Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20270107
+DESCRIPTION:festival\nSource: https://asianfilmfestivals.com/schedule/
+LOCATION:Philippines
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

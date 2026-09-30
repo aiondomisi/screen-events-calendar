@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:children-s-and-family-emmy-awards-2026-03-01-united-states@festival-ics
+	.example
+SUMMARY:Children's and Family Emmy Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+DESCRIPTION:award\n4th Annual Children's & Family Emmy Awards held at Jazz 
+	at Lincoln Center.\nWebsite: https://theemmys.tv/childrens/\nSource: undef
+	ined
+URL:https://theemmys.tv/childrens/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:daytime-emmy-awards-2026-10-30-united-states@festival-ics.example
+SUMMARY:Daytime Emmy Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:award\n53rd Daytime Emmy Awards airing on CBS.\nWebsite: https:
+	//theemmys.tv/daytime/\nSource: undefined
+URL:https://theemmys.tv/daytime/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:international-emmy-awards-2026-11-23-united-states@festival-ics.example
+SUMMARY:International Emmy Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20261123
+DESCRIPTION:award\nPresented by IATAS\; traditionally held on the Monday be
+	fore Thanksgiving in November.\nWebsite: https://www.iemmys.tv/\nSource: u
+	ndefined
+URL:https://www.iemmys.tv/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:news-and-documentary-emmy-awards-2026-05-27-united-states@festival-ics.
+	example
+SUMMARY:News and Documentary Emmy Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+DESCRIPTION:award\n47th News and Documentary Emmy Awards held at Jazz at Li
+	ncoln Center.\nWebsite: https://theemmys.tv/news/\nSource: undefined
+URL:https://theemmys.tv/news/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primetime-emmy-awards-2026-09-14-united-states@festival-ics.example
+SUMMARY:Primetime Emmy Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260914
+DESCRIPTION:award\n78th Primetime Emmy Awards officially scheduled at the P
+	eacock Theater in Los Angeles.\nWebsite: https://theemmys.tv/sports/\nSour
+	ce: undefined
+URL:https://theemmys.tv/sports/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sports-emmy-awards-2026-05-26-united-states@festival-ics.example
+SUMMARY:Sports Emmy Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260526
+DESCRIPTION:award\n47th Sports Emmy Awards hosted by Roy Wood Jr. at Jazz a
+	t Lincoln Center.\nWebsite: https://theemmys.tv/\nSource: undefined
+URL:https://theemmys.tv/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:technology-and-engineering-emmy-awards-2026-10-14-united-states@festiva
+	l-ics.example
+SUMMARY:Technology and Engineering Emmy Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20261014
+DESCRIPTION:award\nPresented by NATAS\; typically held in October or during
+	 NAB Show.\nWebsite: https://theemmys.tv/tech/\nSource: undefined
+URL:https://theemmys.tv/tech/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:annie-awards-2026-02-21-united-states@festival-ics.example
+SUMMARY:Annie Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260221
+DESCRIPTION:award\n53rd Annie Awards held at UCLA's Royce Hall.\nWebsite: h
+	ttps://annieawards.org/\nSource: undefined
+URL:https://annieawards.org/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:critics-choice-television-award-2026-01-04-united-states@festival-ics.e
+	xample
+SUMMARY:Critics' Choice Television Award
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260104
+DESCRIPTION:award\n31st Critics' Choice Awards held at Barker Hangar in San
+	ta Monica.\nWebsite: https://www.criticschoice.com/\nSource: undefined
+URL:https://www.criticschoice.com/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dorian-awards-2026-08-15-united-states@festival-ics.example
+SUMMARY:Dorian Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:award\nPresented by GALECA\; 2026 Dorian TV Awards winners reve
+	aled August 15.\nWebsite: https://www.galeca.org/dorianawards\nSource: und
+	efined
+URL:https://www.galeca.org/dorianawards
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:glaad-media-awards-2026-03-05-united-states@festival-ics.example
+SUMMARY:GLAAD Media Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:award\n37th GLAAD Media Awards held in Los Angeles.\nWebsite: h
+	ttps://glaad.org/mediaawards\nSource: undefined
+URL:https://glaad.org/mediaawards
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:golden-globe-awards-2026-01-11-united-states@festival-ics.example
+SUMMARY:Golden Globe Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260111
+DESCRIPTION:award\n83rd Golden Globe Awards held at The Beverly Hilton.\nWe
+	bsite: https://goldenglobes.com/\nSource: undefined
+URL:https://goldenglobes.com/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:humanitas-prize-2026-09-09-united-states@festival-ics.example
+SUMMARY:Humanitas Prize
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260909
+DESCRIPTION:award\n2026 Humanitas Prizes Awards Show & Toast held at Avalon
+	 Hollywood.\nWebsite: https://www.humanitasprize.org/\nSource: undefined
+URL:https://www.humanitasprize.org/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:national-reality-television-awards-2026-07-29-united-states@festival-ic
+	s.example
+SUMMARY:National Reality Television Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:award\nOrganized by National Media Group\; typically held in Se
+	ptember or July.\nWebsite: https://nationalrealitytvawards.org/\nSource: u
+	ndefined
+URL:https://nationalrealitytvawards.org/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:peabody-award-2026-05-31-united-states@festival-ics.example
+SUMMARY:Peabody Award
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260531
+DESCRIPTION:award\n86th Annual Peabody Awards held at the Beverly Wilshire 
+	Hotel.\nWebsite: https://peabodyawards.com/\nSource: undefined
+URL:https://peabodyawards.com/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:young-hollywood-awards-2014-07-27-united-states@festival-ics.example
+SUMMARY:Young Hollywood Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20140727
+DESCRIPTION:award\nDefunct awards ceremony last hosted on July 27\, 2014.\n
+	Website: https://variety.com/\nSource: undefined
+URL:https://variety.com/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:women-in-film-honors-2026-09-15-united-states@festival-ics.example
+SUMMARY:Women in Film Honors
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260915
+DESCRIPTION:award\nPresented by Women in Film Los Angeles\; usually held in
+	 October.\nWebsite: https://womeninfilm.org/honors/\nSource: undefined
+URL:https://womeninfilm.org/honors/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canadian-screen-awards-2026-05-27-canada@festival-ics.example
+SUMMARY:Canadian Screen Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260531
+DESCRIPTION:award\n14th Canadian Screen Awards hosted at the CBC Broadcast 
+	Centre in Toronto.\nWebsite: https://www.academy.ca/canadian-screen-awards
+	/rules-eligibility/\nSource: undefined
+URL:https://www.academy.ca/canadian-screen-awards/rules-eligibility/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:caftcad-awards-2026-03-01-canada@festival-ics.example
+SUMMARY:CAFTCAD Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:award\n7th CAFTCAD Awards held at The Eglinton Grand in Toronto
+	 honoring costume design.\nWebsite: https://www.caftcad.com/\nSource: unde
+	fined
+URL:https://www.caftcad.com/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:leo-awards-2026-07-04-canada@festival-ics.example
+SUMMARY:Leo Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+DESCRIPTION:award\n2026 LEO Awards held over two ceremonies in Vancouver\, 
+	BC.\nWebsite: https://www.leoawards.com/\nSource: undefined
+URL:https://www.leoawards.com/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:prix-g-meaux-2026-09-13-canada@festival-ics.example
+SUMMARY:Prix Gémeaux
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260913
+DESCRIPTION:award\n41st Prix Gémeaux honoring French-language television an
+	d digital media.\nWebsite: https://academie.ca/prixgemeaux\nSource: undefi
+	ned
+URL:https://academie.ca/prixgemeaux
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rosie-awards-ampia-awards-2026-11-07-canada@festival-ics.example
+SUMMARY:Rosie Awards (AMPIA Awards)
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20261107
+DESCRIPTION:award\nAlberta film and television awards presented by AMPIA\; 
+	usually hosted in September/October.\nWebsite: https://ampia.org/2026-rosi
+	e-awards/\nSource: undefined
+URL:https://ampia.org/2026-rosie-awards/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tca-awards-2026-06-12-canada@festival-ics.example
+SUMMARY:TCA Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:award\nWebsite: https://www.tvcritics.org/tca-awards\nSource: u
+	ndefined
+URL:https://www.tvcritics.org/tca-awards
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wgc-screenwriting-awards-2026-04-27-canada@festival-ics.example
+SUMMARY:WGC Screenwriting Awards
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260427
+DESCRIPTION:award\nPresented by the Writers Guild of Canada\; annual ceremo
+	ny traditionally held in April.\nWebsite: https://www.wgc.ca/\nSource: und
+	efined
+URL:https://www.wgc.ca/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:premios-aura-2026-04-26-mexico@festival-ics.example
+SUMMARY:Premios Aura
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:award\n3rd Premios Aura held at FCO Action Hall in Mexico City.
+	\nWebsite: https://premiosaura.com/\nSource: undefined
+URL:https://premiosaura.com/
+LOCATION:Mexico
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:premios-juventud-2026-09-03-united-states@festival-ics.example
+SUMMARY:Premios Juventud
+DTSTAMP:20260929T161638Z
+DTSTART;VALUE=DATE:20260903
+DESCRIPTION:award\nPresented by Univision honoring Spanish-speaking celebri
+	ties across pop culture and TV.\nWebsite: https://www.univision.com/premio
+	s-juventud\nSource: undefined
+URL:https://www.univision.com/premios-juventud
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

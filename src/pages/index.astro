@@ -1,0 +1,51 @@
+---
+import { CalendarDisplay } from "../components/CalendarDisplay";
+import { CardDisplay } from "../components/CardDisplay";
+import { Button } from "@/components/ui/button";
+import Layout from "../layouts/Layout.astro";
+import { Separator } from "@/components/ui/separator";
+---
+
+<Layout>
+  <div class="flex justify-between">
+    <div class="flex flex-col gap-2">
+      <h1 class="font-bold text-2xl">Screen Events Calendar</h1>
+
+      <p class="font-normal text-shadow-mist-500">
+        Subscribable calendars for film festivals and awards.
+      </p>
+    </div>
+    <a href="#keeptrack"
+      ><Button variant={"default"}>Subscribe calendar</Button></a
+    >
+  </div>
+
+  <CalendarDisplay client:load />
+
+  <div class="flex flex-col gap-2 mt-10" id="keepTrack">
+    <h2 class="font-bold text-2xl">Want keep track automatically?</h2>
+
+    <p class="font-normal text-shadow-mist-500">
+      Click category below and choose between available section to be added into
+      your favourite calendar app
+    </p>
+  </div>
+
+  <div class="flex flex-col gap-5">
+    <CardDisplay
+      client:visible
+      cardTitle="Film Festivals"
+      cardDescription="Subscribe to film festival dates by continent or follow all festivals
+          in one calendar."
+      category="festivals"
+    />
+    <CardDisplay
+      client:visible
+      cardTitle="Film & TV Awards"
+      cardDescription="Subscribe to film and television award dates and keep them updated
+          automatically."
+      category="awards"
+    />
+  </div>
+  <Separator className={"mt-10"} />
+</Layout>

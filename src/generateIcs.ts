@@ -128,13 +128,23 @@ async function writeCalendar(filename: string, entries: FestivalEntry[]) {
     throw error;
   }
 
-  await writeFile(`dist/${filename}`, value ?? "", "utf-8");
+  await writeFile(`public/ics/${filename}`, value ?? "", "utf-8");
 
-  console.log(`Wrote dist/${filename} with ${events.length} events.`);
+  console.log(`Wrote public/ics/${filename} with ${events.length} events.`);
+}
+
+// generate json to make category list to be display on front end.
+async function writeJSONCategory(festival: string[]) {
+  const appendArr = festival.unshift("festivals", "awards");
+  await writeFile(
+    `src/data/icsFileList.json`,
+    JSON.stringify(festival),
+    "utf-8",
+  );
 }
 
 async function main() {
-  const raw = await readFile("data/events.json", "utf-8");
+  const raw = await readFile("src/data/events.json", "utf-8");
 
   const dataset = JSON.parse(raw) as FestivalDataset & {
     events?: FestivalEntry[];
@@ -148,8 +158,6 @@ async function main() {
       'data/events.json must contain a top-level "festivals" (or "events") array.',
     );
   }
-
-  await mkdir("dist", { recursive: true });
 
   // Only keep entries with usable dates.
   const validFestivals = rawFestivals.filter(hasValidDates);
@@ -205,6 +213,10 @@ async function main() {
   for (const [key, entries] of categoryContinentEvents) {
     await writeCalendar(`${key}.ics`, entries);
   }
+
+  const fileName = Array.from(categoryContinentEvents.keys());
+
+  await writeJSONCategory(fileName);
 }
 
 main().catch((err) => {

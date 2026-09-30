@@ -1,0 +1,858 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:raigam-tele-es-2026-03-28-sri-lanka@festival-ics.example
+SUMMARY:Raigam Tele'es
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:award\nAnnual Sri Lankan television awards organized by Raigam 
+	Group\; typically hosted in March.\nWebsite: https://www.raigamtelees.lk/\
+	nSource: undefined
+URL:https://www.raigamtelees.lk/
+LOCATION:Sri Lanka
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sumathi-awards-2026-07-15-sri-lanka@festival-ics.example
+SUMMARY:Sumathi Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:award\nOrganized by Sumathi Group to honor Sri Lankan televisio
+	n\; historically held in September/October.\nWebsite: https://sumathiaward
+	s.lk/\nSource: undefined
+URL:https://sumathiawards.lk/
+LOCATION:Sri Lanka
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:indonesian-television-awards-2026-09-25-indonesia@festival-ics.example
+SUMMARY:Indonesian Television Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:award\nMajor Indonesian television awards broadcast on RCTI\; u
+	sually held in September.\nWebsite: https://www.indonesiantvawards.com/\nS
+	ource: undefined
+URL:https://www.indonesiantvawards.com/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:infotainment-awards-2026-09-22-indonesia@festival-ics.example
+SUMMARY:Infotainment Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260922
+DESCRIPTION:award\nWebsite: https://www.sctv.co.id/\nSource: undefined
+URL:https://www.sctv.co.id/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pradhana-vizha-2026-02-08-singapore@festival-ics.example
+SUMMARY:Pradhana Vizha
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:award\nBiennial awards recognizing Singapore's Tamil television
+	 industry\; typically held early in the year.\nWebsite: https://www.mediac
+	orp.sg/pradhanavizha\nSource: undefined
+URL:https://www.mediacorp.sg/pradhanavizha
+LOCATION:Singapore
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:star-awards-2026-04-19-singapore@festival-ics.example
+SUMMARY:Star Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:award\nMediacorp's flagship ceremony for Chinese television con
+	tent\; traditionally held every April.\nWebsite: https://www.mediacorp.sg/
+	starawards\nSource: undefined
+URL:https://www.mediacorp.sg/starawards
+LOCATION:Singapore
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:golden-television-awards-2026-07-11-thailand@festival-ics.example
+SUMMARY:Golden Television Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260711
+DESCRIPTION:award\nTelevision Excellence Awards (Nataraja / TV Gold Awards)
+	\; typically held in March or June.\nSource: undefined
+LOCATION:Thailand
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:children-s-and-family-emmy-awards-2026-03-01-united-states@festival-ics
+	.example
+SUMMARY:Children's and Family Emmy Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+DESCRIPTION:award\n4th Annual Children's & Family Emmy Awards held at Jazz 
+	at Lincoln Center.\nWebsite: https://theemmys.tv/childrens/\nSource: undef
+	ined
+URL:https://theemmys.tv/childrens/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:daytime-emmy-awards-2026-10-30-united-states@festival-ics.example
+SUMMARY:Daytime Emmy Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:award\n53rd Daytime Emmy Awards airing on CBS.\nWebsite: https:
+	//theemmys.tv/daytime/\nSource: undefined
+URL:https://theemmys.tv/daytime/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:international-emmy-awards-2026-11-23-united-states@festival-ics.example
+SUMMARY:International Emmy Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20261123
+DESCRIPTION:award\nPresented by IATAS\; traditionally held on the Monday be
+	fore Thanksgiving in November.\nWebsite: https://www.iemmys.tv/\nSource: u
+	ndefined
+URL:https://www.iemmys.tv/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:news-and-documentary-emmy-awards-2026-05-27-united-states@festival-ics.
+	example
+SUMMARY:News and Documentary Emmy Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+DESCRIPTION:award\n47th News and Documentary Emmy Awards held at Jazz at Li
+	ncoln Center.\nWebsite: https://theemmys.tv/news/\nSource: undefined
+URL:https://theemmys.tv/news/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:primetime-emmy-awards-2026-09-14-united-states@festival-ics.example
+SUMMARY:Primetime Emmy Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260914
+DESCRIPTION:award\n78th Primetime Emmy Awards officially scheduled at the P
+	eacock Theater in Los Angeles.\nWebsite: https://theemmys.tv/sports/\nSour
+	ce: undefined
+URL:https://theemmys.tv/sports/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sports-emmy-awards-2026-05-26-united-states@festival-ics.example
+SUMMARY:Sports Emmy Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260526
+DESCRIPTION:award\n47th Sports Emmy Awards hosted by Roy Wood Jr. at Jazz a
+	t Lincoln Center.\nWebsite: https://theemmys.tv/\nSource: undefined
+URL:https://theemmys.tv/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:technology-and-engineering-emmy-awards-2026-10-14-united-states@festiva
+	l-ics.example
+SUMMARY:Technology and Engineering Emmy Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20261014
+DESCRIPTION:award\nPresented by NATAS\; typically held in October or during
+	 NAB Show.\nWebsite: https://theemmys.tv/tech/\nSource: undefined
+URL:https://theemmys.tv/tech/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:annie-awards-2026-02-21-united-states@festival-ics.example
+SUMMARY:Annie Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260221
+DESCRIPTION:award\n53rd Annie Awards held at UCLA's Royce Hall.\nWebsite: h
+	ttps://annieawards.org/\nSource: undefined
+URL:https://annieawards.org/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:critics-choice-television-award-2026-01-04-united-states@festival-ics.e
+	xample
+SUMMARY:Critics' Choice Television Award
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260104
+DESCRIPTION:award\n31st Critics' Choice Awards held at Barker Hangar in San
+	ta Monica.\nWebsite: https://www.criticschoice.com/\nSource: undefined
+URL:https://www.criticschoice.com/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dorian-awards-2026-08-15-united-states@festival-ics.example
+SUMMARY:Dorian Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:award\nPresented by GALECA\; 2026 Dorian TV Awards winners reve
+	aled August 15.\nWebsite: https://www.galeca.org/dorianawards\nSource: und
+	efined
+URL:https://www.galeca.org/dorianawards
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:glaad-media-awards-2026-03-05-united-states@festival-ics.example
+SUMMARY:GLAAD Media Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:award\n37th GLAAD Media Awards held in Los Angeles.\nWebsite: h
+	ttps://glaad.org/mediaawards\nSource: undefined
+URL:https://glaad.org/mediaawards
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:golden-globe-awards-2026-01-11-united-states@festival-ics.example
+SUMMARY:Golden Globe Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260111
+DESCRIPTION:award\n83rd Golden Globe Awards held at The Beverly Hilton.\nWe
+	bsite: https://goldenglobes.com/\nSource: undefined
+URL:https://goldenglobes.com/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:humanitas-prize-2026-09-09-united-states@festival-ics.example
+SUMMARY:Humanitas Prize
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260909
+DESCRIPTION:award\n2026 Humanitas Prizes Awards Show & Toast held at Avalon
+	 Hollywood.\nWebsite: https://www.humanitasprize.org/\nSource: undefined
+URL:https://www.humanitasprize.org/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:national-reality-television-awards-2026-07-29-united-states@festival-ic
+	s.example
+SUMMARY:National Reality Television Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:award\nOrganized by National Media Group\; typically held in Se
+	ptember or July.\nWebsite: https://nationalrealitytvawards.org/\nSource: u
+	ndefined
+URL:https://nationalrealitytvawards.org/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:peabody-award-2026-05-31-united-states@festival-ics.example
+SUMMARY:Peabody Award
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260531
+DESCRIPTION:award\n86th Annual Peabody Awards held at the Beverly Wilshire 
+	Hotel.\nWebsite: https://peabodyawards.com/\nSource: undefined
+URL:https://peabodyawards.com/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:young-hollywood-awards-2014-07-27-united-states@festival-ics.example
+SUMMARY:Young Hollywood Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20140727
+DESCRIPTION:award\nDefunct awards ceremony last hosted on July 27\, 2014.\n
+	Website: https://variety.com/\nSource: undefined
+URL:https://variety.com/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:women-in-film-honors-2026-09-15-united-states@festival-ics.example
+SUMMARY:Women in Film Honors
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260915
+DESCRIPTION:award\nPresented by Women in Film Los Angeles\; usually held in
+	 October.\nWebsite: https://womeninfilm.org/honors/\nSource: undefined
+URL:https://womeninfilm.org/honors/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:canadian-screen-awards-2026-05-27-canada@festival-ics.example
+SUMMARY:Canadian Screen Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260531
+DESCRIPTION:award\n14th Canadian Screen Awards hosted at the CBC Broadcast 
+	Centre in Toronto.\nWebsite: https://www.academy.ca/canadian-screen-awards
+	/rules-eligibility/\nSource: undefined
+URL:https://www.academy.ca/canadian-screen-awards/rules-eligibility/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:caftcad-awards-2026-03-01-canada@festival-ics.example
+SUMMARY:CAFTCAD Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260301
+DESCRIPTION:award\n7th CAFTCAD Awards held at The Eglinton Grand in Toronto
+	 honoring costume design.\nWebsite: https://www.caftcad.com/\nSource: unde
+	fined
+URL:https://www.caftcad.com/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:leo-awards-2026-07-04-canada@festival-ics.example
+SUMMARY:Leo Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+DESCRIPTION:award\n2026 LEO Awards held over two ceremonies in Vancouver\, 
+	BC.\nWebsite: https://www.leoawards.com/\nSource: undefined
+URL:https://www.leoawards.com/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:prix-g-meaux-2026-09-13-canada@festival-ics.example
+SUMMARY:Prix Gémeaux
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260913
+DESCRIPTION:award\n41st Prix Gémeaux honoring French-language television an
+	d digital media.\nWebsite: https://academie.ca/prixgemeaux\nSource: undefi
+	ned
+URL:https://academie.ca/prixgemeaux
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rosie-awards-ampia-awards-2026-11-07-canada@festival-ics.example
+SUMMARY:Rosie Awards (AMPIA Awards)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20261107
+DESCRIPTION:award\nAlberta film and television awards presented by AMPIA\; 
+	usually hosted in September/October.\nWebsite: https://ampia.org/2026-rosi
+	e-awards/\nSource: undefined
+URL:https://ampia.org/2026-rosie-awards/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tca-awards-2026-06-12-canada@festival-ics.example
+SUMMARY:TCA Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:award\nWebsite: https://www.tvcritics.org/tca-awards\nSource: u
+	ndefined
+URL:https://www.tvcritics.org/tca-awards
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wgc-screenwriting-awards-2026-04-27-canada@festival-ics.example
+SUMMARY:WGC Screenwriting Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260427
+DESCRIPTION:award\nPresented by the Writers Guild of Canada\; annual ceremo
+	ny traditionally held in April.\nWebsite: https://www.wgc.ca/\nSource: und
+	efined
+URL:https://www.wgc.ca/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:platino-awards-2026-05-09-ibero-america@festival-ics.example
+SUMMARY:Platino Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:award\n13th Platino Awards held at Teatro Gran Tlachco in Rivie
+	ra Maya\, Mexico.\nWebsite: https://www.premiosplatino.com/\nSource: undef
+	ined
+URL:https://www.premiosplatino.com/
+LOCATION:Ibero-America
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:premios-aura-2026-04-26-mexico@festival-ics.example
+SUMMARY:Premios Aura
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:award\n3rd Premios Aura held at FCO Action Hall in Mexico City.
+	\nWebsite: https://premiosaura.com/\nSource: undefined
+URL:https://premiosaura.com/
+LOCATION:Mexico
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mart-n-fierro-awards-2026-05-18-argentina@festival-ics.example
+SUMMARY:Martín Fierro Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260518
+DESCRIPTION:award\nOrganized by APTRA\; held at the Hotel Hilton in Puerto 
+	Madero\, Buenos Aires.\nWebsite: https://aptra.org.ar/\nSource: undefined
+URL:https://aptra.org.ar/
+LOCATION:Argentina
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:trof-u-imprensa-2026-05-18-brazil@festival-ics.example
+SUMMARY:Troféu Imprensa
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260518
+DESCRIPTION:award\nPresented annually by SBT to honor Brazilian television 
+	productions and telenovelas.\nWebsite: https://www.sbt.com.br/\nSource: un
+	defined
+URL:https://www.sbt.com.br/
+LOCATION:Brazil
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:caleuche-awards-2026-02-03-chile@festival-ics.example
+SUMMARY:Caleuche Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:award\n10th Premios Caleuche organized by Chileactores in Santi
+	ago\, Chile.\nWebsite: https://www.premioscaleuche.cl/\nSource: undefined
+URL:https://www.premioscaleuche.cl/
+LOCATION:Chile
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:premios-nuestra-tierra-2026-05-14-colombia@festival-ics.example
+SUMMARY:Premios Nuestra Tierra
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260514
+DESCRIPTION:award\nHeld at Teatro Colsubsidio in Bogotá\, Colombia.\nWebsit
+	e: https://premiosnuestratierra.rcnradio.com/\nSource: undefined
+URL:https://premiosnuestratierra.rcnradio.com/
+LOCATION:Colombia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:macondo-awards-2026-10-25-colombia@festival-ics.example
+SUMMARY:Macondo Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:award\n14th Macondo Awards organized by the Colombian Academy o
+	f Cinema Arts and Sciences in Cali.\nWebsite: https://academiacolombianade
+	cine.org/\nSource: undefined
+URL:https://academiacolombianadecine.org/
+LOCATION:Colombia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:premios-juventud-2026-09-03-united-states@festival-ics.example
+SUMMARY:Premios Juventud
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260903
+DESCRIPTION:award\nPresented by Univision honoring Spanish-speaking celebri
+	ties across pop culture and TV.\nWebsite: https://www.univision.com/premio
+	s-juventud\nSource: undefined
+URL:https://www.univision.com/premios-juventud
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fipa-awards-fipadoc-2026-01-23-france@festival-ics.example
+SUMMARY:FIPA Awards (FIPADOC)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260131
+DESCRIPTION:award\nInternational Audiovisual Festival focused on documentar
+	y and non-fiction films in Biarritz.\nWebsite: https://www.fipadoc.com/\nS
+	ource: undefined
+URL:https://www.fipadoc.com/
+LOCATION:France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bavarian-tv-awards-bayerischer-fernsehpreis-2026-10-21-germany@festival
+	-ics.example
+SUMMARY:Bavarian TV Awards (Bayerischer Fernsehpreis)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20261021
+DESCRIPTION:award\nAwarded by the Bavarian State Government at the Prinzreg
+	ententheater in Munich.\nWebsite: https://www.bayern.de/\nSource: undefine
+	d
+URL:https://www.bayern.de/
+LOCATION:Germany
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:deutscher-fernsehpreis-german-television-awards-2026-09-09-germany@fest
+	ival-ics.example
+SUMMARY:Deutscher Fernsehpreis (German Television Awards)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260909
+DESCRIPTION:award\nAnnual German television programming awards held over tw
+	o nights in Cologne.\nWebsite: https://www.deutscher-fernsehpreis.de/\nSou
+	rce: undefined
+URL:https://www.deutscher-fernsehpreis.de/
+LOCATION:Germany
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:grimme-preis-2026-04-24-germany@festival-ics.example
+SUMMARY:Grimme-Preis
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:award\n62nd Grimme-Preis ceremony held at Marl Theater.\nWebsit
+	e: https://www.grimme-preis.de/\nSource: undefined
+URL:https://www.grimme-preis.de/
+LOCATION:Germany
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:premi-internazionali-flaiano-2026-06-28-italy@festival-ics.example
+SUMMARY:Premi Internazionali Flaiano
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260628
+DESCRIPTION:award\n53rd Flaiano International Awards recognizing creative w
+	riting\, cinema\, theater\, and television in Pescara.\nWebsite: https://w
+	ww.premiflaiano.com/\nSource: undefined
+URL:https://www.premiflaiano.com/
+LOCATION:Italy
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:prix-italia-2026-09-28-italy@festival-ics.example
+SUMMARY:Prix Italia
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261002
+DESCRIPTION:award\n78th Prix Italia organized by RAI\, hosted in L'Aquila\,
+	 Italy.\nWebsite: https://www.rai.it/prixitalia/\nSource: undefined
+URL:https://www.rai.it/prixitalia/
+LOCATION:Italy
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:venice-tv-award-2026-09-29-italy@festival-ics.example
+SUMMARY:Venice TV Award
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260929
+DESCRIPTION:award\nSupported by ACT\, egta\, and IMZ\; held annually in Ven
+	ice following the International Film Festival.\nWebsite: https://venicetva
+	ward.com/\nSource: undefined
+URL:https://venicetvaward.com/
+LOCATION:Italy
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:golden-globes-portugal-2026-09-26-portugal@festival-ics.example
+SUMMARY:Golden Globes (Portugal)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260926
+DESCRIPTION:award\n30th Golden Globes organized by SIC TV and Caras magazin
+	e at the Coliseu dos Recreios in Lisbon.\nWebsite: https://sic.pt/programa
+	s/globosdeourosic/gala-xxx\nSource: undefined
+URL:https://sic.pt/programas/globosdeourosic/gala-xxx
+LOCATION:Portugal
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:premios-feroz-2026-01-24-spain@festival-ics.example
+SUMMARY:Premios Feroz
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260124
+DESCRIPTION:award\n13th Premios Feroz presented by AICE honoring Spanish fi
+	lm and television series.\nWebsite: https://www.informadoresdecine.es/\nSo
+	urce: undefined
+URL:https://www.informadoresdecine.es/
+LOCATION:Spain
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:czech-lion-award-for-best-television-film-or-miniseries-2026-03-14-czec
+	h-republic@festival-ics.example
+SUMMARY:Czech Lion Award for Best Television Film or Miniseries
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:award\n33rd Czech Lion Awards presented by CFTA at the Rudolfin
+	um in Prague.\nWebsite: https://www.filmovaakademie.cz/\nSource: undefined
+URL:https://www.filmovaakademie.cz/
+LOCATION:Czech Republic
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:czech-lion-award-for-best-tv-series-2026-03-14-czech-republic@festival-
+	ics.example
+SUMMARY:Czech Lion Award for Best TV Series
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:award\n33rd Czech Lion Awards presented by CFTA at the Rudolfin
+	um in Prague.\nWebsite: https://www.filmovaakademie.cz/\nSource: undefined
+URL:https://www.filmovaakademie.cz/
+LOCATION:Czech Republic
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:polish-academy-award-for-best-tv-series-eagles-2026-03-09-poland@festiv
+	al-ics.example
+SUMMARY:Polish Academy Award for Best TV Series (Eagles)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:award\n28th Polish Film Awards (Orły) organized by the Polish F
+	ilm Academy in Warsaw.\nWebsite: https://pnf.pl/\nSource: undefined
+URL:https://pnf.pl/
+LOCATION:Poland
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:golden-eagle-award-russia-2026-01-30-russia@festival-ics.example
+SUMMARY:Golden Eagle Award (Russia)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:award\nPresented by the National Academy of Motion Picture Arts
+	 and Sciences of Russia at Mosfilm.\nWebsite: https://kinoacademy.ru/\nSou
+	rce: undefined
+URL:https://kinoacademy.ru/
+LOCATION:Russia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tefi-capital-2026-09-14-russia@festival-ics.example
+SUMMARY:TEFI-Capital
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260916
+DESCRIPTION:award\nWebsite: https://www.tefi.ru/\nSource: undefined
+URL:https://www.tefi.ru/
+LOCATION:Russia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tefi-region-2026-11-17-russia@festival-ics.example
+SUMMARY:TEFI-Region
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261120
+DESCRIPTION:award\nWebsite: https://www.tefi.ru/\nSource: undefined
+URL:https://www.tefi.ru/
+LOCATION:Russia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tefi-kids-2026-10-26-russia@festival-ics.example
+SUMMARY:TEFI-Kids
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20261026
+DESCRIPTION:award\nWebsite: https://www.tefi.ru/\nSource: undefined
+URL:https://www.tefi.ru/
+LOCATION:Russia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:golden-venla-kultainen-venla-2026-01-23-finland@festival-ics.example
+SUMMARY:Golden Venla (Kultainen Venla)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:award\nOrganized by the Finnish Television Academy\; gala held 
+	at the Kansallisteatteri in Helsinki.\nWebsite: https://www.kultainenvenla
+	.fi/\nSource: undefined
+URL:https://www.kultainenvenla.fi/
+LOCATION:Finland
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ifta-film-drama-awards-2026-02-20-ireland@festival-ics.example
+SUMMARY:IFTA Film & Drama Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:award\nPresented by the Irish Film & Television Academy at the 
+	Dublin Royal Convention Centre.\nWebsite: http://ifta.ie/awards\nSource: u
+	ndefined
+URL:http://ifta.ie/awards
+LOCATION:Ireland
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:gullruten-2026-05-08-norway@festival-ics.example
+SUMMARY:Gullruten
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:award\nAnnual Norwegian TV industry awards held at the Grieghal
+	len in Bergen.\nWebsite: https://gullruten.no/\nSource: undefined
+URL:https://gullruten.no/
+LOCATION:Norway
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kristallen-2026-08-31-sweden@festival-ics.example
+SUMMARY:Kristallen
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260831
+DESCRIPTION:award\nOfficial Swedish television award ceremony held at SVT's
+	 studios in Stockholm.\nWebsite: https://kristallen.tv/\nSource: undefined
+URL:https://kristallen.tv/
+LOCATION:Sweden
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:british-academy-television-awards-bafta-tv-awards-2026-05-10-united-kin
+	gdom@festival-ics.example
+SUMMARY:British Academy Television Awards (BAFTA TV Awards)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260510
+DESCRIPTION:award\n2026 BAFTA TV Awards held at the Royal Festival Hall in 
+	London.\nWebsite: https://www.bafta.org/\nSource: undefined
+URL:https://www.bafta.org/
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:british-academy-cymru-awards-bafta-cymru-2026-10-4-united-kingdom@festi
+	val-ics.example
+SUMMARY:British Academy Cymru Awards (BAFTA Cymru)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20261004
+DESCRIPTION:award\n35th BAFTA Cymru Awards honoring Welsh film and televisi
+	on in Cardiff.\nWebsite: https://www.bafta.org/awards/\nSource: undefined
+URL:https://www.bafta.org/awards/
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:british-academy-scotland-awards-bafta-scotland-2026-11-15-united-kingdo
+	m@festival-ics.example
+SUMMARY:British Academy Scotland Awards (BAFTA Scotland)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20261115
+DESCRIPTION:award\nAnnual BAFTA Scotland ceremony hosted at DoubleTree by H
+	ilton in Glasgow.\nWebsite: https://www.bafta.org/awards/\nSource: undefin
+	ed
+URL:https://www.bafta.org/awards/
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:british-academy-television-craft-awards-2026-04-26-united-kingdom@festi
+	val-ics.example
+SUMMARY:British Academy Television Craft Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:award\nHonors technical and creative behind-the-scenes achievem
+	ents in television.\nWebsite: https://www.bafta.org/awards/\nSource: undef
+	ined
+URL:https://www.bafta.org/awards/
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:british-television-advertising-awards-british-arrows-2026-03-26-united-
+	kingdom@festival-ics.example
+SUMMARY:British Television Advertising Awards (British Arrows)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:award\nCelebrates moving image advertising and broadcast commer
+	cials at Grosvenor House\, London.\nWebsite: https://www.britisharrows.com
+	/\nSource: undefined
+URL:https://www.britisharrows.com/
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:young-arrows-2026-10-14-united-kingdom@festival-ics.example
+SUMMARY:Young Arrows
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20261014
+DESCRIPTION:award\nCelebrates moving image advertising and broadcast commer
+	cials at Grosvenor House\, London.\nWebsite: https://www.britisharrows.com
+	/events/young-arrows\nSource: undefined
+URL:https://www.britisharrows.com/events/young-arrows
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:national-reality-television-awards-uk-2026-07-29-united-kingdom@festiva
+	l-ics.example
+SUMMARY:National Reality Television Awards (UK)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:award\n15th NRTA ceremony held at the Porchester Hall in London
+	.\nWebsite: https://nationalrealitytvawards.org/\nSource: undefined
+URL:https://nationalrealitytvawards.org/
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:national-television-awards-ntas-2026-09-08-united-kingdom@festival-ics.
+	example
+SUMMARY:National Television Awards (NTAs)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260908
+DESCRIPTION:award\n30th National Television Awards held live at The O2 Aren
+	a\, London.\nWebsite: https://www.nationaltvawards.com/\nSource: undefined
+URL:https://www.nationaltvawards.com/
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:royal-television-society-programme-awards-rts-2026-03-24-united-kingdom
+	@festival-ics.example
+SUMMARY:Royal Television Society Programme Awards (RTS)
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:award\nRTS Programme Awards held at JW Marriott Grosvenor House
+	 in London.\nWebsite: https://rts.org.uk/\nSource: undefined
+URL:https://rts.org.uk/
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sandford-st-martin-awards-2026-06-16-united-kingdom@festival-ics.exampl
+	e
+SUMMARY:Sandford St Martin Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260616
+DESCRIPTION:award\nHonors excellence in religious\, ethical\, and spiritual
+	 broadcast media at Manchester Cathedral.\nWebsite: https://sandfordawards
+	.org.uk/\nSource: undefined
+URL:https://sandfordawards.org.uk/
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tric-awards-2026-06-23-united-kingdom@festival-ics.example
+SUMMARY:TRIC Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260623
+DESCRIPTION:award\n57th Television and Radio Industries Club Awards held at
+	 Grosvenor House\, London.\nWebsite: https://tric.org.uk/\nSource: undefin
+	ed
+URL:https://tric.org.uk/
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-choice-awards-2026-02-09-united-kingdom@festival-ics.example
+SUMMARY:TV Choice Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:award\nVoted by readers of TV Choice magazine\; ceremony held a
+	t The Hilton on Park Lane\, London.\nWebsite: https://www.tvchoicemagazine
+	.co.uk/\nSource: undefined
+URL:https://www.tvchoicemagazine.co.uk/
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wftv-awards-2026-12-04-united-kingdom@festival-ics.example
+SUMMARY:WFTV Awards
+DTSTAMP:20260929T161637Z
+DTSTART;VALUE=DATE:20261204
+DESCRIPTION:award\nOrganized by Women in Film & TV UK\; annual awards lunch
+	 hosted at the London Hilton on Park Lane.\nWebsite: https://wftv.org.uk/\
+	nSource: undefined
+URL:https://wftv.org.uk/
+LOCATION:United Kingdom
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:raigam-tele-es-2026-03-28-sri-lanka@festival-ics.example
+SUMMARY:Raigam Tele'es
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:award\nAnnual Sri Lankan television awards organized by Raigam 
+	Group\; typically hosted in March.\nWebsite: https://www.raigamtelees.lk/\
+	nSource: undefined
+URL:https://www.raigamtelees.lk/
+LOCATION:Sri Lanka
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sumathi-awards-2026-07-15-sri-lanka@festival-ics.example
+SUMMARY:Sumathi Awards
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:award\nOrganized by Sumathi Group to honor Sri Lankan televisio
+	n\; historically held in September/October.\nWebsite: https://sumathiaward
+	s.lk/\nSource: undefined
+URL:https://sumathiawards.lk/
+LOCATION:Sri Lanka
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:indonesian-television-awards-2026-09-25-indonesia@festival-ics.example
+SUMMARY:Indonesian Television Awards
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:award\nMajor Indonesian television awards broadcast on RCTI\; u
+	sually held in September.\nWebsite: https://www.indonesiantvawards.com/\nS
+	ource: undefined
+URL:https://www.indonesiantvawards.com/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:infotainment-awards-2026-09-22-indonesia@festival-ics.example
+SUMMARY:Infotainment Awards
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260922
+DESCRIPTION:award\nWebsite: https://www.sctv.co.id/\nSource: undefined
+URL:https://www.sctv.co.id/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pradhana-vizha-2026-02-08-singapore@festival-ics.example
+SUMMARY:Pradhana Vizha
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:award\nBiennial awards recognizing Singapore's Tamil television
+	 industry\; typically held early in the year.\nWebsite: https://www.mediac
+	orp.sg/pradhanavizha\nSource: undefined
+URL:https://www.mediacorp.sg/pradhanavizha
+LOCATION:Singapore
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:star-awards-2026-04-19-singapore@festival-ics.example
+SUMMARY:Star Awards
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:award\nMediacorp's flagship ceremony for Chinese television con
+	tent\; traditionally held every April.\nWebsite: https://www.mediacorp.sg/
+	starawards\nSource: undefined
+URL:https://www.mediacorp.sg/starawards
+LOCATION:Singapore
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:golden-television-awards-2026-07-11-thailand@festival-ics.example
+SUMMARY:Golden Television Awards
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260711
+DESCRIPTION:award\nTelevision Excellence Awards (Nataraja / TV Gold Awards)
+	\; typically held in March or June.\nSource: undefined
+LOCATION:Thailand
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:golden-eagle-award-russia-2026-01-30-russia@festival-ics.example
+SUMMARY:Golden Eagle Award (Russia)
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:award\nPresented by the National Academy of Motion Picture Arts
+	 and Sciences of Russia at Mosfilm.\nWebsite: https://kinoacademy.ru/\nSou
+	rce: undefined
+URL:https://kinoacademy.ru/
+LOCATION:Russia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tefi-capital-2026-09-14-russia@festival-ics.example
+SUMMARY:TEFI-Capital
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260916
+DESCRIPTION:award\nWebsite: https://www.tefi.ru/\nSource: undefined
+URL:https://www.tefi.ru/
+LOCATION:Russia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tefi-region-2026-11-17-russia@festival-ics.example
+SUMMARY:TEFI-Region
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261120
+DESCRIPTION:award\nWebsite: https://www.tefi.ru/\nSource: undefined
+URL:https://www.tefi.ru/
+LOCATION:Russia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tefi-kids-2026-10-26-russia@festival-ics.example
+SUMMARY:TEFI-Kids
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261026
+DESCRIPTION:award\nWebsite: https://www.tefi.ru/\nSource: undefined
+URL:https://www.tefi.ru/
+LOCATION:Russia
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

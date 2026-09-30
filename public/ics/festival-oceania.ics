@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:australian-international-documentary-conference-2026@festival-ics.examp
+	le
+SUMMARY:Australian International Documentary Conference
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260305
+DESCRIPTION:festival\nWebsite: https://www.aidc.com.au/\nSource: https://ww
+	w.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dat
+	es/5211872.article
+URL:https://www.aidc.com.au/
+LOCATION:Australia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:screen-forever-2026@festival-ics.example
+SUMMARY:Screen Forever
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260430
+DESCRIPTION:festival\nWebsite: https://www.screenforever.org.au/40\nSource:
+	 https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar
+	-latest-dates/5211872.article
+URL:https://www.screenforever.org.au/40
+LOCATION:Australia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sydney-film-festival-2026@festival-ics.example
+SUMMARY:Sydney Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260614
+DESCRIPTION:festival\nWebsite: https://www.sff.org.au/\nSource: https://www
+	.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-date
+	s/5211872.article
+URL:https://www.sff.org.au/
+LOCATION:Australia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:melbourne-international-film-festival-2026@festival-ics.example
+SUMMARY:Melbourne International Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260823
+DESCRIPTION:festival\nWebsite: https://miff.com.au/\nSource: https://www.sc
+	reendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5
+	211872.article
+URL:https://miff.com.au/
+LOCATION:Australia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:adelaide-independent-film-festival-2026@festival-ics.example
+SUMMARY:Adelaide Independent Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DESCRIPTION:festival\nWebsite: https://auteursforum.com/aiff\nSource: https
+	://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-lates
+	t-dates/5211872.article
+URL:https://auteursforum.com/aiff
+LOCATION:Australia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sydney-science-fiction-film-festival-2026@festival-ics.example
+SUMMARY:Sydney Science Fiction Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261011
+DESCRIPTION:festival\nWebsite: https://www.sydneysciencefictionfilmfestival
+	.com.au/\nSource: https://www.screendaily.com/news/2026-film-festivals-and
+	-markets-calendar-latest-dates/5211872.article
+URL:https://www.sydneysciencefictionfilmfestival.com.au/
+LOCATION:Australia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:adelaide-film-festival-2026@festival-ics.example
+SUMMARY:Adelaide Film Festival
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:festival\nWebsite: https://www.adelaidefilmfestival.org/\nSourc
+	e: https://www.screendaily.com/news/2026-film-festivals-and-markets-calend
+	ar-latest-dates/5211872.article
+URL:https://www.adelaidefilmfestival.org/
+LOCATION:Australia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:taiwan-film-festival-in-australia-2026-07-23-australia@festival-ics.exa
+	mple
+SUMMARY:Taiwan Film Festival in Australia
+DTSTAMP:20260930T010822Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260906
+DESCRIPTION:festival\nWebsite: https://www.taiwanfilmfestival.org.au/\nSour
+	ce: https://asianfilmfestivals.com/schedule/
+URL:https://www.taiwanfilmfestival.org.au/
+LOCATION:Australia
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

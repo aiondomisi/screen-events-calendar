@@ -1,0 +1,71 @@
+---
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+import screenIcsList from "../data/icsFileList.json";
+import RegionCard from "../components/RegionCard";
+import Layout from "../layouts/Layout.astro";
+import { Separator } from "@/components/ui/separator";
+import { Button } from "@/components/ui/button";
+import { ArrowLeft } from "lucide-react";
+import NavigationHeader from "../components/NavigationHeader.astro";
+
+const festivalIcsList = screenIcsList.filter((item) =>
+  item.includes("festival"),
+);
+---
+
+<Layout>
+  <NavigationHeader />
+  <h1 class="font-bold text-3xl mt-10">Film Festivals</h1>
+  <p>
+    Click a <strong>Subscribe</strong> button to add the calendar directly to your
+    calendar app. This may only work in supported browsers such as Chrome. If it doesn't
+    work, copy the calendar URL of each category and paste or import it manually into
+    your calendar app.
+  </p>
+
+  <Card>
+    <CardHeader>
+      <CardTitle className="font-bold"
+        >Guide on how to add ics file into your calendar app
+      </CardTitle>
+      <CardDescription>
+        <ul class="list-disc pl-5 text-base">
+          <li>
+            <a
+              href="https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop"
+              >Google Calendar (Use a link to add a public calendar section)</a
+            >
+          </li>
+          <li>
+            <a href="https://support.apple.com/en-gb/guide/calendar/icl1022/mac"
+              >Apple Calendar</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://support.microsoft.com/en-us/outlook/import-or-subscribe-to-a-calendar-in-outlook-com-or-outlook-on-the-web"
+            >
+              Microsoft Outlook
+            </a>
+          </li>
+        </ul>
+      </CardDescription>
+    </CardHeader>
+  </Card>
+  <hr />
+
+  {
+    festivalIcsList.map((item) => (
+      <div class="flex flex-col gap-12">
+        <RegionCard title={item} client:load />
+        <Separator className={"w-full"} />
+      </div>
+    ))
+  }
+</Layout>
