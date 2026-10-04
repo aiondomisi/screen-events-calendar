@@ -143,14 +143,29 @@ async function writeJSONCategory(festival: string[]) {
   );
 }
 
+const assignMissingUids = (entries: FestivalEntry[]): number => {
+  let count = 0;
+
+  for (const entry of entries) {
+    if (!entry.startDate || !entry.endDate) continue;
+    if (entry.uid?.trim()) continue;
+
+    entry.uid = randomUUID();
+    count++;
+  }
+
+  return count;
+};
+
+const EVENTS_PATH = "src/data/events.json";
+
 async function main() {
-  const raw = await readFile("src/data/events.json", "utf-8");
+  const raw = await readFile(EVENTS_PATH, "utf-8");
 
   const dataset = JSON.parse(raw) as FestivalDataset & {
     events?: FestivalEntry[];
   };
 
-  // Support either "festivals" or "events" as the top-level key.
   const rawFestivals = dataset.festivals ?? dataset.events;
 
   if (!Array.isArray(rawFestivals)) {
@@ -159,7 +174,21 @@ async function main() {
     );
   }
 
-  // Only keep entries with usable dates.
+  // 1. Backfill uids and persist before anything else.
+  const added = assignMissingUids(rawFestivals);
+
+  if (added > 0) {
+    await writeFile(
+      EVENTS_PATH,
+      `${JSON.stringify(dataset, null, 2)}\n`,
+      "utf-8",
+    );
+    console.log(`Added ${added} uids to ${EVENTS_PATH}.`);
+  }
+
+  // 2. Generate ICS files (rest of your main unchanged)
+  await mkdir("public/ics", { recursive: true });
+
   const validFestivals = rawFestivals.filter(hasValidDates);
 
   /*

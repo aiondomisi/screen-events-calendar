@@ -7,7 +7,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:guadalajara-international-film-festival-2026@festival-ics.example
 SUMMARY:Guadalajara International Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260425
 DESCRIPTION:festival\nWebsite: https://ficg.mx/en/\nSource: https://www.scr
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hotdocs-2026@festival-ics.example
 SUMMARY:HotDocs
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260503
 DESCRIPTION:festival\nWebsite: https://hotdocs.ca/#hot-docs-festival\nSourc
@@ -33,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:banff-world-media-festival-2026@festival-ics.example
 SUMMARY:BANFF World Media Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260617
 DESCRIPTION:festival\nWebsite: https://banffmediafestival.playbackonline.ca
@@ -46,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:oakville-festivals-of-film-and-art-2026@festival-ics.example
 SUMMARY:Oakville Festivals of Film and Art
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260627
 DESCRIPTION:festival\nWebsite: https://offa.ca/\nSource: https://www.screen
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fantasia-international-film-festival-2026@festival-ics.example
 SUMMARY:Fantasia International Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260802
 DESCRIPTION:festival\nWebsite: https://fantasiafestival.com/en\nSource: htt
@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:future-of-film-showcase-2026@festival-ics.example
 SUMMARY:Future Of Film Showcase
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260726
 DESCRIPTION:festival\nWebsite: https://www.fofs.ca/\nSource: https://www.sc
@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tiff-the-market-2026@festival-ics.example
 SUMMARY:TIFF: The Market
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260916
 DESCRIPTION:festival\nWebsite: https://tiff.net/themarket\nSource: https://
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:toronto-international-film-festival-2026@festival-ics.example
 SUMMARY:Toronto International Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260920
 DESCRIPTION:festival\nWebsite: https://tiff.net/\nSource: https://www.scree
@@ -111,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:atlantic-international-film-festival-2026@festival-ics.example
 SUMMARY:Atlantic International Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260923
 DESCRIPTION:festival\nWebsite: https://atlanticfilmfestival.ca/\nSource: ht
@@ -124,7 +124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cinefest-sudbury-international-film-festival-2026@festival-ics.example
 SUMMARY:Cinefest Sudbury International Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260927
 DESCRIPTION:festival\nWebsite: https://cinefest.com/\nSource: https://www.s
@@ -137,7 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vancouver-international-film-festival-2026@festival-ics.example
 SUMMARY:Vancouver International Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261011
 DESCRIPTION:festival\nWebsite: https://viff.org/festival/viff-2026/\nSource
@@ -150,7 +150,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:festival-du-nouveau-cinema-of-montreal-2026@festival-ics.example
 SUMMARY:Festival du nouveau cinéma of Montreal
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261026
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -159,9 +159,9 @@ LOCATION:Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:japan-cuts-2026-07-08-united-states@festival-ics.example
+UID:91efa323-a127-45a9-bcb6-bc926a010b38
 SUMMARY:Japan Cuts
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260718
 DESCRIPTION:festival\nWebsite: https://japansociety.org/film/japancuts/\nSo
@@ -171,10 +171,9 @@ LOCATION:United States
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:vancouver-taiwanese-film-festival-2026-09-04-canada@festival-ics.exampl
-	e
+UID:264a5292-8bff-4205-a0a2-68e90c4b13cc
 SUMMARY:Vancouver Taiwanese Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 DESCRIPTION:festival\nWebsite: https://www.twff.ca/\nSource: https://asianf
@@ -184,10 +183,9 @@ LOCATION:Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:mosaic-international-south-asian-film-festival-2026-10-01-canada@festiv
-	al-ics.example
+UID:1cd3b5a7-c8d0-41c8-8ac8-1adae8fdc1d1
 SUMMARY:Mosaic International South Asian Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261004
 DESCRIPTION:festival\nWebsite: https://www.misaff.com/\nSource: https://asi
@@ -197,9 +195,9 @@ LOCATION:Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:vancouver-asian-film-festival-2026-11-05-canada@festival-ics.example
+UID:ab8cf428-d435-4499-be09-878973a2d6f1
 SUMMARY:Vancouver Asian Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261115
 DESCRIPTION:festival\nWebsite: https://vaff.org/\nSource: https://asianfilm
@@ -209,10 +207,9 @@ LOCATION:Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:toronto-reel-asian-international-film-festival-2026-11-11-canada@festiv
-	al-ics.example
+UID:2c003e1c-7d6d-4366-895b-661530fdc899
 SUMMARY:Toronto Reel Asian International Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261121
 DESCRIPTION:festival\nWebsite: https://www.reelasian.com/\nSource: https://
@@ -222,10 +219,9 @@ LOCATION:Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:mulan-international-film-festival-2026-11-21-canada@festival-ics.exampl
-	e
+UID:f01a232a-0e7d-4ff9-ae64-2bb9cc968185
 SUMMARY:Mulan International Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261203
 DESCRIPTION:festival\nWebsite: https://mulanfestival.com/\nSource: https://

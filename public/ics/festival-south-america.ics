@@ -8,7 +8,7 @@ BEGIN:VEVENT
 UID:festival-do-rio-rio-de-janeiro-international-film-festival-2026@festiva
 	l-ics.example
 SUMMARY:Festival do Rio - Rio de Janeiro International Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261011
 DESCRIPTION:festival\nWebsite: https://www.festivaldorio.com.br/\nSource: h
@@ -19,9 +19,9 @@ LOCATION:Brazil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cartagena-film-festival-2026-03-14-colombia@festival-ics.example
+UID:87f15ed2-a776-46d9-bf21-991c6e66354d
 SUMMARY:Cartagena Film Festival 
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260319
 DESCRIPTION:festival\n42nd India Catalina Awards held at Plaza de la Aduana

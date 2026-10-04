@@ -1,15 +1,12 @@
 import FullCalendar from "@fullcalendar/react";
-import themePlugin from "@fullcalendar/react/themes/monarch";
 import dayGridPlugin from "@fullcalendar/react/daygrid";
-import timeGridPlugin from "@fullcalendar/react/timegrid";
 import listPlugin from "@fullcalendar/react/list";
 import multiMonthPlugin from "@fullcalendar/react/multimonth";
+import themePlugin from "@fullcalendar/react/themes/monarch";
+import timeGridPlugin from "@fullcalendar/react/timegrid";
 import festivals from "../data/events.json";
 
-import "@fullcalendar/react/skeleton.css";
-import "@fullcalendar/react/themes/monarch/theme.css";
-import "@fullcalendar/react/themes/monarch/palettes/purple.css";
-import { useState } from "react";
+import { Button } from "@/components/ui/button";
 import {
   Dialog,
   DialogContent,
@@ -17,7 +14,12 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
-import { Button } from "@/components/ui/button";
+import "@fullcalendar/react/skeleton.css";
+import "@fullcalendar/react/themes/monarch/palettes/purple.css";
+import "@fullcalendar/react/themes/monarch/theme.css";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { eventToCalendarEvent } from "../util/eventToCalendarEvent";
+import SearchBox from "./SearchBox";
 
 type SelectedEvent = {
   title: string;
@@ -27,32 +29,40 @@ type SelectedEvent = {
   category?: string;
 };
 
+const data = festivals.events.filter((item) => item.startDate && item.endDate);
+const INIT_EVENTS = eventToCalendarEvent(data);
+
 export function CalendarDisplay() {
   const [selected, setSelected] = useState<SelectedEvent | null>(null);
-  const data = festivals.events.filter(
-    (item) => item.startDate && item.endDate,
+
+  const [eventChoose, setEventChoose] = useState<any>(null);
+
+  const eventDisplay = useMemo(
+    () =>
+      eventChoose
+        ? eventToCalendarEvent(
+            data.filter((item) => item.uid === eventChoose.id),
+          )
+        : INIT_EVENTS,
+    [eventChoose],
   );
 
+  const calendarRef = useRef<React.ComponentRef<typeof FullCalendar>>(null);
+
+  useEffect(() => {
+    if (eventChoose) {
+      calendarRef.current?.getApi().gotoDate(eventChoose.startDate);
+    }
+  }, [eventChoose]);
+
   return (
-    <>
+    <div className="mt-6 flex flex-col gap-5">
+      <SearchBox eventChoose={eventChoose} setEventChoose={setEventChoose} />
       <FullCalendar
+        ref={calendarRef}
         dayMaxEventRows={true}
         colorScheme="light"
-        events={data.map((item) => ({
-          title: item.name,
-          start: item.startDate,
-          end: item.endDate,
-          color: item?.category == "festival" ? "#508295" : "#D05A16",
-          extendedProps: {
-            website: item.website,
-            category: item.category,
-          },
-        }))}
-        // events={[
-        //   { title: "event 1", date: "2026-09-09", allDay: true },
-        //   { title: "event 2", date: "2026-09-02" },
-        // ]}
-        // eventColor="#508295"
+        events={eventDisplay}
         plugins={[
           themePlugin,
           dayGridPlugin,
@@ -99,6 +109,6 @@ export function CalendarDisplay() {
           )}
         </DialogContent>
       </Dialog>
-    </>
+    </div>
   );
 }

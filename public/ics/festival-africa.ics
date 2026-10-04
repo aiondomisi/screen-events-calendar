@@ -7,7 +7,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:johannesburg-film-festival-2026@festival-ics.example
 SUMMARY:Johannesburg Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260308
 DESCRIPTION:festival\nWebsite: https://joburgfilmfestival.co.za/\nSource: h
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:durban-filmmart-2026@festival-ics.example
 SUMMARY:Durban FilmMart
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
 DESCRIPTION:festival\nWebsite: https://durbanfilmmart.co.za/\nSource: https
@@ -33,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:marrakech-film-festival-2026@festival-ics.example
 SUMMARY:Marrakech Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261128
 DESCRIPTION:festival\nWebsite: https://marrakech-festival.com/en/home/\nSou

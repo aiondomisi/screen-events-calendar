@@ -8,7 +8,7 @@ BEGIN:VEVENT
 UID:australian-international-documentary-conference-2026@festival-ics.examp
 	le
 SUMMARY:Australian International Documentary Conference
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260305
 DESCRIPTION:festival\nWebsite: https://www.aidc.com.au/\nSource: https://ww
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:screen-forever-2026@festival-ics.example
 SUMMARY:Screen Forever
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260430
 DESCRIPTION:festival\nWebsite: https://www.screenforever.org.au/40\nSource:
@@ -34,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sydney-film-festival-2026@festival-ics.example
 SUMMARY:Sydney Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260614
 DESCRIPTION:festival\nWebsite: https://www.sff.org.au/\nSource: https://www
@@ -47,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:melbourne-international-film-festival-2026@festival-ics.example
 SUMMARY:Melbourne International Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260823
 DESCRIPTION:festival\nWebsite: https://miff.com.au/\nSource: https://www.sc
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:adelaide-independent-film-festival-2026@festival-ics.example
 SUMMARY:Adelaide Independent Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 DESCRIPTION:festival\nWebsite: https://auteursforum.com/aiff\nSource: https
@@ -73,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sydney-science-fiction-film-festival-2026@festival-ics.example
 SUMMARY:Sydney Science Fiction Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261011
 DESCRIPTION:festival\nWebsite: https://www.sydneysciencefictionfilmfestival
@@ -86,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:adelaide-film-festival-2026@festival-ics.example
 SUMMARY:Adelaide Film Festival
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261025
 DESCRIPTION:festival\nWebsite: https://www.adelaidefilmfestival.org/\nSourc
@@ -97,10 +97,9 @@ LOCATION:Australia
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:taiwan-film-festival-in-australia-2026-07-23-australia@festival-ics.exa
-	mple
+UID:020a7154-f4dc-4061-adff-18de631023e9
 SUMMARY:Taiwan Film Festival in Australia
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260906
 DESCRIPTION:festival\nWebsite: https://www.taiwanfilmfestival.org.au/\nSour

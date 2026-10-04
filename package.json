@@ -7,6 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
     "generate": "tsx src/generateIcs.ts"
   },
   "dependencies": {
@@ -27,6 +29,7 @@
     "countries-list": "^3.4.1",
     "ics": "^3.8.1",
     "lucide-react": "^1.48.0",
+    "minisearch": "^7.2.0",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
     "shadcn": "^4.21.0",

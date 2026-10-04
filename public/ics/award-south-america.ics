@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:mart-n-fierro-awards-2026-05-18-argentina@festival-ics.example
+UID:bf11aba7-b5b9-4fda-8436-addfa0245dbb
 SUMMARY:Martín Fierro Awards
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260518
 DESCRIPTION:award\nOrganized by APTRA\; held at the Hotel Hilton in Puerto 
 	Madero\, Buenos Aires.\nWebsite: https://aptra.org.ar/\nSource: undefined
@@ -16,9 +16,9 @@ LOCATION:Argentina
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:trof-u-imprensa-2026-05-18-brazil@festival-ics.example
+UID:bc73698d-4c66-4ae0-9768-9afb9bfeeebd
 SUMMARY:Troféu Imprensa
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260518
 DESCRIPTION:award\nPresented annually by SBT to honor Brazilian television 
 	productions and telenovelas.\nWebsite: https://www.sbt.com.br/\nSource: un
@@ -28,9 +28,9 @@ LOCATION:Brazil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:caleuche-awards-2026-02-03-chile@festival-ics.example
+UID:b166ce07-1e7a-440f-a1f5-bcdfac22a7b1
 SUMMARY:Caleuche Awards
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:award\n10th Premios Caleuche organized by Chileactores in Santi
 	ago\, Chile.\nWebsite: https://www.premioscaleuche.cl/\nSource: undefined
@@ -39,9 +39,9 @@ LOCATION:Chile
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:premios-nuestra-tierra-2026-05-14-colombia@festival-ics.example
+UID:7dcd4014-1fa6-4314-930b-479898f2d49f
 SUMMARY:Premios Nuestra Tierra
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20260514
 DESCRIPTION:award\nHeld at Teatro Colsubsidio in Bogotá\, Colombia.\nWebsit
 	e: https://premiosnuestratierra.rcnradio.com/\nSource: undefined
@@ -50,9 +50,9 @@ LOCATION:Colombia
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:macondo-awards-2026-10-25-colombia@festival-ics.example
+UID:06eb34fb-90f3-4c60-b938-46a403b5df29
 SUMMARY:Macondo Awards
-DTSTAMP:20260930T010822Z
+DTSTAMP:20261004T130839Z
 DTSTART;VALUE=DATE:20261025
 DESCRIPTION:award\n14th Macondo Awards organized by the Colombian Academy o
 	f Cinema Arts and Sciences in Cali.\nWebsite: https://academiacolombianade
