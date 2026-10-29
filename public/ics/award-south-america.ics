@@ -7,7 +7,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:bf11aba7-b5b9-4fda-8436-addfa0245dbb
 SUMMARY:Martín Fierro Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260518
 DESCRIPTION:award\nOrganized by APTRA\; held at the Hotel Hilton in Puerto 
 	Madero\, Buenos Aires.\nWebsite: https://aptra.org.ar/\nSource: undefined
@@ -18,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bc73698d-4c66-4ae0-9768-9afb9bfeeebd
 SUMMARY:Troféu Imprensa
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260518
 DESCRIPTION:award\nPresented annually by SBT to honor Brazilian television 
 	productions and telenovelas.\nWebsite: https://www.sbt.com.br/\nSource: un
@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b166ce07-1e7a-440f-a1f5-bcdfac22a7b1
 SUMMARY:Caleuche Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:award\n10th Premios Caleuche organized by Chileactores in Santi
 	ago\, Chile.\nWebsite: https://www.premioscaleuche.cl/\nSource: undefined
@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7dcd4014-1fa6-4314-930b-479898f2d49f
 SUMMARY:Premios Nuestra Tierra
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260514
 DESCRIPTION:award\nHeld at Teatro Colsubsidio in Bogotá\, Colombia.\nWebsit
 	e: https://premiosnuestratierra.rcnradio.com/\nSource: undefined
@@ -52,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:06eb34fb-90f3-4c60-b938-46a403b5df29
 SUMMARY:Macondo Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20261025
 DESCRIPTION:award\n14th Macondo Awards organized by the Colombian Academy o
 	f Cinema Arts and Sciences in Cali.\nWebsite: https://academiacolombianade

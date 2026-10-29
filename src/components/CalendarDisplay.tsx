@@ -5,6 +5,7 @@ import multiMonthPlugin from "@fullcalendar/react/multimonth";
 import themePlugin from "@fullcalendar/react/themes/monarch";
 import timeGridPlugin from "@fullcalendar/react/timegrid";
 import festivals from "../data/events.json";
+import dayjs from "dayjs";
 
 import { Button } from "@/components/ui/button";
 import {
@@ -102,8 +103,9 @@ export function CalendarDisplay() {
           <DialogHeader>
             <DialogTitle>{selected?.title}</DialogTitle>
             <DialogDescription>
-              {selected?.start?.toLocaleDateString()}
-              {selected?.end && ` – ${selected.end.toLocaleDateString()}`}
+              {selected?.start && dayjs(selected.start).format("DD MMM YYYY")}
+              {selected?.end &&
+                ` – ${dayjs(selected.end).format("DD MMM YYYY")}`}
             </DialogDescription>
           </DialogHeader>
           {selected?.website && (

@@ -5,6 +5,10 @@ on:
     branches: [main]
     paths:
       - "data/events.json"
+      - "src/**"
+      - "public/**"
+      - "package.json"
+      - "astro.config.*"
   workflow_dispatch: {} # allows manual trigger from the Actions tab
 
 permissions:
@@ -34,8 +38,8 @@ jobs:
       - name: Generate ICS feed
         run: npm run generate
 
-      - name: Copy html page
-        run: cp public/index.html public/festival.html public/award.html dist/
+      - name: Build site
+        run: npm run build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

@@ -7,7 +7,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:57ac3242-6f5b-43ad-87d6-5ece9a5b97ec
 SUMMARY:Children's and Family Emmy Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
 DESCRIPTION:award\n4th Annual Children's & Family Emmy Awards held at Jazz 
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4b74bc93-e6be-4feb-ba5f-7d25e255eb65
 SUMMARY:Daytime Emmy Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20261030
 DESCRIPTION:award\n53rd Daytime Emmy Awards airing on CBS.\nWebsite: https:
 	//theemmys.tv/daytime/\nSource: undefined
@@ -31,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b44c14bc-8c31-4eb1-a43d-9494598c0aa9
 SUMMARY:International Emmy Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20261123
 DESCRIPTION:award\nPresented by IATAS\; traditionally held on the Monday be
 	fore Thanksgiving in November.\nWebsite: https://www.iemmys.tv/\nSource: u
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:73d2f10c-59a0-4af9-9a0e-d6f3e4cdd070
 SUMMARY:News and Documentary Emmy Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
 DESCRIPTION:award\n47th News and Documentary Emmy Awards held at Jazz at Li
@@ -55,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ad79ceb3-93a9-40d9-8e63-86525b4809e2
 SUMMARY:Primetime Emmy Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260914
 DESCRIPTION:award\n78th Primetime Emmy Awards officially scheduled at the P
 	eacock Theater in Los Angeles.\nWebsite: https://theemmys.tv/sports/\nSour
@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:61250ae2-ec0a-4f24-9146-7ae6d2b56465
 SUMMARY:Sports Emmy Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260526
 DESCRIPTION:award\n47th Sports Emmy Awards hosted by Roy Wood Jr. at Jazz a
 	t Lincoln Center.\nWebsite: https://theemmys.tv/\nSource: undefined
@@ -78,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:990a4e8f-3867-4468-8764-7dc7f79ae0d4
 SUMMARY:Technology and Engineering Emmy Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20261014
 DESCRIPTION:award\nPresented by NATAS\; typically held in October or during
 	 NAB Show.\nWebsite: https://theemmys.tv/tech/\nSource: undefined
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9ee62828-0c66-4eae-8ba5-d811582201c5
 SUMMARY:Annie Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260221
 DESCRIPTION:award\n53rd Annie Awards held at UCLA's Royce Hall.\nWebsite: h
 	ttps://annieawards.org/\nSource: undefined
@@ -100,7 +100,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:251fd886-9f4c-442d-acd3-fe0c8a08ed04
 SUMMARY:Critics' Choice Television Award
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260104
 DESCRIPTION:award\n31st Critics' Choice Awards held at Barker Hangar in San
 	ta Monica.\nWebsite: https://www.criticschoice.com/\nSource: undefined
@@ -111,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0f477367-ccea-42fd-9489-a0a61f0a3deb
 SUMMARY:Dorian Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260815
 DESCRIPTION:award\nPresented by GALECA\; 2026 Dorian TV Awards winners reve
 	aled August 15.\nWebsite: https://www.galeca.org/dorianawards\nSource: und
@@ -123,7 +123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:776afe19-0dbe-4a9b-8198-2e42d8842173
 SUMMARY:GLAAD Media Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260305
 DESCRIPTION:award\n37th GLAAD Media Awards held in Los Angeles.\nWebsite: h
 	ttps://glaad.org/mediaawards\nSource: undefined
@@ -134,7 +134,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:763228e4-42c9-467f-a2b4-27ac59c0b1e5
 SUMMARY:Golden Globe Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20270110
 DESCRIPTION:award\n83rd Golden Globe Awards held at The Beverly Hilton.\nWe
 	bsite: https://goldenglobes.com/\nSource: undefined
@@ -145,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:84e187fb-796e-4c92-8029-568848b82f3c
 SUMMARY:Humanitas Prize
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260909
 DESCRIPTION:award\n2026 Humanitas Prizes Awards Show & Toast held at Avalon
 	 Hollywood.\nWebsite: https://www.humanitasprize.org/\nSource: undefined
@@ -156,7 +156,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b7fb4288-2988-495c-8233-eda33c6f6c52
 SUMMARY:National Reality Television Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:award\nOrganized by National Media Group\; typically held in Se
 	ptember or July.\nWebsite: https://nationalrealitytvawards.org/\nSource: u
@@ -168,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:333b6a8b-6dbd-4ab5-b757-53a6dfa93468
 SUMMARY:Peabody Award
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260531
 DESCRIPTION:award\n86th Annual Peabody Awards held at the Beverly Wilshire 
 	Hotel.\nWebsite: https://peabodyawards.com/\nSource: undefined
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5d21f44d-15d3-4c93-b577-b11ee85f483d
 SUMMARY:Young Hollywood Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20140727
 DESCRIPTION:award\nDefunct awards ceremony last hosted on July 27\, 2014.\n
 	Website: https://variety.com/\nSource: undefined
@@ -190,7 +190,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f3f2c627-5742-41c5-88dd-b7ddfc2bea94
 SUMMARY:Women in Film Honors
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260915
 DESCRIPTION:award\nPresented by Women in Film Los Angeles\; usually held in
 	 October.\nWebsite: https://womeninfilm.org/honors/\nSource: undefined
@@ -201,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f4d6240a-12a0-4745-9665-0630bc92f93d
 SUMMARY:Canadian Screen Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260531
 DESCRIPTION:award\n14th Canadian Screen Awards hosted at the CBC Broadcast 
@@ -214,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:45ea0c97-47d6-4c5d-a870-d87a649e724d
 SUMMARY:CAFTCAD Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260301
 DESCRIPTION:award\n7th CAFTCAD Awards held at The Eglinton Grand in Toronto
 	 honoring costume design.\nWebsite: https://www.caftcad.com/\nSource: unde
@@ -226,7 +226,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:498bcbae-4a35-479a-81a5-9aa2de5fb2ab
 SUMMARY:Leo Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 DESCRIPTION:award\n2026 LEO Awards held over two ceremonies in Vancouver\, 
@@ -238,7 +238,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6cccf42c-3bdb-4d81-b23e-61efd73f2671
 SUMMARY:Prix Gémeaux
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260913
 DESCRIPTION:award\n41st Prix Gémeaux honoring French-language television an
 	d digital media.\nWebsite: https://academie.ca/prixgemeaux\nSource: undefi
@@ -250,7 +250,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:85f71ae0-a10b-4242-bbb9-3a0e717a416c
 SUMMARY:Rosie Awards (AMPIA Awards)
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20261107
 DESCRIPTION:award\nAlberta film and television awards presented by AMPIA\; 
 	usually hosted in September/October.\nWebsite: https://ampia.org/2026-rosi
@@ -262,7 +262,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:46a01139-3cdc-48db-9967-a4a175359539
 SUMMARY:TCA Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260612
 DESCRIPTION:award\nWebsite: https://www.tvcritics.org/tca-awards\nSource: u
 	ndefined
@@ -273,7 +273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1e7477bc-a5ab-4f19-9672-2e4eb4b637c8
 SUMMARY:WGC Screenwriting Awards
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260427
 DESCRIPTION:award\nPresented by the Writers Guild of Canada\; annual ceremo
 	ny traditionally held in April.\nWebsite: https://www.wgc.ca/\nSource: und
@@ -285,7 +285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b077dcb4-fad3-48d7-9774-40dc37c3d26a
 SUMMARY:Premios Aura
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260426
 DESCRIPTION:award\n3rd Premios Aura held at FCO Action Hall in Mexico City.
 	\nWebsite: https://premiosaura.com/\nSource: undefined
@@ -296,7 +296,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:88cb95ec-b8c2-448d-8104-ab435d532dc8
 SUMMARY:Premios Juventud
-DTSTAMP:20261029T111110Z
+DTSTAMP:20261029T175805Z
 DTSTART;VALUE=DATE:20260903
 DESCRIPTION:award\nPresented by Univision honoring Spanish-speaking celebri
 	ties across pop culture and TV.\nWebsite: https://www.univision.com/premio
