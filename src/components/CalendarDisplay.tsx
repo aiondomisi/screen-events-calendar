@@ -20,6 +20,7 @@ import "@fullcalendar/react/themes/monarch/theme.css";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { eventToCalendarEvent } from "../util/eventToCalendarEvent";
 import SearchBox from "./SearchBox";
+import { CalendarSkeleton } from "./CalendarSkeleton";
 
 type SelectedEvent = {
   title: string;
@@ -55,11 +56,15 @@ export function CalendarDisplay() {
     }
   }, [eventChoose]);
 
+  // const [ready, setReady] = useState(false);
+
   return (
-    <div className="mt-6 flex flex-col gap-5">
+    <div className="mt-6 flex flex-col gap-5 my-calendar">
       <SearchBox eventChoose={eventChoose} setEventChoose={setEventChoose} />
+      {/* {!ready && <CalendarSkeleton />} */}
       <FullCalendar
         ref={calendarRef}
+        // datesSet={() => setReady(true)}
         dayMaxEventRows={true}
         colorScheme="light"
         events={eventDisplay}
@@ -87,6 +92,7 @@ export function CalendarDisplay() {
         }}
         initialView="dayGridMonth"
       />
+      {/* </div> */}
 
       <Dialog
         open={!!selected}

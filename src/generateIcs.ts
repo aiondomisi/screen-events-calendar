@@ -64,7 +64,12 @@ function ensureUid(entry: FestivalEntry): string {
 function hasValidDates(
   entry: FestivalEntry,
 ): entry is FestivalEntry & { startDate: string; endDate: string } {
-  if (!entry.startDate || !entry.endDate) {
+  if (
+    !entry.startDate ||
+    !entry.endDate ||
+    entry.endDate == "undefined" ||
+    entry.startDate == "undefined"
+  ) {
     console.warn(`Skipping "${entry.name}" — missing startDate/endDate.`);
 
     return false;

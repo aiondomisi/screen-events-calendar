@@ -4,25 +4,27 @@
       "uid": "palm-springs-international-film-festival-2026@festival-ics.example",
       "name": "Palm Springs International Film Festival",
       "country": "US",
-      "startDate": "2026-01-02",
-      "endDate": "2026-01-12",
+      "startDate": "2027-01-07",
+      "endDate": "2027-01-18",
       "category": "festival",
       "status": "confirmed",
       "website": "https://psfilmfest.org/film-festival-2026",
       "secondaryWebsite": "https://psfilmfest.org/filmfest",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "previous-events-saint-augustine-film-festival-2026@festival-ics.example",
       "name": "Previous events Saint Augustine Film Festival",
       "country": "US",
-      "startDate": "2026-01-05",
-      "endDate": "2026-01-11",
+      "startDate": "2027-01-07",
+      "endDate": "2027-01-10",
       "category": "festival",
       "status": "confirmed",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "dances-with-films-new-york-2026@festival-ics.example",
@@ -52,25 +54,26 @@
       "uid": "sundance-film-festival-2026@festival-ics.example",
       "name": "Sundance Film Festival",
       "country": "US",
-      "startDate": "2026-01-22",
-      "endDate": "2026-02-01",
+      "startDate": "2027-01-21",
+      "endDate": "2027-01-31",
       "category": "festival",
       "status": "confirmed",
-      "website": "https://www.screendaily.com/news/sundance-stars-on-park-city-era-this-festival-affected-my-ability-to-be-a-working-actor/5213216.article",
-      "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "website": "https://festival.sundance.org/",
+      "sourceUrl": "https://festival.sundance.org/",
       "notes": ""
     },
     {
       "uid": "fipadoc-international-documentary-film-festival-2026@festival-ics.example",
       "name": "FIPADOC International Documentary Film Festival",
       "country": "France",
-      "startDate": "2026-01-23",
-      "endDate": "2026-01-31",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-30",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.fipadoc.com/en",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "goteborg-film-festival-2026@festival-ics.example",
@@ -100,32 +103,34 @@
       "uid": "los-angeles-greek-film-festival-doc-2026@festival-ics.example",
       "name": "Los Angeles Greek Film Festival-doc",
       "country": "US",
-      "startDate": "2026-01-30",
-      "endDate": "2026-02-01",
+      "startDate": "2027-01-29",
+      "endDate": "2027-01-31",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.lagff.org/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "ostend-film-festival-2026@festival-ics.example",
       "name": "Ostend Film Festival",
       "country": "Belgium",
-      "startDate": "2026-01-30",
-      "endDate": "2026-02-07",
+      "startDate": "2027-01-15",
+      "endDate": "2027-01-23",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.filmfestivaloostende.be/nl/festival",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "docpoint-helsinki-documentary-film-festival-2026@festival-ics.example",
       "name": "DocPoint - Helsinki Documentary Film Festival",
       "country": "Finland",
-      "startDate": "2026-02-03",
-      "endDate": "2026-02-08",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-14",
       "category": "festival",
       "status": "confirmed",
       "website": "https://docpointfestival.fi/en/",
@@ -160,13 +165,14 @@
       "uid": "european-film-market-2026@festival-ics.example",
       "name": "European Film Market",
       "country": "Germany",
-      "startDate": "2026-02-12",
-      "endDate": "2026-02-18",
+      "startDate": "2027-02-10",
+      "endDate": "2027-02-16",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.efm-berlinale.de/en/home/homepage.html",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "berlin-international-film-festival-2026@festival-ics.example",
@@ -196,13 +202,14 @@
       "uid": "romford-horror-festival-2026@festival-ics.example",
       "name": "Romford Horror Festival",
       "country": "UK",
-      "startDate": "2026-02-19",
-      "endDate": "2026-02-22",
+      "startDate": "2027-02-18",
+      "endDate": "2027-02-21",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.romfordhorrorfestival.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "dublin-international-film-festival-2026@festival-ics.example",
@@ -232,13 +239,14 @@
       "uid": "glasgow-film-festival-2026@festival-ics.example",
       "name": "Glasgow Film Festival",
       "country": "UK",
-      "startDate": "2026-02-25",
-      "endDate": "2026-03-08",
+      "startDate": "2027-02-24",
+      "endDate": "2027-03-07",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.glasgowfilmfest.org/home/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "new-york-international-children-s-film-festival-2026@festival-ics.example",
@@ -256,37 +264,40 @@
       "uid": "australian-international-documentary-conference-2026@festival-ics.example",
       "name": "Australian International Documentary Conference",
       "country": "Australia",
-      "startDate": "2026-03-02",
-      "endDate": "2026-03-05",
+      "startDate": "2027-03-08",
+      "endDate": "2027-03-11",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.aidc.com.au/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "cartoon-movie-2026@festival-ics.example",
       "name": "Cartoon Movie",
       "country": "France",
-      "startDate": "2026-03-03",
-      "endDate": "2026-03-05",
+      "startDate": "2027-03-02",
+      "endDate": "2027-03-04",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.cartoon-media.eu/movie/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "gasparilla-international-film-festival-2026@festival-ics.example",
       "name": "Gasparilla International Film Festival",
       "country": "US",
-      "startDate": "2026-03-03",
-      "endDate": "2026-03-08",
+      "startDate": "2027-04-01",
+      "endDate": "2027-04-04",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.gasparillafilmfestival.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "johannesburg-film-festival-2026@festival-ics.example",
@@ -328,13 +339,14 @@
       "uid": "true-false-film-festival-2026@festival-ics.example",
       "name": "True/False Film Festival",
       "country": "US",
-      "startDate": "2026-03-05",
-      "endDate": "2026-03-08",
+      "startDate": "2027-03-04",
+      "endDate": "2027-03-07",
       "category": "festival",
       "status": "confirmed",
       "website": "https://truefalse.org/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "luxembourg-city-film-festival-2026@festival-ics.example",
@@ -376,25 +388,27 @@
       "uid": "borderlines-film-festival-2026@festival-ics.example",
       "name": "Borderlines Film Festival",
       "country": "UK",
-      "startDate": "2026-03-06",
-      "endDate": "2026-03-21",
+      "startDate": "2027-03-05",
+      "endDate": "2027-03-20",
       "category": "festival",
       "status": "confirmed",
       "website": "https://borderlinesfilmfestival.co.uk/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "christian-worldview-film-festival-2026@festival-ics.example",
       "name": "Christian Worldview Film Festival",
       "country": "US",
-      "startDate": "2026-03-09",
-      "endDate": "2026-03-13",
+      "startDate": "2027-03-08",
+      "endDate": "2027-03-12",
       "category": "festival",
       "status": "confirmed",
       "website": "https://cwvff.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "vilnius-international-film-festival-2026@festival-ics.example",
@@ -424,49 +438,53 @@
       "uid": "cph-dox-2026@festival-ics.example",
       "name": "CPH:DOX",
       "country": "Denmark",
-      "startDate": "2026-03-11",
-      "endDate": "2026-03-22",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-21",
       "category": "festival",
       "status": "confirmed",
       "website": "https://cphdox.dk/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "sxsw-2026@festival-ics.example",
       "name": "SXSW",
       "country": "US",
-      "startDate": "2026-03-12",
-      "endDate": "2026-03-18",
+      "startDate": "2027-03-15",
+      "endDate": "2027-03-21",
       "category": "festival",
       "status": "confirmed",
       "website": "https://sxsw.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "sofia-international-film-festival-2026@festival-ics.example",
       "name": "Sofia International Film Festival",
       "country": "Bulgaria",
-      "startDate": "2026-03-12",
-      "endDate": "2026-03-31",
+      "startDate": "2027-03-11",
+      "endDate": "2027-03-21",
       "category": "festival",
       "status": "confirmed",
       "website": "https://siff.bg/en/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "hong-kong-asia-film-financing-forum-2026@festival-ics.example",
       "name": "Hong Kong-Asia Film Financing Forum",
       "country": "Hong Kong",
-      "startDate": "2026-03-17",
-      "endDate": "2026-03-19",
+      "startDate": "2027-03-15",
+      "endDate": "undefined",
       "category": "festival",
       "status": "confirmed",
       "website": "https://industry.hkiff.org.hk/en/haf/introduction",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "filmart-2026@festival-ics.example",
@@ -484,13 +502,14 @@
       "uid": "hippfest-2026@festival-ics.example",
       "name": "HippFest",
       "country": "UK",
-      "startDate": "2026-03-18",
-      "endDate": "2026-03-22",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-21",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.hippodromecinema.co.uk/hippfest/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "sofia-meetings-2026@festival-ics.example",
@@ -508,13 +527,14 @@
       "uid": "diagonale-2026@festival-ics.example",
       "name": "Diagonale",
       "country": "Austria",
-      "startDate": "2026-03-18",
-      "endDate": "2026-03-23",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-12",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.diagonale.at/en/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "bfi-flare-london-lgbtqia-film-festival-2026@festival-ics.example",
@@ -568,25 +588,27 @@
       "uid": "series-mania-2026@festival-ics.example",
       "name": "Series Mania",
       "country": "France",
-      "startDate": "2026-03-20",
-      "endDate": "2026-03-27",
+      "startDate": "2027-03-19",
+      "endDate": "2027-03-26",
       "category": "festival",
       "status": "confirmed",
       "website": "https://seriesmania.com/en/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "sonoma-international-film-festival-2026@festival-ics.example",
       "name": "Sonoma International Film Festival",
       "country": "US",
-      "startDate": "2026-03-25",
-      "endDate": "2026-03-29",
+      "startDate": "2027-03-16",
+      "endDate": "2027-03-21",
       "category": "festival",
       "status": "confirmed",
       "website": "https://sonomafilmfest.org/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "garden-state-film-festival-2026@festival-ics.example",
@@ -652,13 +674,14 @@
       "uid": "brussels-international-fantastic-film-festival-2026@festival-ics.example",
       "name": "Brussels International Fantastic Film Festival",
       "country": "Belgium",
-      "startDate": "2026-04-03",
-      "endDate": "2026-04-18",
+      "startDate": "2027-03-25",
+      "endDate": "2027-04-10",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.bifff.net/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "paleyfest-la-2026@festival-ics.example",
@@ -670,7 +693,8 @@
       "status": "confirmed",
       "website": "https://www.paleycenter.org/events/paleyfest",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "ofn-lgbtqia-international-film-festival-2026@festival-ics.example",
@@ -748,37 +772,40 @@
       "uid": "sixth-borough-film-festival-2026@festival-ics.example",
       "name": "Sixth Borough Film Festival",
       "country": "US",
-      "startDate": "2026-04-10",
-      "endDate": "2026-04-12",
+      "startDate": "2027-04-02",
+      "endDate": "2027-04-04",
       "category": "festival",
       "status": "confirmed",
       "website": "https://manhattan.edu/academics/schools-and-departments/kakos/comm-sou-med-arts/film-festival/index.php",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "sarasota-film-festival-2026@festival-ics.example",
       "name": "Sarasota Film Festival",
       "country": "US",
-      "startDate": "2026-04-10",
-      "endDate": "2026-04-19",
+      "startDate": "2027-04-09",
+      "endDate": "2027-04-18",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.sarasotafilmfestival.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "independent-days-international-film-festival-karlsruhe-2026@festival-ics.example",
       "name": "Independent Days International Film Festival Karlsruhe",
       "country": "Germany",
-      "startDate": "2026-04-15",
-      "endDate": "2026-04-19",
+      "startDate": "2027-04-14",
+      "endDate": "2027-04-18",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.independentdays-filmfest.com/english/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "bcn-film-fest-2026@festival-ics.example",
@@ -796,13 +823,14 @@
       "uid": "milwaukee-film-festival-2026@festival-ics.example",
       "name": "Milwaukee Film Festival",
       "country": "US",
-      "startDate": "2026-04-16",
-      "endDate": "2026-04-30",
+      "startDate": "2027-04-29",
+      "endDate": "2027-05-13",
       "category": "festival",
       "status": "confirmed",
       "website": "https://mkefilm.org/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "sands-international-film-festival-of-st-andrews-2026@festival-ics.example",
@@ -820,13 +848,14 @@
       "uid": "sunny-bunny-lgbtqia-film-festival-2026@festival-ics.example",
       "name": "Sunny Bunny LGBTQIA+ Film Festival",
       "country": "Ukraine",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-24",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-23",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.sunnybunnyqiff.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "guadalajara-international-film-festival-2026@festival-ics.example",
@@ -844,61 +873,66 @@
       "uid": "visions-du-reel-2026@festival-ics.example",
       "name": "Visions du Réel",
       "country": "Switzerland",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-26",
+      "startDate": "2027-04-09",
+      "endDate": "2027-04-18",
       "category": "festival",
       "status": "confirmed",
-      "website": "https://www.screendaily.com/news/xisi-sofia-ye-chens-from-dawn-to-dawn-wins-top-prize-at-switzerlands-visions-du-reel/5215998.article",
-      "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "website": "https://www.visionsdureel.ch/",
+      "sourceUrl": "https://www.visionsdureel.ch/",
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "timeless-film-festival-2026@festival-ics.example",
       "name": "Timeless Film Festival",
       "country": "Poland",
-      "startDate": "2026-04-17",
-      "endDate": "2026-04-27",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-26",
       "category": "festival",
       "status": "confirmed",
       "website": "https://timelessfilmfestival.pl/en/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "little-venice-film-festival-2026@festival-ics.example",
       "name": "Little Venice Film Festival",
       "country": "UK",
-      "startDate": "2026-04-22",
-      "endDate": "2026-04-28",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-28",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.littlevenicefilmfestival.org/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "canneseries-2026@festival-ics.example",
       "name": "Canneseries",
       "country": "France",
-      "startDate": "2026-04-23",
-      "endDate": "2026-04-28",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-17",
       "category": "festival",
       "status": "confirmed",
       "website": "https://canneseries.com/en/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "san-luis-obispo-international-film-festival-2026@festival-ics.example",
       "name": "San Luis Obispo International Film Festival",
       "country": "US",
-      "startDate": "2026-04-23",
-      "endDate": "2026-04-28",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-27",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.slofilmfest.org/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "saudi-film-festival-2026@festival-ics.example",
@@ -916,13 +950,14 @@
       "uid": "hotdocs-2026@festival-ics.example",
       "name": "HotDocs",
       "country": "Canada",
-      "startDate": "2026-04-23",
-      "endDate": "2026-05-03",
+      "startDate": "2027-04-23",
+      "endDate": "2027-05-02",
       "category": "festival",
       "status": "confirmed",
       "website": "https://hotdocs.ca/#hot-docs-festival",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "las-palmas-de-gran-canaria-international-film-festival-2026@festival-ics.example",
@@ -952,25 +987,27 @@
       "uid": "far-east-film-festival-2026@festival-ics.example",
       "name": "Far East Film Festival",
       "country": "Italy",
-      "startDate": "2026-04-24",
-      "endDate": "2026-05-02",
+      "startDate": "2027-04-23",
+      "endDate": "2027-05-01",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.fareastfilm.com/eng/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "screen-forever-2026@festival-ics.example",
       "name": "Screen Forever",
       "country": "Australia",
-      "startDate": "2026-04-28",
-      "endDate": "2026-04-30",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.screenforever.org.au/40",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "doc-n-roll-new-york-2026@festival-ics.example",
@@ -988,13 +1025,14 @@
       "uid": "jeonju-international-film-festival-2026@festival-ics.example",
       "name": "Jeonju International Film Festival",
       "country": "South Korea",
-      "startDate": "2026-04-29",
-      "endDate": "2026-05-08",
+      "startDate": "2027-04-28",
+      "endDate": "2027-05-07",
       "category": "festival",
       "status": "confirmed",
       "website": "https://eng.jeonjufest.kr/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "doclands-documentary-film-festival-2026@festival-ics.example",
@@ -1035,13 +1073,14 @@
       "uid": "jfilm-festival-2026@festival-ics.example",
       "name": "JFilm Festival",
       "country": "US",
-      "startDate": "2026-04-30",
-      "endDate": "2026-05-10",
+      "startDate": "2027-05-13",
+      "endDate": "2027-05-23",
       "category": "festival",
       "status": "confirmed",
       "website": "https://filmpittsburgh.org/pages/jfilm",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "margaret-mead-film-festival-2026@festival-ics.example",
@@ -1059,13 +1098,14 @@
       "uid": "uk-asian-film-festival-2026@festival-ics.example",
       "name": "UK Asian Film Festival",
       "country": "UK",
-      "startDate": "2026-05-01",
-      "endDate": "2026-05-10",
+      "startDate": "2027-05-01",
+      "endDate": "undefined",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.tonguesonfire.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "wellness-film-festival-2026@festival-ics.example",
@@ -1118,13 +1158,14 @@
       "uid": "seattle-international-film-festival-2026@festival-ics.example",
       "name": "Seattle International Film Festival",
       "country": "US",
-      "startDate": "2026-05-07",
-      "endDate": "2026-05-17",
+      "startDate": "2027-05-13",
+      "endDate": "2027-05-23",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.siff.net/festival",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "sunderland-shorts-film-festival-2026@festival-ics.example",
@@ -1142,13 +1183,14 @@
       "uid": "marche-du-film-2026@festival-ics.example",
       "name": "Marché du Film",
       "country": "France",
-      "startDate": "2026-05-12",
-      "endDate": "2026-05-20",
+      "startDate": "2027-05-11",
+      "endDate": "2027-05-19",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.marchedufilm.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "cannes-film-festival-2026@festival-ics.example",
@@ -1200,25 +1242,27 @@
       "uid": "doxumentale-2026@festival-ics.example",
       "name": "Doxumentale",
       "country": "Germany",
-      "startDate": "2026-05-27",
-      "endDate": "2026-06-07",
+      "startDate": "2027-06-01",
+      "endDate": "undefined",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.doxumentale.de/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "mendocino-film-festival-2026@festival-ics.example",
       "name": "Mendocino Film Festival",
       "country": "US",
-      "startDate": "2026-05-28",
-      "endDate": "2026-05-31",
+      "startDate": "2027-06-03",
+      "endDate": "2027-06-06",
       "category": "festival",
       "status": "confirmed",
       "website": "https://mendofilm.org/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "brooklyn-film-festival-2026@festival-ics.example",
@@ -1283,13 +1327,14 @@
       "uid": "nippon-connection-film-festival-2026@festival-ics.example",
       "name": "Nippon Connection Film Festival",
       "country": "Germany",
-      "startDate": "2026-06-02",
-      "endDate": "2026-06-07",
+      "startDate": "2027-06-08",
+      "endDate": "2027-06-13",
       "category": "festival",
       "status": "confirmed",
       "website": "https://nipponconnection.com/en/start/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "kashish-pride-film-festival-2026@festival-ics.example",
@@ -1307,13 +1352,14 @@
       "uid": "sydney-film-festival-2026@festival-ics.example",
       "name": "Sydney Film Festival",
       "country": "Australia",
-      "startDate": "2026-06-03",
-      "endDate": "2026-06-14",
+      "startDate": "2027-02-18",
+      "endDate": "2027-02-20",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.sff.org.au/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "tribeca-film-festival-2026@festival-ics.example",
@@ -1355,13 +1401,14 @@
       "uid": "seriencamp-festival-conference-2026@festival-ics.example",
       "name": "Seriencamp Festival & Conference",
       "country": "Germany",
-      "startDate": "2026-06-09",
-      "endDate": "2026-06-11",
+      "startDate": "2027-06-08",
+      "endDate": "2027-06-10",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.seriencamp.tv/en/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "ecam-forum-2026@festival-ics.example",
@@ -1379,13 +1426,14 @@
       "uid": "lighthouse-international-film-festival-2026@festival-ics.example",
       "name": "Lighthouse International Film Festival",
       "country": "US",
-      "startDate": "2026-06-10",
-      "endDate": "2026-06-14",
+      "startDate": "2027-06-09",
+      "endDate": "2027-06-13",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.lighthouseff.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "provincetown-film-festival-2026@festival-ics.example",
@@ -1403,37 +1451,40 @@
       "uid": "sheffield-docfest-2026@festival-ics.example",
       "name": "Sheffield DocFest",
       "country": "UK",
-      "startDate": "2026-06-10",
-      "endDate": "2026-06-15",
+      "startDate": "2027-06-09",
+      "endDate": "2027-06-14",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.sheffdocfest.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "dc-dox-film-festival-2026@festival-ics.example",
       "name": "DC/DOX Film Festival",
       "country": "US",
-      "startDate": "2026-06-11",
-      "endDate": "2026-06-14",
+      "startDate": "2027-06-10",
+      "endDate": "2027-06-13",
       "category": "festival",
       "status": "confirmed",
       "website": "https://dcdoxfest.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "monte-carlo-television-festival-2026@festival-ics.example",
       "name": "Monte Carlo Television Festival",
       "country": "Monaco",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-16",
+      "startDate": "2027-06-11",
+      "endDate": "2027-06-15",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.tvfestival.com/en",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "shanghai-international-film-festival-2026@festival-ics.example",
@@ -1523,13 +1574,14 @@
       "uid": "nantucket-film-festival-2026@festival-ics.example",
       "name": "Nantucket Film Festival",
       "country": "US",
-      "startDate": "2026-06-17",
-      "endDate": "2026-06-22",
+      "startDate": "2027-06-16",
+      "endDate": "2027-06-21",
       "category": "festival",
       "status": "confirmed",
-      "website": "https://nantucketfilmfestival.org/nff2026/",
+      "website": "https://nantucketfilmfestival.org/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "raindance-film-festival-2026@festival-ics.example",
@@ -1559,25 +1611,27 @@
       "uid": "san-francisco-international-lgbtq-film-festival-2026@festival-ics.example",
       "name": "San Francisco International LGBTQ+ Film Festival",
       "country": "US",
-      "startDate": "2026-06-17",
-      "endDate": "2026-06-27",
+      "startDate": "2027-06-16",
+      "endDate": "2027-06-26",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.frameline.org/festival",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "silvervox-film-music-festival-2026@festival-ics.example",
       "name": "SilverVox Film & Music Festival",
       "country": "US",
-      "startDate": "2026-06-18",
-      "endDate": "2026-06-21",
+      "startDate": "2027-05-06",
+      "endDate": "2027-05-09",
       "category": "festival",
       "status": "confirmed",
       "website": "https://silvervoxfest.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "sons-of-the-desert-convention-laurel-and-hardy-society-2026@festival-ics.example",
@@ -1618,13 +1672,14 @@
       "uid": "cineeurope-2026@festival-ics.example",
       "name": "CineEurope",
       "country": "Spain",
-      "startDate": "2026-06-22",
-      "endDate": "2026-06-25",
+      "startDate": "2027-06-21",
+      "endDate": "2027-06-24",
       "category": "festival",
       "status": "confirmed",
       "website": "https://filmexpos.com/cineeurope/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "australia-new-zealand-june-21-july-26-mifa-2026@festival-ics.example",
@@ -1677,13 +1732,14 @@
       "uid": "filmfest-munich-2026@festival-ics.example",
       "name": "FilmFest Munich",
       "country": "Germany",
-      "startDate": "2026-06-26",
-      "endDate": "2026-07-05",
+      "startDate": "2027-06-25",
+      "endDate": "2027-07-04",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.filmfest-muenchen.de/en/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "muslim-international-film-festival-2026@festival-ics.example",
@@ -1734,18 +1790,6 @@
       "notes": ""
     },
     {
-      "uid": "jerusalem-film-festival-2026@festival-ics.example",
-      "name": "Jerusalem Film Festival",
-      "country": "Israel",
-      "startDate": "2026-07-09",
-      "endDate": "2026-07-19",
-      "category": "festival",
-      "status": "confirmed",
-      "website": "https://jff.org.il/en",
-      "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
-    },
-    {
       "uid": "london-indian-film-festival-2026@festival-ics.example",
       "name": "London Indian Film Festival",
       "country": "UK",
@@ -1761,13 +1805,14 @@
       "uid": "walla-walla-movie-crush-2026@festival-ics.example",
       "name": "Walla Walla Movie Crush",
       "country": "US",
-      "startDate": "2026-07-10",
-      "endDate": "2026-07-12",
+      "startDate": "2027-07-09",
+      "endDate": "2027-07-11",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.themoviecrush.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "new-york-asian-film-festival-2026@festival-ics.example",
@@ -1785,13 +1830,14 @@
       "uid": "golden-apricot-international-film-festival-2026@festival-ics.example",
       "name": "Golden Apricot International Film Festival",
       "country": "Armenia",
-      "startDate": "2026-07-12",
-      "endDate": "2026-07-19",
+      "startDate": "2027-07-11",
+      "endDate": "2027-07-18",
       "category": "festival",
       "status": "confirmed",
       "website": "https://gaiff.am/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "boulder-environmental-nature-outdoors-film-festival-2026@festival-ics.example",
@@ -1809,13 +1855,14 @@
       "uid": "waco-independent-film-festival-2026@festival-ics.example",
       "name": "Waco Independent Film Festival",
       "country": "US",
-      "startDate": "2026-07-16",
-      "endDate": "2026-07-19",
+      "startDate": "2027-07-15",
+      "endDate": "2027-07-18",
       "category": "festival",
       "status": "confirmed",
       "website": "https://wacoindie.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "fantasia-international-film-festival-2026@festival-ics.example",
@@ -1857,13 +1904,14 @@
       "uid": "cinema-rediscovered-2026@festival-ics.example",
       "name": "Cinema Rediscovered",
       "country": "UK",
-      "startDate": "2026-07-22",
-      "endDate": "2026-07-26",
+      "startDate": "2027-07-20",
+      "endDate": "2027-07-25",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.watershed.co.uk/cinema-rediscovered",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "comic-con-2026@festival-ics.example",
@@ -1905,13 +1953,14 @@
       "uid": "woods-hole-film-festival-2026@festival-ics.example",
       "name": "Woods Hole Film Festival",
       "country": "US",
-      "startDate": "2026-07-25",
-      "endDate": "2026-08-01",
+      "startDate": "2027-07-31",
+      "endDate": "2027-08-07",
       "category": "festival",
       "status": "confirmed",
       "website": "https://woodsholefilmfestival.org/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "whanau-marama-new-zealand-international-film-festival-2026@festival-ics.example",
@@ -1941,25 +1990,27 @@
       "uid": "oak-cliff-film-festival-2026@festival-ics.example",
       "name": "Oak Cliff Film Festival",
       "country": "US",
-      "startDate": "2026-07-30",
-      "endDate": "2026-08-02",
+      "startDate": "2027-06-24",
+      "endDate": "2027-06-27",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.filmoakcliff.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "membrana-film-festival-2026@festival-ics.example",
       "name": "Membrana Film Festival",
       "country": "UK",
-      "startDate": "2026-08-01",
-      "endDate": "2026-08-02",
+      "startDate": "2027-08-01",
+      "endDate": "undefined",
       "category": "festival",
       "status": "confirmed",
       "website": "https://membranapictures.com/membrana-film-festival",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "locarno-film-festival-2026@festival-ics.example",
@@ -1977,13 +2028,14 @@
       "uid": "melbourne-international-film-festival-2026@festival-ics.example",
       "name": "Melbourne International Film Festival",
       "country": "Australia",
-      "startDate": "2026-08-06",
-      "endDate": "2026-08-23",
+      "startDate": "2027-08-05",
+      "endDate": "2027-08-22",
       "category": "festival",
       "status": "confirmed",
       "website": "https://miff.com.au/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "chichester-international-film-festival-2026@festival-ics.example",
@@ -1995,19 +2047,21 @@
       "status": "confirmed",
       "website": "https://chichesterfilmfestival.co.uk/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "festival-of-cinema-nyc-2026@festival-ics.example",
       "name": "Festival Of Cinema NYC",
       "country": "US",
-      "startDate": "2026-08-07",
-      "endDate": "2026-08-16",
+      "startDate": "2027-08-06",
+      "endDate": "2027-08-15",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.festivalofcinemanyc.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "martha-s-vineyard-african-american-film-festival-2026@festival-ics.example",
@@ -2071,13 +2125,14 @@
       "uid": "norwegian-international-film-festival-haugesund-2026@festival-ics.example",
       "name": "Norwegian International Film Festival Haugesund",
       "country": "Norway",
-      "startDate": "2026-08-22",
-      "endDate": "2026-08-28",
+      "startDate": "2027-08-21",
+      "endDate": "2027-08-27",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.filmfestivalen.no/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "september-venice-international-film-festival-2026@festival-ics.example",
@@ -2118,13 +2173,14 @@
       "uid": "martha-s-vineyard-international-film-festival-2026@festival-ics.example",
       "name": "Martha’s Vineyard International Film Festival",
       "country": "US",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-13",
+      "startDate": "2027-09-07",
+      "endDate": "2027-09-12",
       "category": "festival",
       "status": "confirmed",
       "website": "https://mvfilmsociety.com/festivals/marthas-vineyard-international-film-festival/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "dmz-international-documentary-film-festival-2026@festival-ics.example",
@@ -2166,13 +2222,14 @@
       "uid": "atlantic-international-film-festival-2026@festival-ics.example",
       "name": "Atlantic International Film Festival",
       "country": "Canada",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-23",
+      "startDate": "2027-09-15",
+      "endDate": "2027-09-22",
       "category": "festival",
       "status": "confirmed",
       "website": "https://atlanticfilmfestival.ca/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "boston-film-festival-2026@festival-ics.example",
@@ -2208,7 +2265,8 @@
       "status": "confirmed",
       "website": "https://hiff.fi/en/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "climate-film-festival-2026@festival-ics.example",
@@ -2333,13 +2391,14 @@
       "uid": "filmfest-hamburg-2026@festival-ics.example",
       "name": "Filmfest Hamburg",
       "country": "Germany",
-      "startDate": "2026-09-24",
-      "endDate": "2026-10-03",
+      "startDate": "2027-09-30",
+      "endDate": "2027-10-09",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.filmfesthamburg.de/en/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "reyjavik-international-film-festival-2026@festival-ics.example",
@@ -2357,13 +2416,14 @@
       "uid": "zurich-film-festival-2026@festival-ics.example",
       "name": "Zurich Film Festival",
       "country": "Switzerland",
-      "startDate": "2026-09-24",
-      "endDate": "2026-10-04",
+      "startDate": "2027-09-23",
+      "endDate": "2027-10-03",
       "category": "festival",
       "status": "confirmed",
       "website": "https://zff.com/en",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "new-york-film-festival-2026@festival-ics.example",
@@ -2524,13 +2584,14 @@
       "uid": "film-fest-gent-2026@festival-ics.example",
       "name": "Film Fest Gent",
       "country": "Belgium",
-      "startDate": "2026-10-07",
-      "endDate": "2026-10-18",
+      "startDate": "2027-10-06",
+      "endDate": "2027-10-17",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.filmfestival.be/en",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "leiden-international-film-festival-2026@festival-ics.example",
@@ -2655,13 +2716,14 @@
       "uid": "mipcom-2026@festival-ics.example",
       "name": "MIPCOM",
       "country": "France",
-      "startDate": "2026-10-12",
-      "endDate": "2026-10-15",
+      "startDate": "2027-10-18",
+      "endDate": "2027-10-21",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.mipcom.com/en-gb.html",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "adelaide-film-festival-2026@festival-ics.example",
@@ -2715,13 +2777,14 @@
       "uid": "santa-fe-international-film-festival-2026@festival-ics.example",
       "name": "Santa Fe International Film Festival",
       "country": "US",
-      "startDate": "2026-10-14",
-      "endDate": "2026-10-19",
+      "startDate": "2027-10-13",
+      "endDate": "2027-10-18",
       "category": "festival",
       "status": "confirmed",
       "website": "https://santafe.film/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "woodstock-film-festival-2026@festival-ics.example",
@@ -3324,7 +3387,7 @@
       "country": "South Korea",
       "status": "unknown",
       "month": 12,
-      "website": "https://www.daijong.com/",
+      "website": "https://daejong.or.kr/",
       "notes": "Typically held in December; exact dates vary annually."
     },
     {
@@ -3340,7 +3403,7 @@
       "name": "tvN10 Awards",
       "category": "award",
       "country": "South Korea",
-      "status": "unknown",
+      "status": "discontinued",
       "month": 10,
       "website": "http://tvn10festival.mnet.com/",
       "notes": "One-time 10th anniversary event held in October 2016."
@@ -3421,7 +3484,7 @@
       "name": "Gold Awards",
       "category": "award",
       "country": "India",
-      "status": "unknown",
+      "status": "discontinued",
       "month": 10,
       "website": "https://www.boroplusgoldawards.com/",
       "notes": "Irregular schedule, most frequently organized in October/November."
@@ -3920,12 +3983,13 @@
       "name": "Japanese Film Festival Nippon Connection",
       "category": "festival",
       "country": "Germany",
-      "startDate": "2026-06-02",
-      "endDate": "2026-06-07",
+      "startDate": "2027-06-08",
+      "endDate": "2027-06-13",
       "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "rawText": "2- 7, 2026 – Japanese Film Festival Nippon Connection | Frankfurt, Germany",
       "website": "https://nipponconnection.com/en/start/",
-      "uid": "68b55925-854d-433f-b4b3-9029c04d3460"
+      "uid": "68b55925-854d-433f-b4b3-9029c04d3460",
+      "checked": true
     },
     {
       "name": "Yubari International Fantastic Film Festival",
@@ -3964,12 +4028,13 @@
       "name": "Changing Climate, Changing Lives Film Festival",
       "category": "festival",
       "country": "Thailand",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-21",
+      "startDate": "2027-06-16",
+      "endDate": "2027-06-20",
       "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "rawText": "12 – 21, 2026 – Changing Climate, Changing Lives Film Festival | Bangkok, Thailand",
       "website": "https://www.ccclfilmfestival.com/en",
-      "uid": "f4f021fc-a24b-43ec-8cb1-bc8377ae6ac9"
+      "uid": "f4f021fc-a24b-43ec-8cb1-bc8377ae6ac9",
+      "checked": true
     },
     {
       "name": "Japan Film Fest Hamburg",
@@ -5077,7 +5142,11 @@
       "status": "unknown",
       "month": 4,
       "website": "https://www.realitytelevisionawards.com/",
-      "notes": "13th Annual ARTAS scheduled for April 2027 following public voting ending Feb 2027."
+      "notes": "13th Annual ARTAS scheduled for April 2027 following public voting ending Feb 2027.",
+      "startDate": "2027-04-12",
+      "endDate": "undefined",
+      "checked": true,
+      "uid": "d701bf6d-4de6-49cf-b1e0-55e920368d8f"
     },
     {
       "name": "Annie Awards",
@@ -5141,11 +5210,12 @@
       "name": "Golden Globe Awards",
       "category": "award",
       "country": "United States",
-      "startDate": "2026-01-11",
-      "endDate": "2026-01-11",
+      "startDate": "2027-01-10",
+      "endDate": "2027-01-10",
       "website": "https://goldenglobes.com/",
       "notes": "83rd Golden Globe Awards held at The Beverly Hilton.",
-      "uid": "763228e4-42c9-467f-a2b4-27ac59c0b1e5"
+      "uid": "763228e4-42c9-467f-a2b4-27ac59c0b1e5",
+      "checked": true
     },
     {
       "name": "Humanitas Prize",
@@ -5455,11 +5525,12 @@
       "name": "Cartagena Film Festival ",
       "category": "festival",
       "country": "Colombia",
-      "startDate": "2026-03-14",
-      "endDate": "2026-03-19",
+      "startDate": "2027-04-06",
+      "endDate": "2027-04-11",
       "website": "https://ficcifestival.com/",
       "notes": "42nd India Catalina Awards held at Plaza de la Aduana in Cartagena during FICCI.",
-      "uid": "87f15ed2-a776-46d9-bf21-991c6e66354d"
+      "uid": "87f15ed2-a776-46d9-bf21-991c6e66354d",
+      "checked": true
     },
     {
       "name": "Premios Nuestra Tierra",
@@ -5521,7 +5592,7 @@
       "startDate": "2026-01-17",
       "endDate": "2026-01-17",
       "website": "https://www.europeanfilmawards.eu/",
-      "uid": "366a795c-9db8-4577-8ab0-161d625e483e"
+      "uid": "7a82a67a-c6ad-47ee-9a9b-355bfc5e3652"
     },
     {
       "name": "Prix Europa",
@@ -5571,11 +5642,12 @@
       "name": "FIPA Awards (FIPADOC)",
       "country": "France",
       "category": "award",
-      "startDate": "2026-01-23",
-      "endDate": "2026-01-31",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-30",
       "website": "https://www.fipadoc.com/",
       "notes": "International Audiovisual Festival focused on documentary and non-fiction films in Biarritz.",
-      "uid": "62e7066e-5574-4443-896e-5d8fdf25fc73"
+      "uid": "62e7066e-5574-4443-896e-5d8fdf25fc73",
+      "checked": true
     },
     {
       "name": "Jules Verne Award",
@@ -6091,11 +6163,12 @@
       "name": "National Television Awards (NTAs)",
       "category": "award",
       "country": "United Kingdom",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-08",
+      "startDate": "2027-09-08",
+      "endDate": "2027-09-08",
       "website": "https://www.nationaltvawards.com/",
       "notes": "30th National Television Awards held live at The O2 Arena, London.",
-      "uid": "5cdd474c-e18a-4fb7-9db4-2781bfb132ab"
+      "uid": "5cdd474c-e18a-4fb7-9db4-2781bfb132ab",
+      "checked": true
     },
     {
       "name": "Nickelodeon UK Kids' Choice Awards",

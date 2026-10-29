@@ -30,10 +30,10 @@ export const CardDisplay = ({
 }: CardDisplayProps) => {
   return (
     <a href={`/${category}`}>
-      <Card className="group w-full hover:bg-primary hover:text-white cursor-pointer">
+      <Card className="group w-full hover:bg-primary hover:text-white cursor-pointer bg-gray-100 transition-colors duration-300 ease-in-out">
         <CardHeader>
           <CardTitle>{cardTitle}</CardTitle>
-          <CardDescription className="group-hover:text-white">
+          <CardDescription className="group-hover:text-white transition-colors duration-300 ease-in-ou">
             {cardDescription}
           </CardDescription>
         </CardHeader>

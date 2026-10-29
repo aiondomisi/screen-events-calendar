@@ -133,3 +133,12 @@
 a {
   color: oklch(0.609 0.126 221.723);
 }
+
+body {
+  background: #adbcc470;
+}
+
+.my-calendar {
+  --fc-monarch-background: transparent;
+  --fc-monarch-border: #00000020;
+}
