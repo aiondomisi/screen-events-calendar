@@ -1,14 +1,14 @@
 {
-	"pid": 63033,
+	"pid": 18154,
 	"port": 4321,
 	"url": "http://localhost:4321",
 	"urls": {
 		"local": [
-			"http://localhost:4321/"
+			"http://localhost:4321/screen-events-calendar/"
 		],
 		"network": [],
 		"networkInterfaceNames": []
 	},
 	"background": false,
-	"startedAt": "2026-10-29T17:53:19.834Z"
+	"startedAt": "2026-10-30T01:51:09.463Z"
 }

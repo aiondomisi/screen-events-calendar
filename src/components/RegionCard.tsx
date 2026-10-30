@@ -8,8 +8,8 @@ type RegionCardProps = {
 };
 
 const RegionCard = ({ title }: RegionCardProps) => {
-  const webCalLink = `webcal://aiondomisi.github.io/screen-events-calendar/${title}.ics`;
-  const link = `https://aiondomisi.github.io/screen-events-calendar/${title}.ics`;
+  const webCalLink = `webcal://aiondomisi.github.io/${import.meta.env.BASE_URL}/ics/${title}.ics`;
+  const link = `${import.meta.env.SITE}${import.meta.env.BASE_URL}/ics/${title}.ics`;
   const renameTitle =
     title === "festivals" || title === "awards"
       ? `All ${capitalizeWords(title)}`

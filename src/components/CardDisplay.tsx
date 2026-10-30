@@ -29,7 +29,7 @@ export const CardDisplay = ({
   category,
 }: CardDisplayProps) => {
   return (
-    <a href={`/${category}`}>
+    <a href={`${import.meta.env.BASE_URL}/${category}`}>
       <Card className="group w-full hover:bg-primary hover:text-white cursor-pointer bg-gray-100 transition-colors duration-300 ease-in-out">
         <CardHeader>
           <CardTitle>{cardTitle}</CardTitle>

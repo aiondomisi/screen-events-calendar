@@ -7,7 +7,7 @@ import tailwindcss from "@tailwindcss/vite";
 // https://astro.build/config
 export default defineConfig({
   site: "https://aiondomisi.github.io",
-  base: "/screen-events-calendar/",
+  base: "/screen-events-calendar",
   integrations: [react()],
   vite: {
     plugins: [tailwindcss()],

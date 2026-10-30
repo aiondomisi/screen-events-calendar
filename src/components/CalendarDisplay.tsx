@@ -68,6 +68,9 @@ export function CalendarDisplay() {
         // datesSet={() => setReady(true)}
         dayMaxEventRows={true}
         colorScheme="light"
+        eventDidMount={(info) => {
+          info.el.style.cursor = "pointer";
+        }}
         events={eventDisplay}
         plugins={[
           themePlugin,
