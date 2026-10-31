@@ -68,8 +68,20 @@ export function CalendarDisplay() {
         // datesSet={() => setReady(true)}
         dayMaxEventRows={true}
         colorScheme="light"
-        eventDidMount={(info) => {
-          info.el.style.cursor = "pointer";
+        // eventDidMount={(info) => {
+        //   info.el.style.cursor = "pointer";
+        // }}
+        eventClass="cursor-pointer"
+        rowEventClass="cursor-pointer"
+        toolbarClass="flex-wrap gap-2"
+        toolbarTitleClass="text-lg sm:text-2xl"
+        views={{
+          list: {
+            listItemEventClass: "cursor-pointer",
+            // hides "All-day" on mobile only
+            listItemEventTimeClass: "max-sm:hidden",
+            listItemEventTitleClass: "min-w-0 whitespace-normal break-words",
+          },
         }}
         events={eventDisplay}
         plugins={[
