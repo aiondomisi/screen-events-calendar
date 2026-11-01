@@ -736,25 +736,27 @@
       "uid": "cleveland-international-film-festival-2026@festival-ics.example",
       "name": "Cleveland International Film Festival",
       "country": "US",
-      "startDate": "2026-04-09",
-      "endDate": "2026-04-18",
+      "startDate": "2027-04-01",
+      "endDate": "undefined",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.clevelandfilm.org/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "istanbul-film-festival-2026@festival-ics.example",
       "name": "Istanbul Film Festival",
       "country": "Turkey",
-      "startDate": "2026-04-09",
-      "endDate": "2026-04-19",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-18",
       "category": "festival",
       "status": "confirmed",
       "website": "https://film.iksv.org/en",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "miami-film-festival-2026@festival-ics.example",
@@ -1648,13 +1650,14 @@
       "uid": "annecy-international-animation-film-festival-2026@festival-ics.example",
       "name": "Annecy International Animation Film Festival",
       "country": "France",
-      "startDate": "2026-06-21",
-      "endDate": "2026-06-27",
+      "startDate": "2026-10-01",
+      "endDate": "2027-05-01",
       "category": "festival",
       "status": "confirmed",
       "website": "https://www.screendaily.com/news/annecy-film-festival-unveils-2026-winners/5218099.article",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "mediterrane-film-festival-2026@festival-ics.example",
@@ -2355,13 +2358,14 @@
       "uid": "calabasas-film-festival-2026@festival-ics.example",
       "name": "Calabasas Film Festival",
       "country": "US",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-27",
+      "startDate": "2027-09-01",
+      "endDate": "undefined",
       "category": "festival",
       "status": "confirmed",
       "website": "https://calabasasfilmfestival.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "finnish-film-affair-2026@festival-ics.example",
@@ -3065,13 +3069,14 @@
       "uid": "tiffcom-2026@festival-ics.example",
       "name": "TIFFCOM",
       "country": "Japan",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-30",
+      "startDate": "2027-03-01",
+      "endDate": "undefined",
       "category": "festival",
       "status": "confirmed",
       "website": "https://tiffcom.jp/en/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
-      "notes": ""
+      "notes": "",
+      "checked": true
     },
     {
       "uid": "austin-film-festival-2026@festival-ics.example",
@@ -5185,7 +5190,10 @@
       "status": "unknown",
       "month": 3,
       "website": "https://www.humanesociety.org/",
-      "notes": "Presented by the Humane Society of the United States; historically held in March."
+      "notes": "Presented by the Humane Society of the United States; historically held in March.",
+      "startDate": "2027-02-01",
+      "endDate": "undefined",
+      "checked": true
     },
     {
       "name": "Global TV Demand Awards",
@@ -5200,11 +5208,12 @@
       "name": "GLAAD Media Awards",
       "category": "award",
       "country": "United States",
-      "startDate": "2026-03-05",
-      "endDate": "2026-03-05",
+      "startDate": "2027-03-01",
+      "endDate": "undefined",
       "website": "https://glaad.org/mediaawards",
       "notes": "37th GLAAD Media Awards held in Los Angeles.",
-      "uid": "776afe19-0dbe-4a9b-8198-2e42d8842173"
+      "uid": "776afe19-0dbe-4a9b-8198-2e42d8842173",
+      "checked": true
     },
     {
       "name": "Golden Globe Awards",
@@ -5332,11 +5341,12 @@
       "name": "Canadian Screen Awards",
       "category": "award",
       "country": "Canada",
-      "startDate": "2026-05-27",
-      "endDate": "2026-05-31",
+      "startDate": "2027-06-21",
+      "endDate": "undefined",
       "website": "https://www.academy.ca/canadian-screen-awards/rules-eligibility/",
       "notes": "14th Canadian Screen Awards hosted at the CBC Broadcast Centre in Toronto.",
-      "uid": "f4d6240a-12a0-4745-9665-0630bc92f93d"
+      "uid": "f4d6240a-12a0-4745-9665-0630bc92f93d",
+      "checked": true
     },
     {
       "name": "CAFTCAD Awards",
@@ -5589,10 +5599,11 @@
     {
       "name": "European Film Awards",
       "country": "Pan-European",
-      "startDate": "2026-01-17",
-      "endDate": "2026-01-17",
+      "startDate": "2027-01-01",
+      "endDate": "undefined",
       "website": "https://www.europeanfilmawards.eu/",
-      "uid": "7a82a67a-c6ad-47ee-9a9b-355bfc5e3652"
+      "uid": "7a82a67a-c6ad-47ee-9a9b-355bfc5e3652",
+      "checked": true
     },
     {
       "name": "Prix Europa",
